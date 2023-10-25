@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Science Notes/Ultimate Notes.md",
+                "file": "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb2b0a186a530517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Science Notes/10.2 Structures II.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Science Notes/Ultimate Notes.md",
+                "file": "Computer Science/Computer Science Notes/10.2 Structures II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Science Notes/Ultimate Notes.md",
+                "file": "Computer Science/Computer Science Notes/10.2 Structures II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Science Notes/Ultimate Notes.md"
+                "file": "Computer Science/Computer Science Notes/10.2 Structures II.md"
               }
             }
           },
@@ -167,10 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d480421cba1edf06",
+  "active": "fb2b0a186a530517",
   "lastOpenFiles": [
-    "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",
     "Computer Science/Computer Science Notes/Ultimate Notes.md",
+    "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",
+    "Computer Science/Computer Science Notes/10.2 Structures II.md",
     "Computer Science/Computer Science Notes/Untitled",
     "Linear Algebra HW/HW2.8.pdf",
     "Computer Science/Computer Science Notes",
