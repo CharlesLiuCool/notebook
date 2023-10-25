@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d480421cba1edf06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Science Notes/Ultimate Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,17 +167,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaffc4925a87ff86",
+  "active": "d480421cba1edf06",
   "lastOpenFiles": [
-    "Linear Algebra HW/HW2.8.pdf",
+    "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",
     "Computer Science/Computer Science Notes/Ultimate Notes.md",
+    "Computer Science/Computer Science Notes/Untitled",
+    "Linear Algebra HW/HW2.8.pdf",
     "Computer Science/Computer Science Notes",
     "Linear Algebra HW/Computer Project 2.9.md",
     "Linear Algebra HW/Screen Shot 2023-10-24 at 8.54.30 PM 2.png",
     "Screen Shot 2023-10-24 at 8.54.30 PM 1.png",
     "Screen Shot 2023-10-24 at 8.54.30 PM.png",
     "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
-    "Linear Algebra/Linear Algebra/3.1 Introduction to Determinants.md",
-    "Untitled.md"
+    "Linear Algebra/Linear Algebra/3.1 Introduction to Determinants.md"
   ]
 }
