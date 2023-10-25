@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Science Notes/10.2.md",
+                "file": "Computer Science/Computer Science Notes/Ultimate Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Science Notes/10.2.md",
+                "file": "Computer Science/Computer Science Notes/Ultimate Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Science Notes/10.2.md",
+                "file": "Computer Science/Computer Science Notes/Ultimate Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Science Notes/10.2.md"
+                "file": "Computer Science/Computer Science Notes/Ultimate Notes.md"
               }
             }
           },
@@ -154,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "637362a875582894",
+  "active": "eaffc4925a87ff86",
   "lastOpenFiles": [
     "Linear Algebra HW/HW2.8.pdf",
-    "Computer Science/Computer Science Notes/10.2.md",
+    "Computer Science/Computer Science Notes/Ultimate Notes.md",
     "Computer Science/Computer Science Notes",
     "Linear Algebra HW/Computer Project 2.9.md",
     "Linear Algebra HW/Screen Shot 2023-10-24 at 8.54.30 PM 2.png",
