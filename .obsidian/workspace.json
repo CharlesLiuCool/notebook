@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Science Notes/10.2 Structures II.md",
+                "file": "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "489dec59a85c3480",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Science Notes/10.2 Structures II.md",
+                "file": "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Science Notes/10.2 Structures II.md",
+                "file": "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Science Notes/10.2 Structures II.md"
+                "file": "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md"
               }
             }
           },
@@ -183,6 +184,7 @@
   "lastOpenFiles": [
     "Computer Science/Computer Science Notes/Ultimate Notes.md",
     "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",
+    "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
     "Computer Science/Computer Science Notes/10.2 Structures II.md",
     "Computer Science/Computer Science Notes/Untitled",
     "Linear Algebra HW/HW2.8.pdf",
@@ -191,7 +193,6 @@
     "Linear Algebra HW/Screen Shot 2023-10-24 at 8.54.30 PM 2.png",
     "Screen Shot 2023-10-24 at 8.54.30 PM 1.png",
     "Screen Shot 2023-10-24 at 8.54.30 PM.png",
-    "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
     "Linear Algebra/Linear Algebra/3.1 Introduction to Determinants.md"
   ]
 }
