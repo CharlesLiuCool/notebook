@@ -108,28 +108,35 @@ ___
 
    **ii. (4 pts)** How many total unique diagonal measurements can we make? Explain (if you like, use the 2nd figure below and sketch the diagonal measurements only).
    
-   >The four corners can only go one direction (inwards)
-   >The sides excluding the corners can each go two directions diagonally (opposite from the side they are facing)
-  > All of the middle pixels can go any of the four directions diagonally
+   >There are two types of diagonals: *south-east*(down and to right) diagonals and *south-west*(down and to left) diagonals. Diagonals going north-east and north-west are repeats of the above types
+   >If we iterate by row, we can see the first row's left and right corners only have *one* downwards diagonal, whereas the others have *two* unique diagonals going down. This logic can be repeated for each proceeding row after until the last row.
+   >At the last row, both *south-east* and *south-west* diagonals are the same diagonal for *non-corner* elements, containing only the entry they start on, so the last row's non-corner elements only have *one* unique diagonal.
+
+This means: 
+>For every edge entry(except the non-corner elements in the first row), there is *one* unique diagonal, and for every other entry, there are *two* unique diagonals. 
    
-   Therefore, since there are $\large{4}$ corners, $\large{2 + 2 + 16 + 16 = 36}$ side pixels, and $\large{2 * 8 = 16}$ middle pixels,
+   Therefore, since there are $\large{4+4+9}$ edge entries(excluding the non-corner elements in the first row, and $\large{44 - 9 = 35}$ other pixels,
    
    We have a total of:
-   
-   $\large{4 * 1 + 36 * 2 + 16 * 4 = 4 + 72 + 64 = 140}$ measurements
+   $$\large{9 \times 1 + 35 \times 2 = \fbox{79} \text{ measurements}}$$
  
    **iii. (2 pts)** How many total measurements do we have (counting horizontal, vertical, and diagonal)?
    
    >There are $\large{11 + 4 = 15}$ measurements for horizontal / vertical
-   >There are $\large{140}$ diagonal measurements (solved previously)
+   >There are $\large{79}$ diagonal measurements (solved previously)
    >
-   Total: $\large{140 + 15 = 155}$ measurements
+   Total: $\large{15 + 79 = 94}$ measurements
    
 **iv. (4 pts)** Consider the coefficient matrix corresponding to the system of equations including the horizontal, vertical, and diagonal measurements. What would you expect the rank of the matrix to be? Explain.
->I expect the rank of the matrix to be 44 since there are 44 unknowns and so many equations, it is very likely that each unknown is determined, yielding a unique solution, and thus each column is a pivot column. Since there are 44 columns, I expect the rank to be 44.
+>I expect the rank of the matrix to be $\large{\fbox{\color{cyan}44}}$ since there are 44 unknowns and so many equations (*79*), it is very likely that each unknown is determined, yielding a unique solution, and thus each column is a pivot column. Since there are 44 columns, I expect the rank to be 44.
 
-**v. (4 pts)** What is the rank and nullity of the coefficient matrix C corresponding to the system of equations including the horizontal, vertical, and diagonal measurements? What is your conclusion about using catscan measurements to determine where there is skin versus bone? 
-Hint: The corresponding augment matrix is given by matrix D in the companion WORD document. You can copy D into Matlab. To get the coefficient matrix, type C=D(:,1:end−1). To find the rank of C, type rank(C).
+**v. (4 pts)** What is the rank and nullity of the coefficient matrix C corresponding to the system of equations including the horizontal, vertical, and diagonal measurements? What is your conclusion about using catscan measurements to determine where there is skin versus bone? Hint: The corresponding augmented matrix is given by matrix D in the companion WORD document. You can copy D into Matlab. To get the coefficient matrix, type `C=D(:,1:end−1)`. To find the rank of C, type `rank(C)`.
 
+$\large{\color{cyan}\text{rank}(C) = 44}$
+>$\large{\text{rank}(C) + \dim(\text{Nul}(C)) = \# \text{ of columns}}$
+$\large{\Rightarrow{44 + \dim(\text{Nul}(C)) = 44}}$
+$\large{\Rightarrow \dim(\text{Nul}(C)) = 0}$
+
+This means that cat-scans are very effective, as there are no free variables ($\large{\dim(\text{Nul}(C)) = 0}$), and all variables are determined ($\large{\text{rank}(C)}$ = # of columns). 
 
 ![[Screen Shot 2023-10-24 at 8.54.30 PM 2.png]]
