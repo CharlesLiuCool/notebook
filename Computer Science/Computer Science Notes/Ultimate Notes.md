@@ -12,6 +12,7 @@
 - `strcat()` replaces the + or operator
 - `strcmp()` replaces relational operator
 - `strtok()` replaces the next occurrence of a delimiter with the null character `'\0'`
+- `memset(row of 2-D array, value you want to set it to, length of the row);` often used to set values to null character
 - etc.
 
 `strtok(my_str, ',');` for example replaces the commas in the string to the null character
@@ -38,3 +39,4 @@ int main(void) {
 	return 0;
 }
 ```
+

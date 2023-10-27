@@ -137,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -155,17 +156,18 @@
   },
   "active": "e50161655509e322",
   "lastOpenFiles": [
-    "Computer Science/Computer Science Notes/10.2 Structures II.md",
+    "Linear Algebra HW/md Files/Computer Project 2.9.md",
     "Computer Science/Computer Science Notes/Ultimate Notes.md",
+    "Linear Algebra HW/md Files",
+    "Computer Science/Computer Science Notes/10.2 Structures II.md",
     "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",
     "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
     "Linear Algebra/Linear Algebra/3.1 Introduction to Determinants.md",
-    "Linear Algebra HW/Written HW 3.1.md",
-    "Linear Algebra HW/Computer Project 2.9.md",
-    "Computer Project 2.9.pdf",
+    "Linear Algebra HW/md Files/Written HW 3.1.md",
+    "Linear Algebra HW/Computer Project 2.9.pdf",
     "Untitled.canvas",
     "Linear Algebra HW/Screen Shot 2023-10-24 at 8.54.30 PM 2.png",
-    "Written HW 3.1.pdf",
+    "Linear Algebra HW/Written HW 3.1.pdf",
     "Linear Algebra HW/Computer Project Export 2.9.md",
     "Linear Algebra HW/Computer Project 2.9.html",
     "Untitled",
