@@ -8,7 +8,7 @@ ___
 
 **1. (20 pts)** Recall Newton’s law of Cooling problem from written HW 1.2. We have 2 unknowns ($K$ and $q_r$), and 9 data points. The equation is:
 
-$$q = −K∆T + qr.  $$
+$$q = −K∆T + q_r.  $$
 Let us suppose that the data points $(∆T,q)$ are given by:
 
 $$\large{(3, 1.5)\;(3, 1.8)\;(3, 1.9)\;(7, 5.8)\;(7, 6.3)\;(7, 6.5)\;(14, 13.1) \;14.13.2)\;(14, 13.5)}.$$ 
@@ -26,7 +26,7 @@ ____________________________________________________________________________
 
 **(a)** Find a basis for the Nul($\large{A}$) and Col($\large{A}$).
 
->Nul($\large{A}$) is the $\large{\color{cyan}\text{set of all solutions to Ax = 0}}$.
+>Nul($\large{A}$) is the *set of all solutions to $\large{Ax = 0}$.*
 
 Since the reduced echelon form of the augmented matrix of $\large{Ax = 0}$ is:
 $$\large{\begin{bmatrix} 1 & 0 & \bigm | & 0\\ 0 & 1 & \bigm | & 0\\ 0 & 0 & \bigm | & 0\\ 0 & 0 & \bigm | & 0\\ 0 & 0 & \bigm | & 0\\ 0 & 0 & \bigm | & 0 \\ 0 & 0 & \bigm | & 0\\ 0 & 0 & \bigm | & 0\\ 0 & 0 & \bigm | & 0\end{bmatrix}}$$
@@ -37,35 +37,35 @@ and there are NO free variables.
 
 This means the only solution to $\large{Ax = 0}$ is 
 $$\large{x = \begin{bmatrix} x_1 \\ x_2\end{bmatrix} = \begin{bmatrix} \;0\; \\ 0\end{bmatrix}}$$
-and thus the $\large{\color{cyan}\text{basis of Nul(\large{A})}}$ is the empty set
+and thus the basis of Nul($\large{A}$) is the empty set
 
 $$\Huge{\begin{Bmatrix}& \end{Bmatrix}}$$
 
->Col($\large{A}$) is the $\color{cyan}\large{\text{set of all vectors spanned by the column vectors of A}}$.
+>Col($\large{A}$) is the *set of all vectors spanned by the column vectors of A*.
 >$\Rightarrow$ A possible basis of Col($\large{A}$) is the set containing the pivot columns of $\large{A}$
 
 $$\large{\begin{bmatrix} \fbox{1} & 0\\ 0 & \fbox{1} \\ 0 & 0 \\ 0 & 0 \\ 0 & 0 \\ 0 & 0 \\ 0 & 0 \\ 0 & 0 \\ 0 & 0 \end{bmatrix}}$$
 
-Since each column is a pivot column, the $\large{\color{cyan}\text{basis for Col(\large{A}}})$ is
+Since each column is a pivot column, the basis for Col($\large{A}$) is
 
 $$\large{\begin{Bmatrix}\begin{bmatrix} -3 \\ -3 \\ -3 \\ -7 \\ -7 \\ -7 \\ -14 \\ -14 \\ -14\end{bmatrix},\begin{bmatrix} 1 \\ 1 \\ 1 \\ 1 \\ 1 \\ 1 \\ 1 \\ 1  \\ 1 \end{bmatrix}\end{Bmatrix}}$$
 
 ___
 
 **(b) (5 pts)** Determine the dimension of Nul($\large{A}$) and the dimension of the Col($\large{A}$).
->Since there are 0 elements in Nul($\large{A}$), the $\large{\color{cyan}\text{dimension of Nul(\large{A}) is }\fbox{0}}$.
->Since there are 2 elements in Col($\large{A}$), the $\large{\color{cyan}\text{dimension of Col(\large{A}) is }\fbox{2}}$.
+>Since there are 0 elements in Nul($\large{A}$), the $\large{\text{Nul}(A)}$ is $\large{\fbox{0}}$
+>Since there are 2 elements in Col($\large{A}$), the dimension of $\large{\text{Col}(A)}$ is $\large{\fbox{2}}$
 
 ___
 
 **(c) (5 pts)** How many solutions are there to Ax = 0? Explain.
-> There is only $\large{\text{\color{cyan}one solution}}$, since the only the trivial solution $\large{x = 0}$ satisfies the equation.
+> There is only *one solution, since the only the trivial solution $\large{x = 0}$ satisfies the equation.
 
 ___
 
 **(d)  (5 pts)** How many possible solutions are there to Ax = b, where b is the right-hand side represented by the augmented matrix? Explain.
 
-There are $\large{\text{\color{cyan}NO solutions}}$ to Ax = b.
+There are *NO solutions* $ to Ax = b.
 The reduced echelon form of the augmented matrix \[A | b] is below
 $$\large{\begin{bmatrix} \fbox{1} & 0 & \bigm | & 0 \\ 0 & \fbox{1} & \bigm | & 0 \\ 0 & 0 & \bigm | & \fbox{1} \\ 0 & 0 & \bigm | & 0 \\ 0 & 0 & \bigm | & 0 \\ 0 & 0 & \bigm | & 0 \\ 0 & 0 & \bigm | & 0 \\ 0 & 0 & \bigm | & 0 \\ 0 & 0 & \bigm | & 0 \end{bmatrix}}$$
 
@@ -75,7 +75,7 @@ ___
 
 **(e)  (5 pts)** Will collecting more data points increase the number of solutions? Explain.
 
-$\color{cyan}\large{\text{No}}$. Collecting more data points cannot change the fact that the right-most column is a pivot column, it only appends more rows to our existing augmented matrix. Since the right-most column is still a pivot column, the system is still inconsistent.
+*No*. Collecting more data points cannot change the fact that the right-most column is a pivot column, it only appends more rows to our existing augmented matrix. Since the right-most column is still a pivot column, the system is still inconsistent.
 
 ___
 
@@ -90,12 +90,12 @@ ___
    
    **ii. (4 pts)** The augmented matrix for this problem is given by matrix B = \[A | b] in the companion WORD document. What is the dimension of the column space of the coefficient matrix A? What is the dimension of the null space of A?  (Hint: In Matlab, after copying augmented matrix B, we can obtain the coefficient matrix by typing A = B(:, 1 : end−1). To find the rank of a matrix A, type rank(A).
    From MatLab, after inputting matrix $\large{B}$, finding the coefficient matrix $\large{A}$, we see that
-   $$\large{\text{rank(A) = \color{cyan}dim(Col(A)) = }\color{cyan}\fbox{14}}$$
+   $$\large{\text{rank(A) = dim(Col(A)) = } \fbox{14}}$$
    by the Rank Theorem, we know that 
    $$\large{\text{dim(Nul(A)) + dim(Col(A)) = \# of columns}}$$
    $$\large{\Rightarrow \text {dim(Nul(A)) + 14 = 44}}$$
    
-   This means $\large{\color{cyan}\text{dim(Nul({A})) = 44 - 14 = }\fbox{30}}$
+   This means $\large{\text{dim(Nul({A})) = 44 - 14 = }\fbox{30}}$
 
    **iii. (2 pts)** Explain why we want the dimension of the null space of A to be zero.
    If the dimension of the null space of A were zero, then by the Rank Theorem, the dimension of Col(A) has to be equal to the amount of columns, which means every column in the matrix A is a pivot column. This means that Ax = b has a unique solution if B = \[A | b] doesn't have a pivot in the right-most column, and we can find the 44 variables $\large{x_1}$ to $\large{x_{44}}$
@@ -109,30 +109,30 @@ ___
    **ii. (4 pts)** How many total unique diagonal measurements can we make? Explain (if you like, use the 2nd figure below and sketch the diagonal measurements only).
    
    >There are two types of diagonals: *south-east*(down and to right) diagonals and *south-west*(down and to left) diagonals. Diagonals going north-east and north-west are repeats of the above types
-   >If we iterate by row, we can see the first row's left and right corners only have *one* downwards diagonal, whereas the others have *two* unique diagonals going down. This logic can be repeated for each proceeding row after until the last row.
-   >At the last row, both *south-east* and *south-west* diagonals are the same diagonal for *non-corner* elements, containing only the entry they start on, so the last row's non-corner elements only have *one* unique diagonal.
+   >The ray must start from the outside, so if we look at the *non-corner* elements of the first row, we can see that each entry has *two* unique diagonals
+   >Rays starting from the left and right edge entries each have only *one* unique diagonal, excluding the previously counted diagonals
 
 This means: 
->For every edge entry(except the non-corner elements in the first row), there is *one* unique diagonal, and for every other entry, there are *two* unique diagonals. 
+>For every left and right edge entry, (there is *one* unique diagonal, and for every *non-corner* entry in the first row, there are *two* unique diagonals. 
    
-   Therefore, since there are $\large{4+4+9}$ edge entries(excluding the non-corner elements in the first row, and $\large{44 - 9 = 35}$ other pixels,
+   Therefore, since there are $\large{4+4 = 8}$ left and right edge entries, and $\large{9}$ *non-corner* elements in the first row,
    
    We have a total of:
-   $$\large{9 \times 1 + 35 \times 2 = \fbox{79} \text{ measurements}}$$
+   $$\large{8 \times 1 + 9 \times 2 = \fbox{26} \text{ measurements}}$$
  
    **iii. (2 pts)** How many total measurements do we have (counting horizontal, vertical, and diagonal)?
    
    >There are $\large{11 + 4 = 15}$ measurements for horizontal / vertical
-   >There are $\large{79}$ diagonal measurements (solved previously)
+   >There are $\large{26}$ diagonal measurements (solved previously)
    >
    Total: $\large{15 + 79 = 94}$ measurements
    
 **iv. (4 pts)** Consider the coefficient matrix corresponding to the system of equations including the horizontal, vertical, and diagonal measurements. What would you expect the rank of the matrix to be? Explain.
->I expect the rank of the matrix to be $\large{\fbox{\color{cyan}44}}$ since there are 44 unknowns and so many equations (*79*), it is very likely that each unknown is determined, yielding a unique solution, and thus each column is a pivot column. Since there are 44 columns, I expect the rank to be 44.
+>I expect the rank of the matrix to be $\large{\fbox{44}}$ since there are 44 unknowns and so many equations (*79*), it is very likely that each unknown is determined, yielding a unique solution, and thus each column is a pivot column. Since there are 44 columns, I expect the rank to be 44.
 
 **v. (4 pts)** What is the rank and nullity of the coefficient matrix C corresponding to the system of equations including the horizontal, vertical, and diagonal measurements? What is your conclusion about using catscan measurements to determine where there is skin versus bone? Hint: The corresponding augmented matrix is given by matrix D in the companion WORD document. You can copy D into Matlab. To get the coefficient matrix, type `C=D(:,1:end−1)`. To find the rank of C, type `rank(C)`.
 
-$\large{\color{cyan}\text{rank}(C) = 44}$
+$\large{\text{rank}(C) = 44}$
 >$\large{\text{rank}(C) + \dim(\text{Nul}(C)) = \# \text{ of columns}}$
 $\large{\Rightarrow{44 + \dim(\text{Nul}(C)) = 44}}$
 $\large{\Rightarrow \dim(\text{Nul}(C)) = 0}$

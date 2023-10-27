@@ -19,3 +19,22 @@
 >NOTE: If delimiter does not exist in the string, it will go to the null character, stop, and return first address of the string
 
 If we supply only one parameter in a 2-D array, it gives the starting point of the unknown parameter.
+#### Structs
+
+>C supports another kind of user-defined type: the `struct`. 
+>`struct` are a way to combine multiple variables into a single "package"(also known as *encapsulation*)
+>Sometimes referred to as *aggregate*, where all variables are under the same name
+
+```c
+struct student_record {
+	int id;
+	char lastname[30];
+	char firstname[30];
+	double gpa;
+}```
+```c
+int main(void) {
+	struct student_record student1;
+	return 0;
+}
+```

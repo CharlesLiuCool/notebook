@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "865a568d0d7a614b",
+        "id": "1ffa2186920b35d0",
         "type": "tabs",
         "children": [
           {
-            "id": "087655b50699d2ae",
+            "id": "e50161655509e322",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra HW/Written HW 3.1.md",
-                "mode": "preview",
+                "file": "Computer Science/Computer Science Notes/Ultimate Notes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra HW/Written HW 3.1.md",
+                "file": "Computer Science/Computer Science Notes/Ultimate Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Algebra HW/Written HW 3.1.md",
+                "file": "Computer Science/Computer Science Notes/Ultimate Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra HW/Written HW 3.1.md"
+                "file": "Computer Science/Computer Science Notes/Ultimate Notes.md"
               }
             }
           },
@@ -137,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,22 +153,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "087655b50699d2ae",
+  "active": "e50161655509e322",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Linear Algebra HW/Computer Project 2.9.md",
-    "Linear Algebra HW/Written HW 3.1.md",
-    "Untitled",
-    "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
-    "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",
-    "Computer Science/Computer Science Notes/Ultimate Notes.md",
     "Computer Science/Computer Science Notes/10.2 Structures II.md",
+    "Computer Science/Computer Science Notes/Ultimate Notes.md",
+    "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",
+    "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
+    "Linear Algebra/Linear Algebra/3.1 Introduction to Determinants.md",
+    "Linear Algebra HW/Written HW 3.1.md",
+    "Linear Algebra HW/Computer Project 2.9.md",
+    "Computer Project 2.9.pdf",
+    "Untitled.canvas",
+    "Linear Algebra HW/Screen Shot 2023-10-24 at 8.54.30 PM 2.png",
+    "Written HW 3.1.pdf",
+    "Linear Algebra HW/Computer Project Export 2.9.md",
+    "Linear Algebra HW/Computer Project 2.9.html",
+    "Untitled",
     "Computer Science/Computer Science Notes/Untitled",
     "Linear Algebra HW/HW2.8.pdf",
     "Computer Science/Computer Science Notes",
-    "Linear Algebra HW/Screen Shot 2023-10-24 at 8.54.30 PM 2.png",
     "Screen Shot 2023-10-24 at 8.54.30 PM 1.png",
-    "Screen Shot 2023-10-24 at 8.54.30 PM.png",
-    "Linear Algebra/Linear Algebra/3.1 Introduction to Determinants.md"
+    "Screen Shot 2023-10-24 at 8.54.30 PM.png"
   ]
 }
