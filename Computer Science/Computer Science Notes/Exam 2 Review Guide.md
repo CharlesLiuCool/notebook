@@ -60,6 +60,8 @@ ___
 	- A variable that contains the address of another variable  
 	- Used as output parameters which send back results from functions  
 - **Distinguish between output and input parameters**  
+	- input is what you give the algorithm, output is what the algorithm gives you after you give it an input
+	- i.e. `int out = func(in)`, `in` is the input parameter, `out` is the output parameter
 - **Declare and apply pointers**  
 - **Distinguish between the multiple usages of the * operator with pointers**  
 	- `int *ptr` – indicates the declaration of a pointer  
@@ -77,29 +79,42 @@ ____
 - **Identify the integer types in C**  
 	- short, unsigned short, int, unsigned, long, unsigned long  
 		- signed indicates negative and positive numbers are supported, this is the default type  
+		- short consumes 16 bits, long int consumes 32 bits
+
 - **Identify the floating-point types in C** 
 	- float, double, long double  
+
 - **Discuss problems with applying floating-point numbers to loop conditions**  
+
+
 - **Declare and apply enumerated types in C**  
 	-  One example includes a Boolean type, where FALSE and TRUE may be assigned a variable of this type  
+
 - **Describe what is an array**  
 	- A collection of contiguous or adjacent memory cells associated with one variable name and one type  
 	- An array is considered a data structure  
 	- A data structure is a way of storing and organizing information; a composite of related data items  
+
 - **Define what is a subscript and index**  
 	- Recall array indexing in C starts at 0. Why?  
-Declare and apply single and 2-dimentional arrays  
-o Use an initializer list to initialize each item in an array  
-o Use loops to traverse through arrays  
-Write functions which accept arrays (single and 2-dimentional) as parameters  
-What happens when an array is passed to a function?  
-o The address of the 0th element, only, is copied and passed into the  
-function  
-**How are arrays and pointers related?**  
-o Is array notation and pointer notation interchangeable?  
-▪ Pointer notation may always be used with arrays; array notation  
-may replace pointer notation only if the pointer points to the  
-start of an array  
+
+- **Declare and apply single and 2-dimensional arrays**  
+	- Use an initializer list to initialize each item in an array  
+	- Use loops to traverse through arrays  
+
+- **Write functions which accept arrays (single and 2-dimensional) as parameters**  
+```c
+void accept_arr(int arr_1[], int arr_2[][10]) {
+	//function algorithm here
+}
+```
+
+- **What happens when an array is passed to a function?**  
+	- The address of the 0th element, only, is copied and passed into the  function  
+
+- **How are arrays and pointers related?**  
+	- Is array notation and pointer notation interchangeable?  
+		- Pointer notation may always be used with arrays; array notation may replace pointer notation only if the pointer points to the start of an array  
 **Declare and apply parallel arrays**  
 o Parallel arrays may be replaced by an array of structs  
 
