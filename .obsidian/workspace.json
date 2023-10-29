@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/Linear Algebra/5.1 Eigenvalues and Eigenvectors.md",
+                "file": "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra/Linear Algebra/5.1 Eigenvalues and Eigenvectors.md",
+                "file": "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Algebra/Linear Algebra/5.1 Eigenvalues and Eigenvectors.md",
+                "file": "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/Linear Algebra/5.1 Eigenvalues and Eigenvectors.md"
+                "file": "Computer Science/Computer Science Notes/Exam 2 Review Guide.md"
               }
             }
           },
@@ -157,13 +157,13 @@
   },
   "active": "c1fe427258674496",
   "lastOpenFiles": [
-    "Exam 2 Review Guide.md",
+    "Computer Science/Computer Science Notes/Ultimate Notes.md",
     "Computer Science/Computer Science Notes/10.2 Structures II.md",
-    "Linear Algebra/Linear Algebra/5.1 Eigenvalues and Eigenvectors.md",
     "Computer Science/Computer Science Notes/10.3 Structures III.md",
+    "Linear Algebra/Linear Algebra/5.1 Eigenvalues and Eigenvectors.md",
+    "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
     "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
     "Computer Science/Liu_Quiz7.docx",
-    "Computer Science/Computer Science Notes/Ultimate Notes.md",
     "Linear Algebra HW/md Files/Computer Project 2.9.md",
     "Linear Algebra HW/md Files",
     "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",

@@ -27,12 +27,30 @@
 
 - **What is an infinite loop?**
 	- A loop which will execute “forever”  
+
 - **Describe and apply compound assignment operators** 
 	- These include: `+=, -=, *=, /=, %=`
+	- These operators set the variable modified to the modifier performed on itself 
+	- i.e
+```c
+int num = 5;
+num %= 2; //num is set to 5 mod 2
+printf("%d", num); //returns 1
+```
+
 - **Describe and apply the increment and decrement operators**  
-	- Post-increment (`i++`), pre-increment (`++i`), post-decrement (`i--`), and pre-decrement 
-	(`--i')  
+	- Post-increment (`i++`), pre-increment (`++i`), post-decrement (`i--`), and pre-decrement (`--i`). 
+
 - **Provide an example of an off-by-one loop error**
+```c
+char *name = "CharlesL"; //The characters in the first name are indexed from 0 to 6, not 1 to 7.
+
+//get first name
+for (int i = 1; i <= 7; i++) {
+	printf("%c", name[i]);
+}
+//This will return harlesL, not Charles
+```
 
 ___
 
