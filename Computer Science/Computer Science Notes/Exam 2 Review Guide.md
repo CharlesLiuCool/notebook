@@ -115,46 +115,48 @@ void accept_arr(int arr_1[], int arr_2[][10]) {
 - **How are arrays and pointers related?**  
 	- Is array notation and pointer notation interchangeable?  
 		- Pointer notation may always be used with arrays; array notation may replace pointer notation only if the pointer points to the start of an array  
-**Declare and apply parallel arrays**  
-o Parallel arrays may be replaced by an array of structs  
+- **Declare and apply parallel arrays**  
+	- Parallel arrays may be replaced by an array of structs  
 
 ___
 
 #### Chapter 8: Strings  
 
-**Define what is a string in C**  
-o A character array which contains alphabetic, numeric, and special  
+- **Define what is a string in C**  
+	- A character array which contains alphabetic, numeric, and special  
 characters, and is terminated by the null character (‘\0’)  
-**Declare and apply strings**  
-**Declare and apply an array of strings**  
-o An array of strings is simply a 2-dimensional array of characters where  
+- **Declare and apply strings**  
+- **Declare and apply an array of strings**  
+	- An array of strings is simply a 2-dimensional array of characters where  
 each row represents a string and the max length of each string is  
 determined by the max number of columns
 
-**Apply string library functions <string.h>**  
-o strlen ( ) – returns the length of a string, not including the null character  
-o strcpy ( ) – makes a fresh character-by-character copy of a string  
-o strcat ( ) – appends one string to the end of another string  
-o strcmp ( ) – performs a character-by-character comparison based on ASCII values  
-▪ returns 0 if the strings are equal (case does matter), < 0 if string1 is less than string2, or > 0 if string1 > string2  
-**Write functions which mimic the four listed string library functions above, without calling the string library functions**  
-o Apply array and/or pointer notation to these functions  
-**Declare and apply arrays of pointers, i.e. `char *array_ptrs[10]`** 
-**Distinguish between scanf ( ) and gets ( ) related to strings**  
-**Apply the character operations found in `<ctype.h> `** 
-o These include: `isalpha ( )`, `isdigit ( )`, `islower ( )`, `isupper ( )`, `toupper ( )`,  
+- **Apply string library functions <string.h>**  
+	- strlen ( ) – returns the length of a string, not including the null character  
+	- strcpy ( ) – makes a fresh character-by-character copy of a string  
+	- strcat ( ) – appends one string to the end of another string  
+	- strcmp ( ) – performs a character-by-character comparison based on ASCII values (remember, lowercase ASCII is bigger then uppercase)
+		- returns 0 if the strings are equal (case does matter), < 0 if string1 is less than string2, or > 0 if string1 > string2  
+- **Write functions which mimic the four listed string library functions above, without calling the string library functions**  
+	- Apply array and/or pointer notation to these functions  
+- **Declare and apply arrays of pointers, i.e. `char *array_ptrs[10]`** 
+- **Distinguish between scanf ( ) and gets ( ) related to strings**  
+- **Apply the character operations found in `<ctype.h> `** 
+	- These include: `isalpha ( )`, `isdigit ( )`, `islower ( )`, `isupper ( )`, `toupper ( )`,  
 `tolower ( )`, `ispunct ( )`, `isspace ( )`, `isalnum ( )`  
 
 ___
 
 #### Chapter 10: Structs  
 
-**Define what is a structure in C**  
-o A collection of related fields or variables under one name  
-o May be used to describe real world objects  
-**Define what is encapsulation**  
-**Declare and apply structs**  
-o Declare, initialize, and print out struct information  
+- **Define what is a structure in C**  
+	- A collection of related fields or variables under one name  
+	- May be used to describe real world objects  
+
+- **Define what is encapsulation**  
+
+- **Declare and apply structs**  
+	- Declare, initialize, and print out struct information  
 - **Declare and apply arrays of structs**  
 - **What is the . operator and what is the -> operator?**  
 - **Can the assignment (=) operator be applied to structs?**  
@@ -163,5 +165,5 @@ o Declare, initialize, and print out struct information
 ___
 #### Other Topics  
 
-**Apply pointer arithmetic**  
-o For example, ptr++, ptr + index, --ptr, etc.
+- **Apply pointer arithmetic**  
+	- For example, ptr++, ptr + index, --ptr, etc.
