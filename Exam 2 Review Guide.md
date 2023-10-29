@@ -129,5 +129,6 @@ o Declare, initialize, and print out struct information
 
 ___
 #### Other Topics  
+
 **Apply pointer arithmetic**  
 o For example, ptr++, ptr + index, --ptr, etc.
