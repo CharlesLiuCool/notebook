@@ -57,21 +57,19 @@ ____
 #### Chapter 7: Simple Data Types, Enumerated Types, and Arrays  
 
 - **Identify the integer types in C**  
-o short, unsigned short, int, unsigned, long, unsigned long  
-• signed indicates negative and positive numbers are supported, this is the default type  
-- **Identify the floating-point types in C**  
-o float, double, long double  
-**Discuss problems with applying floating-point numbers to loop conditions**  
-**Declare and apply enumerated types in C**  
-o One example includes a Boolean type, where FALSE and TRUE may be assigned a variable of this type  
-**Describe what is an array**  
-o A collection of contiguous or adjacent memory cells associated with one  
-variable name and one type  
-o An array is considered a data structure  
-▪ A data structure is a way of storing and organizing information; a  
-composite of related data items  
-**Define what is a subscript and index**  
-o Recall array indexing in C starts at 0. Why?  
+	- short, unsigned short, int, unsigned, long, unsigned long  
+		- signed indicates negative and positive numbers are supported, this is the default type  
+- **Identify the floating-point types in C** 
+	- float, double, long double  
+- **Discuss problems with applying floating-point numbers to loop conditions**  
+- **Declare and apply enumerated types in C**  
+	-  One example includes a Boolean type, where FALSE and TRUE may be assigned a variable of this type  
+- **Describe what is an array**  
+	- A collection of contiguous or adjacent memory cells associated with one variable name and one type  
+	- An array is considered a data structure  
+	- A data structure is a way of storing and organizing information; a composite of related data items  
+- **Define what is a subscript and index**  
+	- Recall array indexing in C starts at 0. Why?  
 Declare and apply single and 2-dimentional arrays  
 o Use an initializer list to initialize each item in an array  
 o Use loops to traverse through arrays  
@@ -90,47 +88,46 @@ o Parallel arrays may be replaced by an array of structs
 ___
 
 #### Chapter 8: Strings  
-Define what is a string in C  
+
+**Define what is a string in C**  
 o A character array which contains alphabetic, numeric, and special  
 characters, and is terminated by the null character (‘\0’)  
-Declare and apply strings  
-Declare and apply an array of strings  
+**Declare and apply strings**  
+**Declare and apply an array of strings**  
 o An array of strings is simply a 2-dimensional array of characters where  
 each row represents a string and the max length of each string is  
 determined by the max number of columns
 
-Apply string library functions <string.h>  
+**Apply string library functions <string.h>**  
 o strlen ( ) – returns the length of a string, not including the null character  
 o strcpy ( ) – makes a fresh character-by-character copy of a string  
 o strcat ( ) – appends one string to the end of another string  
-o strcmp ( ) – performs a character-by-character comparison based on  
-ASCII values  
-▪ returns 0 if the strings are equal (case does matter), < 0 if string1  
-is less than string2, or > 0 if string1 > string2  
-Write functions which mimic the four listed string library functions above,  
-without calling the string library functions  
+o strcmp ( ) – performs a character-by-character comparison based on ASCII values  
+▪ returns 0 if the strings are equal (case does matter), < 0 if string1 is less than string2, or > 0 if string1 > string2  
+**Write functions which mimic the four listed string library functions above, without calling the string library functions**  
 o Apply array and/or pointer notation to these functions  
-Declare and apply arrays of pointers, i.e. `char *array_ptrs[10]` 
-Distinguish between scanf ( ) and gets ( ) related to strings  
-Apply the character operations found in `<ctype.h> ` 
+**Declare and apply arrays of pointers, i.e. `char *array_ptrs[10]`** 
+**Distinguish between scanf ( ) and gets ( ) related to strings**  
+**Apply the character operations found in `<ctype.h> `** 
 o These include: `isalpha ( )`, `isdigit ( )`, `islower ( )`, `isupper ( )`, `toupper ( )`,  
 `tolower ( )`, `ispunct ( )`, `isspace ( )`, `isalnum ( )`  
 
 ___
 
 #### Chapter 10: Structs  
-Define what is a structure in C  
+
+**Define what is a structure in C**  
 o A collection of related fields or variables under one name  
 o May be used to describe real world objects  
-Define what is encapsulation  
-Declare and apply structs  
+**Define what is encapsulation**  
+**Declare and apply structs**  
 o Declare, initialize, and print out struct information  
-Declare and apply arrays of structs  
-What is the . operator and what is the -> operator?  
-Can the assignment (=) operator be applied to structs?  
-o Yes, the assignment operator copies one struct to another  
+- **Declare and apply arrays of structs**  
+- **What is the . operator and what is the -> operator?**  
+- **Can the assignment (=) operator be applied to structs?**  
+	- Yes, the assignment operator copies one struct to another  
 
 ___
 #### Other Topics  
-Apply pointer arithmetic  
+**Apply pointer arithmetic**  
 o For example, ptr++, ptr + index, --ptr, etc.
