@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "489dec59a85c3480",
@@ -182,9 +181,9 @@
   "active": "e2655e69742f84a6",
   "lastOpenFiles": [
     "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
+    "Computer Science/Computer Science Notes/10.1 Structures I and Enumerated Types.md",
     "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",
     "Computer Science/Computer Science Notes/10.3 Structures III.md",
-    "Computer Science/Computer Science Notes/10.1 Structures I and Enumerated Types.md",
     "Computer Science/Computer Science Notes/Ultimate Notes.md",
     "Computer Science/Computer Science Notes/10.2 Structures II.md",
     "R Statistical Analysis/Day 1.md",
