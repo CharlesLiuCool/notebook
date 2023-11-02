@@ -117,7 +117,7 @@ ___
 
 - **Distinguish between the multiple usages of the * operator with pointers**  
 	- `int *ptr` – indicates the declaration of a pointer  
-	- `*result = i + j` – indicates the dereferencing of a pointer (the operator is called the dereference or indirection operator)  
+	- `*result = i + j` – indicates the dereferencing of a pointer (the operator is called the dereference or indirection operator). Dereferencing just means taking the contents of the address itself.
 
 - **Define what is a direct value**
 	- When not using a pointer and accessing a value, we are accessing a *direct* value. 
