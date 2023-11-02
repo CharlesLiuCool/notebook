@@ -59,11 +59,11 @@ char my_str[n] = //"string here";
 //remember, string length includes null terminator
 int result = 0;
 for (int i = 0; i < n - 1; i++) {
-	int value = my_str[i] - 0;
+	int value = my_str[i] - '0';
 	result *= 10;
 	result += value;
 }
-printf("result: ", result);
+printf("result: %d", result);
 ```
 
 - **Define what is one iteration**
