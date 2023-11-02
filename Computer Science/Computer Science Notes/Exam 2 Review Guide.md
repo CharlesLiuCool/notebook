@@ -23,7 +23,7 @@
 - **Selection Sort**
 	- Read all indices of array, find minimum, swap with first element. Repeat but don't check the sorted index
 ```c
-int arr[n] = {//numbers here}
+int arr[n] = {//numbers here};
 for (int i = 0; i < n-1; i++) {
 	int end_index = i;
 	for (int j = i + 1; j < n; j++) {
@@ -40,7 +40,7 @@ for (int i = 0; i < n-1; i++) {
 - **Bubble Sort**
 	- Check two consecutive indices, swap if next is smaller then earlier. Go to second to last index, repeat, lose an index each time.
 ```c
-int arr[n] = {//numbers here}
+int arr[n] = {//numbers here};
 for (int i = 0; i < n; i++) {
 	int temp = 0;
 	for (int j = 0; j < n-i-1; j++) {
@@ -181,17 +181,17 @@ ___
 
 - **Define what is a string in C**  
 	- A character array which contains alphabetic, numeric, and special characters, and is terminated by the null character (‘\0’).
-- **Declare and apply strings**  
+
 - **Declare and apply an array of strings**  
-	- An array of strings is simply a 2-dimensional array of characters where  
-each row represents a string and the max length of each string is  
-determined by the max number of columns
+	- An array of strings is simply a 2-dimensional array of characters where each row represents a string and the max length of each string is  determined by the max number of columns
+	- `char* = "my_str";` declares an immutable string (contents cannot be edited)
+	- `char[7] = "my_str";` declares a mutable string.
 
 - **Apply string library functions <string.h>**  
-	- strlen ( ) – returns the length of a string, not including the null character  
-	- strcpy ( ) – makes a fresh character-by-character copy of a string  
-	- strcat ( ) – appends one string to the end of another string  
-	- strcmp ( ) – performs a character-by-character comparison based on ASCII values (remember, lowercase ASCII is bigger then uppercase)
+	- `strlen ( )` – returns the length of a string, not including the null character  
+	- `strcpy ( )` – makes a fresh character-by-character copy of a string  
+	- `strcat ( )` – appends one string to the end of another string  
+	- `strcmp ( )` – performs a character-by-character comparison based on ASCII values (remember, lowercase ASCII is bigger then uppercase)
 		- returns 0 if the strings are equal (case does matter), < 0 if string1 is less than string2, or > 0 if string1 > string2  
 - **Write functions which mimic the four listed string library functions above, without calling the string library functions**  
 	- Apply array and/or pointer notation to these functions  

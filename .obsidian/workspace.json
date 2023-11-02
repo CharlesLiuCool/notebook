@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "2a458af05e27fa6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Science Notes/9.2 Strings II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cae9500cfbf5b1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Science Notes/9.1 Strings I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9ec1282ac3033901",
             "type": "leaf",
             "state": {
@@ -43,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Science Notes/10.1 Structures I and Enumerated Types.md",
+                "file": "Computer Science/Computer Science Notes/9.2 Strings II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Science Notes/10.1 Structures I and Enumerated Types.md",
+                "file": "Computer Science/Computer Science Notes/9.2 Strings II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Science Notes/10.1 Structures I and Enumerated Types.md"
+                "file": "Computer Science/Computer Science Notes/9.2 Strings II.md"
               }
             }
           },
@@ -178,15 +203,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2655e69742f84a6",
+  "active": "eaffc4925a87ff86",
   "lastOpenFiles": [
-    "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
+    "Computer Science/Computer Science Notes/9.1 Strings I.md",
+    "Computer Science/Computer Science Notes/9.2 Strings II.md",
     "Computer Science/Computer Science Notes/10.1 Structures I and Enumerated Types.md",
     "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",
     "Computer Science/Computer Science Notes/10.3 Structures III.md",
+    "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
+    "Linear Algebra/Linear Algebra/3.1 Introduction to Determinants.md",
+    "R Statistical Analysis/Day 1.md",
     "Computer Science/Computer Science Notes/Ultimate Notes.md",
     "Computer Science/Computer Science Notes/10.2 Structures II.md",
-    "R Statistical Analysis/Day 1.md",
     "R Statistical Analysis",
     "Linear Algebra/Linear Algebra/5.2 Characteristic Equations.md",
     "Linear Algebra/Linear Algebra/5.1 Eigenvalues and Eigenvectors.md",
@@ -194,7 +222,6 @@
     "Computer Science/Liu_Quiz7.docx",
     "Linear Algebra HW/md Files/Computer Project 2.9.md",
     "Linear Algebra HW/md Files",
-    "Linear Algebra/Linear Algebra/3.1 Introduction to Determinants.md",
     "Linear Algebra HW/md Files/Written HW 3.1.md",
     "Linear Algebra HW/Computer Project 2.9.pdf",
     "Untitled.canvas",
