@@ -180,8 +180,7 @@ ___
 #### Chapter 8: Strings  
 
 - **Define what is a string in C**  
-	- A character array which contains alphabetic, numeric, and special  
-characters, and is terminated by the null character (‘\0’)  
+	- A character array which contains alphabetic, numeric, and special characters, and is terminated by the null character (‘\0’).
 - **Declare and apply strings**  
 - **Declare and apply an array of strings**  
 	- An array of strings is simply a 2-dimensional array of characters where  
