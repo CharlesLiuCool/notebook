@@ -210,10 +210,20 @@ ___
 	- May be used to describe real world objects  
 
 - **Define what is encapsulation**  
-
+	- Encapsulation is the grouping of multiple datatypes and various data under one name into the struct.
 - **Declare and apply structs**  
 	- Declare, initialize, and print out struct information  
+```c
+//Struct Declaration
+struct my_struct {
+	int my_int;
+	double my_double;
+	char my_char;
+}
+```
+
 - **Declare and apply arrays of structs**  
+what the sus
 - **What is the . operator and what is the -> operator?**  
 - **Can the assignment (=) operator be applied to structs?**  
 	- Yes, the assignment operator copies one struct to another  
