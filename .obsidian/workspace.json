@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1fe427258674496",
+            "id": "e2655e69742f84a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ec1282ac3033901",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "489dec59a85c3480",
@@ -155,18 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1fe427258674496",
+  "active": "9ec1282ac3033901",
   "lastOpenFiles": [
-    "Computer Science/Computer Science Notes/Ultimate Notes.md",
-    "Computer Science/Computer Science Notes/10.2 Structures II.md",
     "Computer Science/Computer Science Notes/10.3 Structures III.md",
-    "Linear Algebra/Linear Algebra/5.1 Eigenvalues and Eigenvectors.md",
+    "Computer Science/Computer Science Notes/10.2 Structures II.md",
     "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
+    "Computer Science/Computer Science Notes/Ultimate Notes.md",
+    "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",
+    "R Statistical Analysis/Day 1.md",
+    "R Statistical Analysis",
+    "Linear Algebra/Linear Algebra/5.2 Characteristic Equations.md",
+    "Linear Algebra/Linear Algebra/5.1 Eigenvalues and Eigenvectors.md",
     "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
     "Computer Science/Liu_Quiz7.docx",
     "Linear Algebra HW/md Files/Computer Project 2.9.md",
     "Linear Algebra HW/md Files",
-    "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",
     "Linear Algebra/Linear Algebra/3.1 Introduction to Determinants.md",
     "Linear Algebra HW/md Files/Written HW 3.1.md",
     "Linear Algebra HW/Computer Project 2.9.pdf",
@@ -175,7 +190,6 @@
     "Linear Algebra HW/Written HW 3.1.pdf",
     "Linear Algebra HW/Computer Project Export 2.9.md",
     "Linear Algebra HW/Computer Project 2.9.html",
-    "Untitled",
     "Computer Science/Computer Science Notes/Untitled",
     "Linear Algebra HW/HW2.8.pdf",
     "Computer Science/Computer Science Notes",

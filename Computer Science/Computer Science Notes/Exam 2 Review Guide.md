@@ -10,14 +10,61 @@
 - **Identify, apply, and implement the 5 major loop patterns **
 	- Counting or counter-controlled loop, used with `for ( )` and `while ( )`  
 		- Indicates number of loop repetitions required are known before loop execution, i.e. `while (count < 10)`
-	- Sentinel-controlled loop, used with for ( ) and while ( )  
+	- Sentinel-controlled loop, used with `for ( )` and `while ( )`  
 		- Indicates loop until a special value is encountered, i.e. while  (`array[i] != ‘\0’`)  
 	- Endfile-controlled loop, best suited to be used with for ( ) and while ( )  
-		-Indicates loop until the end of a file is reached, i.e. `while (status  != EOF)` or `while (!feof (infile))`  
+		- Indicates loop until the end of a file is reached, i.e. `while (status  != EOF)` or `while (!feof (infile))`  
+		- EOF usually integer value `-1`
 	- Input validation loop, used with `do-while ( )` 
 		- Indicates loop until a value within valid range is entered by user, i.e. `do {//something} while (input != valid)`
 	- General conditional loop, used with for ( ) and while ( )  
 		- Indicates processing of data until a condition is met 
+
+- **Selection Sort**
+	- Read all indices of array, find minimum, swap with first element. Repeat but don't check the sorted index
+```c
+int arr[n] = {//numbers here}
+for (int i = 0; i < n-1; i++) {
+	int end_index = i;
+	for (int j = i + 1; j < n; j++) {
+		if (arr[j] < arr[end_index]) {
+			end_index = j;
+		}
+		int temp = arr[i];
+		arr[i] = arr[end_index];
+		arr[end_index] = temp;
+	}
+}
+```
+
+- **Bubble Sort**
+	- Check two consecutive indices, swap if next is smaller then earlier. Go to second to last index, repeat, lose an index each time.
+```c
+int arr[n] = {//numbers here}
+for (int i = 0; i < n; i++) {
+	int temp = 0;
+	for (int j = 0; j < n-i-1; j++) {
+		if (arr[j] < arr[j+1]) {
+			temp = arr[j];
+			arr[j] = arr[j+1];
+			arr[j+1] = temp;
+		}
+	}
+}
+```
+
+- **String to integer code**
+```c
+char my_str[n] = //"string here";
+//remember, string length includes null terminator
+int result = 0;
+for (int i = 0; i < n - 1; i++) {
+	int value = my_str[i] - 0;
+	result *= 10;
+	result += value;
+}
+printf("result: ", result);
+```
 
 - **Define what is one iteration**
 	- Discuss how loops are defined based on iterations
@@ -59,16 +106,26 @@ ___
 - **Define what is a pointer**
 	- A variable that contains the address of another variable  
 	- Used as output parameters which send back results from functions  
+
 - **Distinguish between output and input parameters**  
 	- input is what you give the algorithm, output is what the algorithm gives you after you give it an input
 	- i.e. `int out = func(in)`, `in` is the input parameter, `out` is the output parameter
+
 - **Declare and apply pointers**  
+	- Declaration `type* ptr (i.e. int* ptr)`
+	- Pointers are often applied when you want to modify multiple values in a function. If you pass the memory address of a value through a *pointer* into the function, you can manipulate it within the function by calling the address, and when you exit the function, the values are changed accordingly.
+
 - **Distinguish between the multiple usages of the * operator with pointers**  
 	- `int *ptr` – indicates the declaration of a pointer  
 	- `*result = i + j` – indicates the dereferencing of a pointer (the operator is called the dereference or indirection operator)  
+
 - **Define what is a direct value**
+	- When not using a pointer and accessing a value, we are accessing a *direct* value. 
+	- i.e. `int num = 50;` 50 is the direct value
+
 - **Define what is an indirect value**  
 	- Accessed via the dereference operator – meaning “follow the pointer”  
+
 **Apply logical memory diagrams of pointers and how they relate to their indirect  
 values**  
 
@@ -85,7 +142,7 @@ ____
 	- float, double, long double  
 
 - **Discuss problems with applying floating-point numbers to loop conditions**  
-
+	- Floating point numbers are not completely precise, so they may lead to rounding errors, errors in comparisons such as `==`, etc.
 
 - **Declare and apply enumerated types in C**  
 	-  One example includes a Boolean type, where FALSE and TRUE may be assigned a variable of this type  
@@ -110,7 +167,7 @@ void accept_arr(int arr_1[], int arr_2[][10]) {
 ```
 
 - **What happens when an array is passed to a function?**  
-	- The address of the 0th element, only, is copied and passed into the  function  
+	- The address of the 0th element, only, is copied and passed into the function  
 
 - **How are arrays and pointers related?**  
 	- Is array notation and pointer notation interchangeable?  
