@@ -61,10 +61,10 @@ $$\large{A = \begin{bmatrix} -1 & 1 & -3 & -6 \\ -3 & 3 & 8 & -16 \\ 2 & -2 & 7 
 
 #### Matrix Operations
 
-- Matrix Addition
-- Scalar Multiplication
-- Matrix Transpose
-- Matrix Multiplication
+- *Matrix Addition*
+- *Scalar Multiplication*
+- *Matrix Transpose*
+- *Matrix Multiplication*
 #### Example 4.
 
 Given the matrices $\large{A}$, $\large{B}$, $\large{C}$, and $\large{D}$, compute the following if defined, otherwise explain why it is undefined
@@ -101,4 +101,11 @@ ___
 
 ### Example 5. 
 
-Given the dimensions of matrix $\large{A}$, $\large{B}$, 
+Given the dimensions of matrix $\large{A}$, $\large{B}$, $\large{C}$, and $\large{D}$, determine the dimensions of the matrices below or write "*NOT* defined".
+
+$$\large{A\;\;\;4\times2\;\;\;\;\;\;B\;\;\;5\times2\;\;\;\;\;\;C\;\;\;2\times3\;\;\;\;\;D\;\;\;3\times5}$$
+
+**(a)** $\large{4A}$ has the same dimension as $\large{A}$ and hence $\large{4A}$ is $\large{4 \times 2}$
+
+**(b)** $\large{B_{5 \times 2}\;C_{2\times3}}$  is $\large{5 \times 3}$ Since the inner dimensions match and the outer dimensions is $\large{5 \times 3}$.
+

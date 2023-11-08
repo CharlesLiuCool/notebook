@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About me/About me.md",
+                "file": "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About me/About me.md",
+                "file": "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About me/About me.md",
+                "file": "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About me/About me.md"
+                "file": "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md"
               }
             }
           },
@@ -276,11 +276,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7e912c672634f3e",
+  "active": "1de3a19d8b8c77ca",
   "lastOpenFiles": [
+    "About me/About me.md",
     "About me",
     "Linear Algebra/Linear Algebra/0.0 Class Information.md",
-    "About me/About me.md",
     "Computer Science/Computer Science Notes/0.0 Class Information.md",
     "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
     "0.0 Class Information",
@@ -315,7 +315,6 @@
     "Linear Algebra HW/Computer Project 2.9.html",
     "Computer Science/Computer Science Notes/Untitled",
     "Linear Algebra HW/HW2.8.pdf",
-    "Computer Science/Computer Science Notes",
     "Screen Shot 2023-10-24 at 8.54.30 PM 1.png",
     "Screen Shot 2023-10-24 at 8.54.30 PM.png"
   ]
