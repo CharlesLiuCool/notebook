@@ -135,7 +135,7 @@ ____
 
 - **Identify the integer types in C**  
 	- short, unsigned short, int, unsigned, long, unsigned long  
-		- signed indicates negative and positive numbers are supported, this is the default type  
+		- signed indicates negative and positive numbers are supported, this is the default type.
 		- short consumes 16 bits, long int consumes 32 bits
 
 - **Identify the floating-point types in C** 
@@ -223,8 +223,21 @@ struct my_struct {
 ```
 
 - **Declare and apply arrays of structs**  
-what the sus
+	
 - **What is the . operator and what is the -> operator?**  
+	`.` operator allows you to access items and modify items in a struct
+	
+```c
+typedef struct _my_struct {
+	int my_int;
+	double my_double;
+	char my_char;
+} my_struct
+
+my_struct Hello = {0, 3, 'c'};
+printf("%d", Hello.my_int);
+//returns 0
+```
 - **Can the assignment (=) operator be applied to structs?**  
 	- Yes, the assignment operator copies one struct to another  
 
