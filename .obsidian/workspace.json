@@ -128,6 +128,126 @@
             }
           },
           {
+            "id": "7f6c3eeb94e33c37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Science Notes/12.1 Recursion I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aba295f39c36b464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Science Notes/Ultimate Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cc3d3eee2638943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/Linear Algebra/6.2 Orthogonal Sets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3822fca3adf2655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a19b806b68183b41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/Linear Algebra/Final Exam Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3a94a4a86e1f8c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Chemistry/Unit 6/6.1 Metallic Bonding & Alloys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aad9b95d50cbe3ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "277d2897b20bd80b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d063cd6f0d1f4e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Chemistry/Unit 6/6.5 Formal Charge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce61d8f5a81827fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2893593598c8fba2",
             "type": "leaf",
             "state": {
@@ -140,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -207,7 +327,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
+                "file": "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +344,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
+                "file": "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +367,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md"
+                "file": "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md"
               }
             }
           },
@@ -276,45 +396,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1de3a19d8b8c77ca",
+  "active": "ce61d8f5a81827fb",
   "lastOpenFiles": [
-    "About me/About me.md",
-    "About me",
+    "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
+    "Computer Science/Computer Science Notes/10.1 Structures I and Enumerated Types.md",
+    "Computer Science/Computer Science Notes/12.1 Recursion I.md",
+    "Linear Algebra/Linear Algebra/Exam 2 Review.md",
+    "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
+    "Linear Algebra/Linear Algebra/Final Exam Review.md",
+    "Linear Algebra/Linear Algebra/1.8 Introduction to Linear Transformation.md",
+    "AP Chemistry/Unit 6/6.1 Metallic Bonding & Alloys.md",
+    "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
+    "AP Chemistry/Unit 6/6.5 Formal Charge.md",
+    "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
+    "AP Chemistry/Unit 6",
+    "AP Chemistry",
+    "Linear Algebra/Linear Algebra/6.3 Orthogonal Projections.md",
+    "Linear Algebra/Linear Algebra/6.2 Orthogonal Sets.md",
+    "Linear Algebra/Linear Algebra/5.1 Eigenvalues and Eigenvectors.md",
+    "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
+    "Computer Science/Computer Science Notes/Ultimate Notes.md",
+    "Computer Science/Computer Science Notes/12.2 Recursion II.md",
+    "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
+    "Computer Science/Computer Science Notes/10.3 Structures III.md",
+    "Linear Algebra/Linear Algebra/5.2 Characteristic Equations.md",
+    "Linear Algebra/Linear Algebra/3.1 Introduction to Determinants.md",
+    "Linear Algebra/Linear Algebra/2.3 Characterization of Invertible Matrices.md",
+    "Linear Algebra/Linear Algebra/1.9 Matrix of Linear Transformation.md",
     "Linear Algebra/Linear Algebra/0.0 Class Information.md",
     "Computer Science/Computer Science Notes/0.0 Class Information.md",
-    "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
-    "0.0 Class Information",
     "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",
-    "Linear Algebra/Linear Algebra/1.8 Introduction to Linear Transformation.md",
-    "Linear Algebra/Linear Algebra/1.9 Matrix of Linear Transformation.md",
-    "Linear Algebra/Linear Algebra/Exam 2 Review.md",
-    "1.8.md",
-    "Linear Algebra/Linear Algebra/2.3 Characterization of Invertible Matrices.md",
-    "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
-    "Computer Science/Computer Science Notes/10.1 Structures I and Enumerated Types.md",
-    "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
-    "Linear Algebra/Linear Algebra/3.1 Introduction to Determinants.md",
-    "Linear Algebra/Linear Algebra/5.2 Characteristic Equations.md",
-    "Linear Algebra/Linear Algebra/5.1 Eigenvalues and Eigenvectors.md",
-    "Computer Science/Computer Science Notes/Ultimate Notes.md",
-    "Computer Science/Computer Science Notes/9.1 Strings I.md",
-    "Computer Science/Computer Science Notes/8.1 Arrays I.md",
-    "Computer Science/Computer Science Notes/10.3 Structures III.md",
-    "Computer Science/Computer Science Notes/9.2 Strings II.md",
-    "Computer Science/Computer Science Notes/10.2 Structures II.md",
-    "R Statistical Analysis/Day 1.md",
+    "About me",
+    "0.0 Class Information",
     "R Statistical Analysis",
     "Computer Science/Liu_Quiz7.docx",
-    "Linear Algebra HW/md Files/Computer Project 2.9.md",
     "Linear Algebra HW/md Files",
-    "Linear Algebra HW/md Files/Written HW 3.1.md",
     "Linear Algebra HW/Computer Project 2.9.pdf",
     "Untitled.canvas",
     "Linear Algebra HW/Screen Shot 2023-10-24 at 8.54.30 PM 2.png",
     "Linear Algebra HW/Written HW 3.1.pdf",
     "Linear Algebra HW/Computer Project 2.9.html",
-    "Computer Science/Computer Science Notes/Untitled",
-    "Linear Algebra HW/HW2.8.pdf",
     "Screen Shot 2023-10-24 at 8.54.30 PM 1.png",
     "Screen Shot 2023-10-24 at 8.54.30 PM.png"
   ]
