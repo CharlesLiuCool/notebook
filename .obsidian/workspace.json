@@ -265,8 +265,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
-                "mode": "source",
+                "file": "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -350,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
+                "file": "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
+                "file": "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md"
+                "file": "AP Chemistry/Unit 6/6.6 Molecular Geometry.md"
               }
             }
           },
@@ -421,6 +421,7 @@
   },
   "active": "b5d541710bd2bb94",
   "lastOpenFiles": [
+    "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
     "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
     "AP Chemistry/Unit 6/6.5 Formal Charge.md",
     "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
@@ -434,7 +435,6 @@
     "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
     "Computer Science/Computer Science Notes/12.2 Recursion II.md",
     "Computer Science/Computer Science Notes/12.1 Recursion I.md",
-    "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
     "AP Chemistry/Unit 6/Images/Square Planar Molecular Geometry.png",
     "Pasted image 20231212105654.png",
     "AP Chemistry/Unit 6/Images/Square Pyramidal Molecular Geometry.png",
