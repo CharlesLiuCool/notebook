@@ -253,8 +253,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
-                "mode": "source",
+                "file": "Computer Science/Computer Science Notes/0.0 Class Information.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b5d541710bd2bb94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -272,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -338,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
+                "file": "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
+                "file": "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Science Notes/Exam 2 Review Guide.md"
+                "file": "AP Chemistry/Unit 6/6.6 Molecular Geometry.md"
               }
             }
           },
@@ -407,15 +419,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbc9e50c5387fb64",
+  "active": "b5d541710bd2bb94",
   "lastOpenFiles": [
-    "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
-    "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
-    "Computer Science/Computer Science Notes/12.2 Recursion II.md",
-    "Computer Science/Computer Science Notes/12.1 Recursion I.md",
+    "AP Chemistry/About/About.md",
+    "Computer Science/Computer Science Notes/0.0 Class Information.md",
+    "AP Chemistry/About",
     "Computer Science/Computer Science Notes/10.3 Structures III.md",
     "Computer Science/Computer Science Notes/10.2 Structures II.md",
     "Computer Science/Computer Science Notes/10.1 Structures I and Enumerated Types.md",
+    "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
+    "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
+    "Computer Science/Computer Science Notes/12.2 Recursion II.md",
+    "Computer Science/Computer Science Notes/12.1 Recursion I.md",
     "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
     "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
     "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
@@ -447,13 +462,10 @@
     "About me/About me.md",
     "Linear Algebra/Linear Algebra/Exam 2 Review.md",
     "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
-    "Linear Algebra/Linear Algebra/1.8 Introduction to Linear Transformation.md",
     "AP Chemistry/Unit 6",
     "AP Chemistry",
-    "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
     "About me",
     "0.0 Class Information",
-    "R Statistical Analysis",
     "Untitled.canvas"
   ]
 }

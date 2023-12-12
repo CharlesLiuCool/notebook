@@ -245,4 +245,4 @@ ___
 #### Other Topics  
 
 - **Apply pointer arithmetic**  
-	- For example, `ptr++`, `ptr + index`, `--ptr`, etc.
+	- For example, `ptr++`, `ptr + index`, `--ptr`, etc. 
