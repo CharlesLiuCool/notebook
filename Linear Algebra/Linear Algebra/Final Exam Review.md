@@ -36,107 +36,69 @@ Topics:
 8. Orthogonal Projection and Least Squares  
 
 ___
-
-Sample Questions  
+# Sample Questions  
 1. The following augmented matrices represent the system of equations Ax = b. Solve the  
 following systems of equations for x where the systems of equations have the following  
 augmented matrices. Write the solution in parametric vector form where applicable.  
 Check your answers.  
-(a)  
+(a) $\large{\begin{bmatrix} 1 & 1 & 1 & | & 2 \\ 0 & 1 & 1 & | & 2 \\ 2 & 1 & 1 & | & 2 \end{bmatrix}}$ (b)  $\large{\begin{bmatrix}1 & 1 & 2 & 3 & | & 2 \\ 2 & 1 & 1 & 0 & | & 1 \\ 1 & 2 & 1 & 3 & | & 7 \end{bmatrix}}$ (c)  $\large{ \begin{bmatrix} 3 & 6 & 1 & 1 & | & 6  \\ 1 & 2 & 2 & 3 & | & 3 \\ 4 & 8 & 3 & 2 & | & 3 \end{bmatrix}}$
 
-$\large{\begin{bmatrix} 1 & 1 & 1 & | & 2 \\ 0 & 1 & 1 & | & 2 \\ 2 & 1 & 1 & | & 2 \end{bmatrix}}$
+2. Given the matrices $\large{A}$, $\large{B}$ and $\large{C}$ and the matrix v and u, evaluate or write not defined.  
 
-(b)  
-2  
-6  
-4  
-1 1 2 3 2  
-2 1 1 0 1  
-1 2 1 3 7  
-3  
-7  
-5 (c)  
-2  
-6  
-4  
-3 6 1 1 6  
-1 2 2 3 3  
-4 8 3 2 3  
-3  
-7  
-5  
-2. Given the matrices A, B and C and the matrix v and u, evaluate or write not defined.  
-A =  
- 1 2 3  
-0 1 5  
-  
-B =  
-2  
-4  
-0 0 1  
-0 1 0  
-1 0 1  
-3  
-5 C =  
- 0 1 2  
-1 0 1  
-  
-v T =  
-2  
-4  
-2  
-1  
-0  
-3  
-5 u =  
-2  
-4  
-3  
-3  
-1  
-3  
-5  
-(a) 3A + AB  
-(b) Bu  
-(c) Av  
-(d) Av T  
-(e) C T C  
-(f) det(C T C). (hint: use part e)  
-(g) (C T C) 1 . (hint: use part f)  
-(h) rank(B)  
-(i) rank(A)  
-(j) B 1  
-2
+$\large{{\bf A} =  \begin{bmatrix} 1 & 2 & 3 \\0 & 1 & 5 \end{bmatrix}}$  $\large{{\bf B} =  \begin{bmatrix} 0 & 0 & 1 \\ 0 & 1 & 0  \\ 1 & 0 & 1 \end{bmatrix}}$ $\large{{\bf C} =  \begin{bmatrix} 0 & 1 & 2 \\ 1 & 0 & 1\end{bmatrix}}$  $\large{v^T =  \begin{bmatrix} 2 \\ 1 \\ 0 \end{bmatrix}}$ $\large{u =  \begin{bmatrix} 3 \\ 3 \\ 1 \end{bmatrix}}$
+**(a)** $\large{3{\bf A}}$ + $\large{\bf AB}$
+ $\large{\begin{align} &=3\begin{bmatrix} 1 & 2 & 3 \\0 & 1 & 5 \end{bmatrix} + \begin{bmatrix} 1 & 2 & 3 \\0 & 1 & 5 \end{bmatrix} \times \begin{bmatrix} 0 & 0 & 1 \\ 0 & 1 & 0  \\ 1 & 0 & 1 \end{bmatrix} \\ \\ &= \begin{bmatrix} 1 & 2 & 3 \\0 & 1 & 5 \end{bmatrix} + \begin{bmatrix} 0 + 0 + 3 & 0 + 2 + 0 & 1 + 0 + 3 \\ 0 + 0 + 5 & 0 + 1 + 0 & 0 + 0 + 5 \end{bmatrix} = \begin{bmatrix} 3 & 2 & 4 \\ 5 & 1 & 5 \end{bmatrix} \end{align}}$
+
+**(b)** $\large{{\bf B}u}$  
+$\large{\begin{bmatrix} 0 & 0 & 1 \\ 0 & 1 & 0  \\ 1 & 0 & 1 \end{bmatrix} \times \begin{bmatrix} 3 \\ 3 \\ 1 \end{bmatrix}}$
+
+**(c)** $\large{{\bf A}v}$
+$\large{v = (v^T)^T = \begin{bmatrix} \,2 \\ 1 \\ 0\, \end{bmatrix}^T = \begin{bmatrix} 2 & 1 & 0 \end{bmatrix}}$
+$\large{\underbrace{\begin{bmatrix} 1 & 2 & 3 \\0 & 1 & 5 \end{bmatrix} \times \begin{bmatrix} 2 & 1 & 0 \end{bmatrix}}_{2 \times 3\;\;\;1 \times 3}}$
+
+inner dimensions do not match, $\large{3 \neq 1}$
+
+**(d)** $\large{{\bf A}v^T}$
+$\large{\begin{bmatrix} 1 & 2 & 3 \\0 & 1 & 5 \end{bmatrix} \times \begin{bmatrix} 2 \\ 1 \\ 0 \end{bmatrix} = \begin{bmatrix} 2 + 2 + 0 \\ 0 + 1 + 0\end{bmatrix} = \begin{bmatrix} 4 \\ 0 \end{bmatrix}}$
+
+**(e)** $\large{{\bf C}^T{\bf C}}$
+$\large{{\bf C}^T = \begin{bmatrix} 0 & 1 & -2 \\ 1 & 0 & -1\end{bmatrix}^T = \begin{bmatrix} 0 & 1 \\ 1 & 0 \\ -2 & -1 \end{bmatrix}}$
+
+$\large{\begin{align} &{\bf C}^T{\bf C} = \begin{bmatrix} 0 & 1 \\ 1 & 0 \\ -2 & -1 \end{bmatrix} \times \begin{bmatrix} 0 & 1 & -2 \\ 1 & 0 & -1\end{bmatrix} = \begin{bmatrix} 0 + 1 & 0 + 0 & 0 - 1 \\ 0 + 0 & 1 + 0 & -2 + 0 \\ 0 - 1 & -2 + 0 & 4 + 1 \end{bmatrix} \\ \\ &= \begin{bmatrix} 1 & 0 & -1 \\ 0 & 1 & -2 \\ -1 & -2 & 5 \end{bmatrix} \end{align}}$
+
+**(f)** $\large{\det(C^TC)}$. (hint: use part e)  
+
+$\large{\begin{align} &\det(C^TC) = \underbrace{\det\left(\begin{bmatrix} 1 & 0 & -1 \\ 0 & 1 & -2 \\ -1 & -2 & 5 \end{bmatrix}\right)}_{\text{from part e}} = \underbrace{1 \times (-1)^{1+1} \times \begin{vmatrix} 1 & -2 \\ -2 & 5 \end{vmatrix} + -1 \times (-1)^{3+1} \times \begin{bmatrix} 0 & 1 \\ -1 & -2\end{bmatrix}}_{\text{cofactor expansion about first row}} \\ \\&= 1 \times (1 \times 5 - (-2) \times (-2)) + (-1) \times (0 \times -2 - 1 \times (-1)) \\ \\ &= 1 \times (5 - 4) + (-1) \times (0 + 1) = 1 \times (-1) + (-1) \times 1  = -2\end{align}}$
+
+**(g)** $\large{(C^T C)^{-1}}$. (hint: use part f)  
+
+$\large{(C^T C)^{-1} = \begin{bmatrix} 1 & 0 & -1 \\ 0 & 1 & -2 \\ -1 & -2 & 5 \end{bmatrix} ^{-1} = }$
+
+By Gaussian-Jordan Method
+
+**(h)** $\large{\text{rank}(B)}$
+$\large{\text{rank}(B) = 3}$
+
+**(i)** $\large{\text{rank}(A)}$
+$\large{\text{rank}(A) = 2}$
+
+**(j)** $\large{B^{-1}}$  
+
+$\large{\begin{bmatrix} 0 & 0 & 1 \\ 0 & 1 & 0  \\ 1 & 0 & 1 \end{bmatrix}^{-1}}$
 
 3. Find the determinant of the following matrices. Show all work. Which of these matrices  
 are invertible?  
-A =  
-2  
-4  
-1 1 4  
-0 1 0  
-5 2 3  
-3  
-5 B =  
-2  
-6  
-6  
-4  
-3 5 6 4  
-0 2 3 3  
-0 0 1 5  
-0 0 0 3  
-3  
-7  
-7  
-5  
-4. Let A and B be 4 ⇥ 4 matrices, with detA = 3 and detB = 1. Compute:  
-(a) det(AB)  
-(b) det(B 5 )  
-(c) det(2A)  
-(d) det(A T BA)  
-(e) det(B 1 AB)  
-5. For each of the following systems of linear equations, determine all value(s) of k for  
+
+$\large{A = }$ $\large{\begin{bmatrix} 1 & 1 & 4 \\ 0 & 1 & 0  \\ 5 & 2 & 3 \end{bmatrix}}$  
+$\large{B = \begin{bmatrix} 3 & 5 & 6 & 4  \\ 0 & 2 & 3 & 3 \\ 0 & 0 & 1 & 5 \\ 0 & 0 & 0 & 3 \end{bmatrix}}$
+
+4. Let $\large{A}$ and $\large{B}$ be $\large{4 \rightarrow 4}$ matrices, with $\large{\det(A) = 3}$ and $\large{\det(B) = 1}$. Compute:  
+**(a)** $\large{\det(AB) = \det(A) \times \det(B) = 3 \times 1 = 3}$  
+**(b)** $\large{\det(B^5) = 1^5 = 1}$  
+**(c)** $\large{\det(2A) = 2^4 \times 3 = 48}$ 
+**(d)** $\large{\det(A^TBA)}$  
+**(e)** $\large{\det(B^{-1}AB)}$  
+5. For each of the following systems of linear equations, determine all value(s) of $\large{k}$ for  
 which the system is consistent.  
 (a) 6x 1 5x 2 = 4  
 9x 1 + kx2 = 1  
@@ -291,5 +253,3 @@ so in the statement.)
 (j) The projection of u onto W = Span{v 1 , v 2 , ...v n } gives the shortest distance  
 between u and W .  
 5
-
-## Annotations

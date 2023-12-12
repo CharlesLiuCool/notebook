@@ -4,12 +4,12 @@
 	- Allows for a group of operations to be performed multiple times
 
 - **Apply and implement the 3 looping constructs supported in C**
-	- for ( ), while ( ), do-while ( ) 
+	- `for( )`, `while( )`, `do-while ( )` 
 	- Recall these loop constructs may be transformed into one another  
 
 - **Identify, apply, and implement the 5 major loop patterns **
-	- Counting or counter-controlled loop, used with `for ( )` and `while ( )`  
-		- Indicates number of loop repetitions required are known before loop execution, i.e. `while (count < 10)`
+	- Counting or counter-controlled loop, used with `for( )` and `while( )`  
+		- Indicates number of loop repetitions required are known before loop execution, i.e. `while(count < 10)`
 	- Sentinel-controlled loop, used with `for ( )` and `while ( )`  
 		- Indicates loop until a special value is encountered, i.e. while  (`array[i] != ‘\0’`)  
 	- Endfile-controlled loop, best suited to be used with for ( ) and while ( )  
@@ -245,4 +245,4 @@ ___
 #### Other Topics  
 
 - **Apply pointer arithmetic**  
-	- For example, ptr++, ptr + index, --ptr, etc.
+	- For example, `ptr++`, `ptr + index`, `--ptr`, etc.
