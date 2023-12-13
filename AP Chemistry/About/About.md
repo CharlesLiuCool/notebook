@@ -9,4 +9,5 @@
 **COMPLETED SECTIONS:**
 
 `Unit 6`
+- 6.3 Ionic & Covalent Naming
 - 6.6 Molecular Geometry

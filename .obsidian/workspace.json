@@ -265,8 +265,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
-                "mode": "preview",
+                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -350,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
+                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
+                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP Chemistry/Unit 6/6.6 Molecular Geometry.md"
+                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md"
               }
             }
           },
@@ -421,11 +421,11 @@
   },
   "active": "b5d541710bd2bb94",
   "lastOpenFiles": [
-    "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
     "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
+    "AP Chemistry/About/About.md",
+    "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
     "AP Chemistry/Unit 6/6.5 Formal Charge.md",
     "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
-    "AP Chemistry/About/About.md",
     "Computer Science/Computer Science Notes/0.0 Class Information.md",
     "AP Chemistry/About",
     "Computer Science/Computer Science Notes/10.3 Structures III.md",
