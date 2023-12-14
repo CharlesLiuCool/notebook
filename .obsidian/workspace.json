@@ -265,7 +265,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
+                "file": "Computer Science/Computer Science Notes/12.2 Recursion II.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "42ad1c9cca34834a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Science Notes/13.1 Bits and Operations.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "43ddc9fdbde05f87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Science Notes/13.2 Bits and Operations II.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9ebeee2ca10ebf18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Science Notes/14.1 Dynamic Data Structures I.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "519b5dc59e50ad53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Science Notes/7.2 Modular Programming.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ff4fe41c0bb87435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computer Science Notes/7.2 Modular Programming.md",
                 "mode": "preview",
                 "source": true
               }
@@ -284,7 +344,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -350,7 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
+                "file": "Computer Science/Computer Science Notes/7.2 Modular Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +427,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
+                "file": "Computer Science/Computer Science Notes/7.2 Modular Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Science Notes/Final Exam Review Guide.md"
+                "file": "Computer Science/Computer Science Notes/7.2 Modular Programming.md"
               }
             }
           },
@@ -419,17 +479,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a06b7832eadafd84",
+  "active": "ff4fe41c0bb87435",
   "lastOpenFiles": [
-    "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
-    "Computer Science/Computer Science Notes/Exam 1 Review Guide.md",
-    "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
-    "Computer Science/Computer Science Notes/Ultimate Notes.md",
+    "Computer Science/Additional Resources.md",
+    "Computer Science/Computer Science Notes/7.2 Modular Programming.md",
+    "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",
+    "Computer Science/Computer Science Notes/8.1 Arrays I.md",
     "Computer Science/Computer Science Notes/9.2 Strings II.md",
     "Computer Science/Computer Science Notes/10.2 Structures II.md",
     "Computer Science/Computer Science Notes/12.1 Recursion I.md",
     "Computer Science/Computer Science Notes/12.2 Recursion II.md",
+    "Computer Science/Computer Science Notes/13.1 Bits and Operations.md",
+    "Computer Science/Computer Science Notes/13.2 Bits and Operations II.md",
+    "Computer Science/Computer Science Notes/14.1 Dynamic Data Structures I.md",
+    "Computer Science/Computer Science Notes/Exam 1 Review Guide.md",
+    "Computer Science/Computer Science Notes/Ultimate Notes.md",
+    "R Statistical Analysis/Day 1.md",
     "Computer Science/Computer Science Notes/0.0 Class Information.md",
+    "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
+    "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
     "Computer Science/Computer Science Notes/10.1 Structures I and Enumerated Types.md",
     "Computer Science/Quizzes/~$u_Quiz9.docx",
     "Computer Science/Quizzes/~$u_Quiz8.docx",
@@ -441,7 +509,6 @@
     "Computer Science/Quizzes/~$u_Quiz2.docx",
     "Computer Science/Quizzes/~$u_Quiz1.docx",
     "Computer Science/Quizzes/Liu_Quiz9.docx",
-    "Computer Science/Computer Science Notes/8.1 Arrays I.md",
     "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
     "AP Chemistry/Unit 6/6.5 Formal Charge.md",
     "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
@@ -460,13 +527,6 @@
     "Pasted image 20231212104522.png",
     "AP Chemistry/Unit 6/6.1 Metallic Bonding & Alloys.md",
     "Trigonal Planar Molecular Geometry.png ]{width=25%}.md",
-    "Linear Algebra/Linear Algebra/Final Exam Review Lecture.md",
-    "Linear Algebra/Linear Algebra/Final Exam Review.md",
-    "Linear Algebra/Linear Algebra/6.3 Orthogonal Projections.md",
-    "Linear Algebra/Linear Algebra/6.2 Orthogonal Sets.md",
-    "Linear Algebra/Linear Algebra/5.1 Eigenvalues and Eigenvectors.md",
-    "Linear Algebra/Linear Algebra/5.2 Characteristic Equations.md",
-    "About me/About me.md",
     "Untitled.canvas"
   ]
 }
