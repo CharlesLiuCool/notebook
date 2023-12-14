@@ -253,19 +253,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Science Notes/0.0 Class Information.md",
-                "mode": "preview",
+                "file": "Computer Science/Computer Science Notes/9.2 Strings II.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "b5d541710bd2bb94",
+            "id": "a06b7832eadafd84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": true
               }
@@ -350,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -419,22 +419,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5d541710bd2bb94",
+  "active": "a06b7832eadafd84",
   "lastOpenFiles": [
-    "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
-    "AP Chemistry/About/About.md",
-    "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
-    "AP Chemistry/Unit 6/6.5 Formal Charge.md",
-    "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
-    "Computer Science/Computer Science Notes/0.0 Class Information.md",
-    "AP Chemistry/About",
-    "Computer Science/Computer Science Notes/10.3 Structures III.md",
+    "Computer Science/Computer Science Notes/9.2 Strings II.md",
+    "Untitled.md",
     "Computer Science/Computer Science Notes/10.2 Structures II.md",
-    "Computer Science/Computer Science Notes/10.1 Structures I and Enumerated Types.md",
+    "Computer Science/Computer Science Notes/12.1 Recursion I.md",
+    "Computer Science/Computer Science Notes/12.2 Recursion II.md",
     "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
     "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
-    "Computer Science/Computer Science Notes/12.2 Recursion II.md",
-    "Computer Science/Computer Science Notes/12.1 Recursion I.md",
+    "Computer Science/Computer Science Notes/0.0 Class Information.md",
+    "Computer Science/Computer Science Notes/10.1 Structures I and Enumerated Types.md",
+    "Computer Science/Quizzes/~$u_Quiz9.docx",
+    "Computer Science/Quizzes/~$u_Quiz8.docx",
+    "Computer Science/Quizzes/~$u_Quiz7.docx",
+    "Computer Science/Quizzes/~$u_Quiz6.docx",
+    "Computer Science/Quizzes/~$u_Quiz5.docx",
+    "Computer Science/Quizzes/~$u_Quiz4.docx",
+    "Computer Science/Quizzes/~$u_Quiz3.docx",
+    "Computer Science/Quizzes/~$u_Quiz2.docx",
+    "Computer Science/Quizzes/~$u_Quiz1.docx",
+    "Computer Science/Quizzes/Liu_Quiz9.docx",
+    "Computer Science/Computer Science Notes/8.1 Arrays I.md",
+    "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
+    "AP Chemistry/Unit 6/6.5 Formal Charge.md",
+    "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
+    "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
+    "AP Chemistry/About/About.md",
+    "Computer Science/Computer Science Notes/10.3 Structures III.md",
     "AP Chemistry/Unit 6/Images/Square Planar Molecular Geometry.png",
     "Pasted image 20231212105654.png",
     "AP Chemistry/Unit 6/Images/Square Pyramidal Molecular Geometry.png",
@@ -447,7 +459,6 @@
     "Pasted image 20231212104522.png",
     "AP Chemistry/Unit 6/6.1 Metallic Bonding & Alloys.md",
     "Trigonal Planar Molecular Geometry.png ]{width=25%}.md",
-    "AP Chemistry/Unit 6/Images",
     "Linear Algebra/Linear Algebra/Final Exam Review Lecture.md",
     "Linear Algebra/Linear Algebra/Final Exam Review.md",
     "Linear Algebra/Linear Algebra/6.3 Orthogonal Projections.md",
@@ -455,17 +466,7 @@
     "Computer Science/Computer Science Notes/Ultimate Notes.md",
     "Linear Algebra/Linear Algebra/5.1 Eigenvalues and Eigenvectors.md",
     "Linear Algebra/Linear Algebra/5.2 Characteristic Equations.md",
-    "Computer Science/~$u_Quiz5.docx",
-    "Computer Science/~$u_Quiz7.docx",
-    "Computer Science/~$u_Quiz8.docx",
-    "Computer Science/~$u_Quiz9.docx",
     "About me/About me.md",
-    "Linear Algebra/Linear Algebra/Exam 2 Review.md",
-    "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
-    "AP Chemistry/Unit 6",
-    "AP Chemistry",
-    "About me",
-    "0.0 Class Information",
     "Untitled.canvas"
   ]
 }

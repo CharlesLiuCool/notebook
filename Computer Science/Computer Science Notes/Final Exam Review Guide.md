@@ -5,7 +5,7 @@
 Recursion is the process in which a function/algorithm calls itself.
 
 **Define what is a base case and what is a recursive step**  
-Base case is the simplest scenario where the problem is solved directly without further recursion
+Base case is the simplest scenario where the problem is solved directly without further recursion. It is where the recursion eventually ends.
 Recursive step is where the problem is broken into smaller subproblems by calling the same function
 
 **Define what is a recursive function**  
