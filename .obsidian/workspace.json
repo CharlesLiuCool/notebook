@@ -325,7 +325,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Science Notes/7.2 Modular Programming.md",
+                "file": "Computer Science/Computer Science Notes/13.1 Bits and Operations.md",
                 "mode": "preview",
                 "source": true
               }
@@ -410,7 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Science Notes/7.2 Modular Programming.md",
+                "file": "Computer Science/Computer Science Notes/13.1 Bits and Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -427,7 +427,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Science Notes/7.2 Modular Programming.md",
+                "file": "Computer Science/Computer Science Notes/13.1 Bits and Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -450,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Science Notes/7.2 Modular Programming.md"
+                "file": "Computer Science/Computer Science Notes/13.1 Bits and Operations.md"
               }
             }
           },
@@ -481,24 +481,24 @@
   },
   "active": "ff4fe41c0bb87435",
   "lastOpenFiles": [
-    "Computer Science/Additional Resources.md",
-    "Computer Science/Computer Science Notes/7.2 Modular Programming.md",
-    "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",
+    "Computer Science/Computer Science Notes/13.2 Bits and Operations II.md",
+    "Computer Science/Computer Science Notes/14.1 Dynamic Data Structures I.md",
+    "Computer Science/Computer Science Notes/13.1 Bits and Operations.md",
+    "Computer Science/Computer Science Notes/12.2 Recursion II.md",
+    "Computer Science/Computer Science Notes/10.1 Structures I and Enumerated Types.md",
     "Computer Science/Computer Science Notes/8.1 Arrays I.md",
+    "Computer Science/Computer Science Notes/7.2 Modular Programming.md",
+    "Computer Science/Additional Resources.md",
+    "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",
     "Computer Science/Computer Science Notes/9.2 Strings II.md",
     "Computer Science/Computer Science Notes/10.2 Structures II.md",
     "Computer Science/Computer Science Notes/12.1 Recursion I.md",
-    "Computer Science/Computer Science Notes/12.2 Recursion II.md",
-    "Computer Science/Computer Science Notes/13.1 Bits and Operations.md",
-    "Computer Science/Computer Science Notes/13.2 Bits and Operations II.md",
-    "Computer Science/Computer Science Notes/14.1 Dynamic Data Structures I.md",
     "Computer Science/Computer Science Notes/Exam 1 Review Guide.md",
     "Computer Science/Computer Science Notes/Ultimate Notes.md",
     "R Statistical Analysis/Day 1.md",
     "Computer Science/Computer Science Notes/0.0 Class Information.md",
     "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
     "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
-    "Computer Science/Computer Science Notes/10.1 Structures I and Enumerated Types.md",
     "Computer Science/Quizzes/~$u_Quiz9.docx",
     "Computer Science/Quizzes/~$u_Quiz8.docx",
     "Computer Science/Quizzes/~$u_Quiz7.docx",
