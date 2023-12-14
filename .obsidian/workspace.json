@@ -265,8 +265,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
+                "file": "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -350,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Computer Science/Computer Science Notes/Final Exam Review Guide.md"
               }
             }
           },
@@ -421,13 +421,14 @@
   },
   "active": "a06b7832eadafd84",
   "lastOpenFiles": [
+    "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
+    "Computer Science/Computer Science Notes/Exam 1 Review Guide.md",
+    "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
+    "Computer Science/Computer Science Notes/Ultimate Notes.md",
     "Computer Science/Computer Science Notes/9.2 Strings II.md",
-    "Untitled.md",
     "Computer Science/Computer Science Notes/10.2 Structures II.md",
     "Computer Science/Computer Science Notes/12.1 Recursion I.md",
     "Computer Science/Computer Science Notes/12.2 Recursion II.md",
-    "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
-    "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
     "Computer Science/Computer Science Notes/0.0 Class Information.md",
     "Computer Science/Computer Science Notes/10.1 Structures I and Enumerated Types.md",
     "Computer Science/Quizzes/~$u_Quiz9.docx",
@@ -463,7 +464,6 @@
     "Linear Algebra/Linear Algebra/Final Exam Review.md",
     "Linear Algebra/Linear Algebra/6.3 Orthogonal Projections.md",
     "Linear Algebra/Linear Algebra/6.2 Orthogonal Sets.md",
-    "Computer Science/Computer Science Notes/Ultimate Notes.md",
     "Linear Algebra/Linear Algebra/5.1 Eigenvalues and Eigenvectors.md",
     "Linear Algebra/Linear Algebra/5.2 Characteristic Equations.md",
     "About me/About me.md",
