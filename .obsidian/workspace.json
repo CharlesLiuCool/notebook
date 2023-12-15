@@ -385,7 +385,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Chemistry/Unit 7/7.2 Intermolecular Forces.md",
+                "file": "AP Chemistry/Unit 7/7.1 Molecular Polarity.md",
                 "mode": "preview",
                 "source": true
               }
@@ -470,7 +470,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Chemistry/Unit 7/7.2 Intermolecular Forces.md",
+                "file": "AP Chemistry/Unit 7/7.1 Molecular Polarity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -487,7 +487,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Chemistry/Unit 7/7.2 Intermolecular Forces.md",
+                "file": "AP Chemistry/Unit 7/7.1 Molecular Polarity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -510,7 +510,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP Chemistry/Unit 7/7.2 Intermolecular Forces.md"
+                "file": "AP Chemistry/Unit 7/7.1 Molecular Polarity.md"
               }
             }
           },
@@ -539,8 +539,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaffc4925a87ff86",
+  "active": "35403b8bbb33845b",
   "lastOpenFiles": [
+    "AP Chemistry/Unit 7/7.2 Intermolecular Forces.md",
     "AP Chemistry/Unit 5/5.4 Ionic Bonding.md",
     "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
     "AP Chemistry/Unit 6/6.1 Metallic Bonding & Alloys.md",
@@ -550,7 +551,6 @@
     "AP Chemistry/Unit 6/6.7 Hybridization.md",
     "AP Chemistry/About/Passed Sections.md",
     "AP Chemistry/Unit 5",
-    "AP Chemistry/Unit 7/7.2 Intermolecular Forces.md",
     "AP Chemistry/Unit 7/7.1 Molecular Polarity.md",
     "AP Chemistry/Unit 7",
     "AP Chemistry/Unit 6/Images/Square Planar Molecular Geometry.png",
