@@ -325,7 +325,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Science Notes/13.1 Bits and Operations.md",
+                "file": "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "89103a037f8ef151",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2ea11a32c16fb1a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Chemistry/Unit 7/7.1 Molecular Polarity.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9c8764a4d3f30d7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Chemistry/Unit 6/6.5 Formal Charge.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "65af2e08dea61f0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Chemistry/About/Passed Sections.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "35403b8bbb33845b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Chemistry/Unit 7/7.2 Intermolecular Forces.md",
                 "mode": "preview",
                 "source": true
               }
@@ -344,7 +404,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -410,7 +470,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Science Notes/13.1 Bits and Operations.md",
+                "file": "AP Chemistry/Unit 7/7.2 Intermolecular Forces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -427,7 +487,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Science Notes/13.1 Bits and Operations.md",
+                "file": "AP Chemistry/Unit 7/7.2 Intermolecular Forces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -450,7 +510,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Computer Science Notes/13.1 Bits and Operations.md"
+                "file": "AP Chemistry/Unit 7/7.2 Intermolecular Forces.md"
               }
             }
           },
@@ -479,26 +539,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff4fe41c0bb87435",
+  "active": "eaffc4925a87ff86",
   "lastOpenFiles": [
-    "Computer Science/Computer Science Notes/13.2 Bits and Operations II.md",
-    "Computer Science/Computer Science Notes/14.1 Dynamic Data Structures I.md",
-    "Computer Science/Computer Science Notes/13.1 Bits and Operations.md",
+    "AP Chemistry/Unit 5/5.4 Ionic Bonding.md",
+    "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
+    "AP Chemistry/Unit 6/6.1 Metallic Bonding & Alloys.md",
+    "AP Chemistry/Unit 6/6.5 Formal Charge.md",
+    "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
+    "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
+    "AP Chemistry/Unit 6/6.7 Hybridization.md",
+    "AP Chemistry/About/Passed Sections.md",
+    "AP Chemistry/Unit 5",
+    "AP Chemistry/Unit 7/7.2 Intermolecular Forces.md",
+    "AP Chemistry/Unit 7/7.1 Molecular Polarity.md",
+    "AP Chemistry/Unit 7",
+    "AP Chemistry/Unit 6/Images/Square Planar Molecular Geometry.png",
+    "AP Chemistry/Images/Periodic Table of Elements.png",
+    "AP Chemistry/Images",
     "Computer Science/Computer Science Notes/12.2 Recursion II.md",
-    "Computer Science/Computer Science Notes/10.1 Structures I and Enumerated Types.md",
-    "Computer Science/Computer Science Notes/8.1 Arrays I.md",
-    "Computer Science/Computer Science Notes/7.2 Modular Programming.md",
-    "Computer Science/Additional Resources.md",
-    "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",
-    "Computer Science/Computer Science Notes/9.2 Strings II.md",
-    "Computer Science/Computer Science Notes/10.2 Structures II.md",
     "Computer Science/Computer Science Notes/12.1 Recursion I.md",
-    "Computer Science/Computer Science Notes/Exam 1 Review Guide.md",
-    "Computer Science/Computer Science Notes/Ultimate Notes.md",
-    "R Statistical Analysis/Day 1.md",
-    "Computer Science/Computer Science Notes/0.0 Class Information.md",
+    "Computer Science/Computer Science Notes/13.1 Bits and Operations.md",
+    "Computer Science/Computer Science Notes/10.2 Structures II.md",
+    "Computer Science/Computer Science Notes/10.3 Structures III.md",
+    "AP Chemistry/About/About.md",
+    "Linear Algebra/Linear Algebra/1.8 Introduction to Linear Transformation.md",
+    "Linear Algebra/Linear Algebra/1.9 Matrix of Linear Transformation.md",
+    "Computer Science/Additional Resources.md",
     "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
-    "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
+    "Computer Science/Computer Science Notes/13.2 Bits and Operations II.md",
+    "Computer Science/Computer Science Notes/8.1 Arrays I.md",
+    "Computer Science/Computer Science Notes/1.1 Introduction to Algorithms.md",
+    "Linear Algebra/Linear Algebra/2.3 Characterization of Invertible Matrices.md",
+    "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
+    "Linear Algebra/Linear Algebra/5.2 Characteristic Equations.md",
+    "AP Chemistry/Unit 6/Images/Trigonal Pyramidal Molecular Geometry.png",
+    "AP Chemistry/Unit 6/Images/Tetrahedral Molecular Geometry.png",
+    "AP Chemistry/Unit 6/Images/Trigonal Planar Molecular Geometry.png",
     "Computer Science/Quizzes/~$u_Quiz9.docx",
     "Computer Science/Quizzes/~$u_Quiz8.docx",
     "Computer Science/Quizzes/~$u_Quiz7.docx",
@@ -506,27 +582,11 @@
     "Computer Science/Quizzes/~$u_Quiz5.docx",
     "Computer Science/Quizzes/~$u_Quiz4.docx",
     "Computer Science/Quizzes/~$u_Quiz3.docx",
-    "Computer Science/Quizzes/~$u_Quiz2.docx",
-    "Computer Science/Quizzes/~$u_Quiz1.docx",
-    "Computer Science/Quizzes/Liu_Quiz9.docx",
-    "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
-    "AP Chemistry/Unit 6/6.5 Formal Charge.md",
-    "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
-    "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
-    "AP Chemistry/About/About.md",
-    "Computer Science/Computer Science Notes/10.3 Structures III.md",
-    "AP Chemistry/Unit 6/Images/Square Planar Molecular Geometry.png",
     "Pasted image 20231212105654.png",
     "AP Chemistry/Unit 6/Images/Square Pyramidal Molecular Geometry.png",
     "AP Chemistry/Unit 6/Images/Octahedral Molecular Geometry.png",
     "AP Chemistry/Unit 6/Images/T-shaped Molecular Geometry.png",
     "AP Chemistry/Unit 6/Images/Seesaw Molecular Geometry.png",
-    "AP Chemistry/Unit 6/Images/Trigonal Pyramidal Molecular Geometry.png",
-    "AP Chemistry/Unit 6/Images/Tetrahedral Molecular Geometry.png",
-    "AP Chemistry/Unit 6/Images/Tetrahedral Molecular Geometry.png",
-    "Pasted image 20231212104522.png",
-    "AP Chemistry/Unit 6/6.1 Metallic Bonding & Alloys.md",
-    "Trigonal Planar Molecular Geometry.png ]{width=25%}.md",
     "Untitled.canvas"
   ]
 }
