@@ -6,8 +6,8 @@
 
 ### Note: The notes are incomplete
 
-**COMPLETED SECTIONS:**
+**COMPLETED SECTIONS OF NOTES:**
 
 `Unit 6`
-- 6.3 Ionic & Covalent Naming
-- 6.6 Molecular Geometry
+- [[6.3 Ionic & Covalent Naming]]
+- [[6.6 Molecular Geometry]]

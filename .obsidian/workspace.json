@@ -4,407 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "1ffa2186920b35d0",
+        "id": "a590d0f1c4734b78",
         "type": "tabs",
         "children": [
           {
-            "id": "e2655e69742f84a6",
+            "id": "d6976d261fc67e73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/Linear Algebra/5.2 Characteristic Equations.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2a458af05e27fa6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Computer Science Notes/9.1 Strings I.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ebde5d83c366fc33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "466933f9557bac6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/Linear Algebra/2.3 Characterization of Invertible Matrices.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "541889ef2af0f516",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/Linear Algebra/1.8 Introduction to Linear Transformation.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ce60fb4891f25386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/Linear Algebra/Exam 2 Review.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "de2f07c5c7419533",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9ec1282ac3033901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "847dede20cd25c43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/Linear Algebra/0.0 Class Information.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1de3a19d8b8c77ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7f6c3eeb94e33c37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Computer Science Notes/12.1 Recursion I.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "aba295f39c36b464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Computer Science Notes/Ultimate Notes.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7cc3d3eee2638943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/Linear Algebra/6.2 Orthogonal Sets.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e3822fca3adf2655",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a19b806b68183b41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/Linear Algebra/Final Exam Review.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d3a94a4a86e1f8c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Chemistry/Unit 6/6.1 Metallic Bonding & Alloys.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "aad9b95d50cbe3ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "277d2897b20bd80b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3d063cd6f0d1f4e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Chemistry/Unit 6/6.5 Formal Charge.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ce61d8f5a81827fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bbc9e50c5387fb64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Computer Science Notes/9.2 Strings II.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a06b7832eadafd84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Computer Science Notes/12.2 Recursion II.md",
+                "file": "AP Chemistry/Unit 5/5.5 Ionic Naming.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "42ad1c9cca34834a",
+            "id": "5a7e419f55be9804",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Science Notes/13.1 Bits and Operations.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "43ddc9fdbde05f87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Computer Science Notes/13.2 Bits and Operations II.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9ebeee2ca10ebf18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Computer Science Notes/14.1 Dynamic Data Structures I.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "519b5dc59e50ad53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Computer Science Notes/7.2 Modular Programming.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ff4fe41c0bb87435",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
+                "file": "AP Chemistry/Unit 8/8.4 Enthalpy of Solution.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "89103a037f8ef151",
+            "id": "35f0d34b52f48493",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2ea11a32c16fb1a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Chemistry/Unit 7/7.1 Molecular Polarity.md",
+                "file": "AP Chemistry/Unit 8/8.1 Enthalpy of Phase Changes.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "9c8764a4d3f30d7b",
+            "id": "e7e50e2834347ef5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Chemistry/Unit 6/6.5 Formal Charge.md",
+                "file": "AP Chemistry/Unit 8/8.1 Enthalpy of Phase Changes.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "65af2e08dea61f0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Chemistry/About/Passed Sections.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "35403b8bbb33845b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2893593598c8fba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linear Algebra/Linear Algebra/3.1 Introduction to Determinants.md",
-                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -454,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "489dec59a85c3480",
@@ -470,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
+                "file": "AP Chemistry/Unit 8/8.1 Enthalpy of Phase Changes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -487,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
+                "file": "AP Chemistry/Unit 8/8.1 Enthalpy of Phase Changes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -510,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md"
+                "file": "AP Chemistry/Unit 8/8.1 Enthalpy of Phase Changes.md"
               }
             }
           },
@@ -539,53 +192,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35403b8bbb33845b",
+  "active": "e7e50e2834347ef5",
   "lastOpenFiles": [
-    "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
-    "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
-    "AP Chemistry/Unit 6/6.7 Hybridization.md",
-    "AP Chemistry/Unit 6/6.5 Formal Charge.md",
-    "Linear Algebra/Linear Algebra/6.2 Orthogonal Sets.md",
-    "APUSH",
-    "Linear Algebra/Linear Algebra/5.2 Characteristic Equations.md",
-    "Linear Algebra/Linear Algebra/3.1 Introduction to Determinants.md",
-    "Linear Algebra/Linear Algebra/1.9 Matrix of Linear Transformation.md",
+    "AP Chemistry/Unit 8/8.4 Enthalpy of Solution.md",
+    "AP Chemistry/Unit 8/Images/Ice Heating Curve Labelled.png",
+    "About/Plugins Used on Obsidian.md",
+    "AP Chemistry/Unit 8/8.1 Enthalpy of Phase Changes.md",
+    "AP Chemistry/Unit 8/Images/Ice Heating Curve 1.png",
+    "AP Chemistry/Unit 8/Images/Ice Heating Curve.png",
+    "AP Chemistry/Unit 8/Images",
     "AP Chemistry/Unit 7/7.2 Intermolecular Forces.md",
-    "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
-    "AP Chemistry/Unit 6/6.1 Metallic Bonding & Alloys.md",
-    "About me/About me.md",
-    "AP Chemistry/Images/Periodic Table of Elements.png",
-    "AP Chemistry/Unit 5/5.4 Ionic Bonding.md",
-    "Linear Algebra/Linear Algebra/6.3 Orthogonal Projections.md",
-    "Linear Algebra/Linear Algebra/2.3 Characterization of Invertible Matrices.md",
-    "Computer Science/Additional Resources.md",
-    "Computer Science/Computer Science Notes/Ultimate Notes.md",
-    "Computer Science/Computer Science Notes/Final Exam Review Guide.md",
-    "Computer Science/Computer Science Notes/Exam 2 Review Guide.md",
-    "Computer Science/Computer Science Notes/13.1 Bits and Operations.md",
-    "Computer Science/Computer Science Notes/12.1 Recursion I.md",
-    "Computer Science/Computer Science Notes/9.2 Strings II.md",
     "AP Chemistry/Unit 7/7.1 Molecular Polarity.md",
-    "Computer Science/Computer Science Notes/7.2 Modular Programming.md",
+    "AP Chemistry/Unit 5/5.5 Ionic Naming.md",
+    "AP Chemistry/Unit 5/5.4 Ionic Bonding.md",
     "AP Chemistry/About/Passed Sections.md",
-    "AP Chemistry/Unit 5",
-    "AP Chemistry/Unit 7",
+    "About/Theme Code (theme.css).md",
+    "About/About me.md",
+    "Computer Science 121/About/Computer Science 121 Information.md",
+    "Computer Science 121/Additional Resources.md",
+    "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
+    "AP Chemistry/About/AP Chemistry Information.md",
+    "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
+    "APUSH/Unit 5 (1844 - 1877)/Unit 5 Terms.md",
+    "Linear Algebra/Linear Algebra/5.1 Eigenvalues and Eigenvectors.md",
+    "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
+    "Linear Algebra/Linear Algebra/1.9 Matrix of Linear Transformation.md",
+    "Linear Algebra/Linear Algebra/1.2 Row Reduction & Echelon Form.md",
+    "Linear Algebra/Linear Algebra/About/Linear Algebra Information.md",
+    "Linear Algebra/Linear Algebra/Inverse Matrix Theorem.md",
+    "Linear Algebra/Linear Algebra/Final Exam Review Lecture.md",
+    "Linear Algebra/Linear Algebra/Final Exam Review.md",
+    "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
+    "Computer Science 121/About",
+    "Linear Algebra/Linear Algebra/About",
+    "About/Find a Resource.canvas",
+    "APUSH/Unit 5 (1844 - 1877)",
+    "APUSH/Unit 4 (1800 - 1848)",
+    "APUSH/Unit 3 (1754 - 1800)",
+    "AP Chemistry/Unit 8",
+    "AP Chemistry/Unit 1",
+    "AP Chemistry/Unit 4",
+    "APUSH/Unit 2 (1607 - 1754)",
+    "AP Chemistry/Images/Periodic Table of Elements.png",
     "AP Chemistry/Unit 6/Images/Square Planar Molecular Geometry.png",
-    "AP Chemistry/Images",
     "AP Chemistry/Unit 6/Images/Trigonal Pyramidal Molecular Geometry.png",
     "AP Chemistry/Unit 6/Images/Tetrahedral Molecular Geometry.png",
     "AP Chemistry/Unit 6/Images/Trigonal Planar Molecular Geometry.png",
-    "Computer Science/Quizzes/~$u_Quiz9.docx",
-    "Computer Science/Quizzes/~$u_Quiz8.docx",
-    "Computer Science/Quizzes/~$u_Quiz7.docx",
-    "Computer Science/Quizzes/~$u_Quiz6.docx",
-    "Computer Science/Quizzes/~$u_Quiz5.docx",
-    "Computer Science/Quizzes/~$u_Quiz4.docx",
     "Pasted image 20231212105654.png",
     "AP Chemistry/Unit 6/Images/Square Pyramidal Molecular Geometry.png",
-    "AP Chemistry/Unit 6/Images/Octahedral Molecular Geometry.png",
-    "AP Chemistry/Unit 6/Images/T-shaped Molecular Geometry.png",
-    "AP Chemistry/Unit 6/Images/Seesaw Molecular Geometry.png",
     "Untitled.canvas"
   ]
 }

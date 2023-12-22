@@ -100,8 +100,8 @@ $\large{B = \begin{bmatrix} 3 & 5 & 6 & 4  \\ 0 & 2 & 3 & 3 \\ 0 & 0 & 1 & 5 \\ 
 **(e)** $\large{\det(B^{-1}AB)}$  
 5. For each of the following systems of linear equations, determine all value(s) of $\large{k}$ for  
 which the system is consistent.  
-(a) 6x 1 5x 2 = 4  
-9x 1 + kx2 = 1  
+**(a)** $\large{6x_1 5x_2 = 4}$
+$\large{9x_1 + kx_2 = 1}$ 
 (b) 6x 1 8x 2 = k  
 9x 1 + 12x 2 = 1  
 6. Let T : IR 3 ! IR 3 be a linear transformation such that T (e 1 ) = [0, 2, 1] T , T (e 2 ) =  
@@ -253,3 +253,9 @@ so in the statement.)
 (j) The projection of u onto W = Span{v 1 , v 2 , ...v n } gives the shortest distance  
 between u and W .  
 5
+
+#### Tags
+
+>[!quote] Tags:
+> [[Linear Algebra Information|Linear Algebra Information]]
+

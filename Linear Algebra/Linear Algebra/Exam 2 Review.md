@@ -324,3 +324,9 @@ False
 
 **(m)** If $\large{S}$ is a set of 2 vectors, each of which is in $\large{\mathbb{R}^3}$, then $\large{S}$ does not span $\large{\mathbb{R}^3}$.
 True
+
+#### Tags
+
+>[!quote] Tags:
+> [[Linear Algebra Information|Linear Algebra Information]]
+

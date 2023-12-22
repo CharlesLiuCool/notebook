@@ -20,3 +20,8 @@ Characteristic polynomial
 $\large{\det(A - \lambda I) = \begin{bmatrix} 6 - \lambda & 5 & 2 \\ 0 & 4 - \lambda & 0 \\ 2 & 4 & 6-\lambda \end{bmatrix}\;\;\;\;\begin{bmatrix} + & - & + \\ - & + & - \\ + & - & +\end{bmatrix}}$
 
 $\large{\begin{align} &= (4-\lambda) \begin{bmatrix} 6 - \lambda & 2 \\ 2 & 6 - \lambda\end{bmatrix} = (4 - \lambda)[\,(6-\lambda)^2 - 2^2\,] = (4-\lambda)(6-\lambda-2)(6-\lambda+2) \\ \\ &= (4-\lambda)(4-\lambda)(8-\lambda) = (4-\lambda)^2(8-\lambda) \end{align}}$  
+#### Tags
+
+>[!quote] Tags:
+> [[Linear Algebra Information|Linear Algebra Information]]
+

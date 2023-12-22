@@ -1,11 +1,11 @@
 #### Chapter 5: Iteration, Iteration, Iteration...  
 
-- **Define what is repetition in programs**
-	- Allows for a group of operations to be performed multiple times
+>[!book] **Define what is repetition in programs**
+> - Allows for a group of operations to be performed multiple times
 
-- **Apply and implement the 3 looping constructs supported in C**
-	- `for( )`, `while( )`, `do-while ( )` 
-	- Recall these loop constructs may be transformed into one another  
+>[!book] **Apply and implement the 3 looping constructs supported in C**
+> - `for( )`, `while( )`, `do-while ( )` 
+> - Recall these loop constructs may be transformed into one another  
 
 - **Identify, apply, and implement the 5 major loop patterns **
 	- Counting or counter-controlled loop, used with `for( )` and `while( )`  
