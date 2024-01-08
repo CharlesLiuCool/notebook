@@ -9,7 +9,7 @@
 ### Note: The notes are incomplete
 
 **COMPLETED SECTIONS:**
-- [[1.1 Introduction to Algorithms]]]
+- [[1.1 Introduction to Algorithms]]
 - [[9.2 Strings II]]
 - [[10.1 Structures I and Enumerated Types]]
 - [[10.2 Structures II]]

@@ -6,9 +6,9 @@
 
 ### Current Classes
 
->[!book] **Computer Science 121**
+>[!book] **Computer Science 122**
 
->[!book] **Linear Algebra 220** 
+>[!book] **Calculus III Math 273** 
 
 >[!book] **AP Literature**
 

@@ -109,4 +109,4 @@
 >[!info]- Writ of Habeus Corpus / 1st Amendment New York City Riots
 >
 > > [!book] Writ of Habeus Corpus
-> > A legal rule that protects an individual's rights from unlawful detention or imprisonment. During civil unrest, suspension of the writ could be used to take order. President Lincoln suspended the Writ of Habeus Corpus. 
+> > A legal rule that protects an individual's rights from unlawful detention or imprisonment. During civil unrest, suspension of the writ could be used to take order. President Lincoln suspended the Writ of Habeus Corpus to suppress riots against drafting for the war in New York City. 

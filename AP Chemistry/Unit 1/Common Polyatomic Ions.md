@@ -10,12 +10,12 @@
 | `Perchlorate` | $\large{\text{ClO}_4^-}$ |
 | `Bicarbonate` | $\large{\text{HCO}_3^-}$ |
 | `Dihydrogen Phosphate` | $\large{\text{H}_2\text{PO}_4^-}$ |
-| `Hydrogen Sulfite` | $\large{HSO_3^-}$|
-| `Hydrogen (Bi)sulfate` | $\large{HSO_4^-}$ |
-| `Permanganate` | $\large{MnO_4^-}$ |
-| `Thiocyanate` | $\large{SCN^-}$ |
-| `Nitrite` | $\large{NO_2^-}$ |
-| `Nitrate` | $\large{NO_3^-}$ |
+| `Hydrogen Sulfite` | $\large{\text{HSO}_3^-}$|
+| `Hydrogen (Bi)sulfate` | $\large{\text{HSO}_4^-}$ |
+| `Permanganate` | $\large{\text{MnO}_4^-}$ |
+| `Thiocyanate` | $\large{\text{SCN}^-}$ |
+| `Nitrite` | $\large{\text{NO}_2^-}$ |
+| `Nitrate` | $\large{\text{NO}_3^-}$ |
 | `Hydroxide` | $\large{OH^-}$ |
 | `Oxalate` | $\large{C_2O_4^{2-}}$ |
 | `Carbonate` | $\large{CO_3^{2-}}$ |

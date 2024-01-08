@@ -109,15 +109,15 @@ but it wil come soon or later.
 
 --text-faint: #7aa2f7;
 
---text-title-h1: var(--text-accent);
+--text-title-h1: #4800ff;
 
---text-title-h2: #cbdbe5;
+--text-title-h2: rgb(255, 0, 0);
 
---text-title-h3: #cbdbe5;
+--text-title-h3: #ffa04c;
 
---text-title-h4: #cbdbe5;
+--text-title-h4: #fffd79;
 
---text-title-h5: #cbdbe5;
+--text-title-h5: #83ff75;
 
 --text-link: #b4b4b4;
 

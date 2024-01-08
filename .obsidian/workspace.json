@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6976d261fc67e73",
+            "id": "2b6d0ac4aa8c00df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Chemistry/Unit 5/5.5 Ionic Naming.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5a7e419f55be9804",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Chemistry/Unit 8/8.4 Enthalpy of Solution.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "35f0d34b52f48493",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Chemistry/Unit 8/8.1 Enthalpy of Phase Changes.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e7e50e2834347ef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Chemistry/Unit 8/8.1 Enthalpy of Phase Changes.md",
+                "file": "APUSH/APUSH Daily Journal.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "489dec59a85c3480",
@@ -123,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Chemistry/Unit 8/8.1 Enthalpy of Phase Changes.md",
+                "file": "APUSH/APUSH Daily Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Chemistry/Unit 8/8.1 Enthalpy of Phase Changes.md",
+                "file": "APUSH/APUSH Daily Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP Chemistry/Unit 8/8.1 Enthalpy of Phase Changes.md"
+                "file": "APUSH/APUSH Daily Journal.md"
               }
             }
           },
@@ -192,47 +154,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7e50e2834347ef5",
+  "active": "2b6d0ac4aa8c00df",
   "lastOpenFiles": [
-    "AP Chemistry/Unit 8/8.4 Enthalpy of Solution.md",
-    "AP Chemistry/Unit 8/Images/Ice Heating Curve Labelled.png",
+    "About/About me.md",
+    "About/Theme Code (theme.css).md",
     "About/Plugins Used on Obsidian.md",
+    "AP Chemistry/Unit 5/5.5 Ionic Naming.md",
+    "Computer Science 121/Computer Science Notes/Final Exam Review Guide.md",
+    "Computer Science 121/Additional Resources.md",
+    "Computer Science 121/Computer Science Notes/Ultimate Notes.md",
+    "Computer Science 121/Computer Science Notes/Exam 2 Review Guide.md",
+    "Computer Science 121/Computer Science Notes/Exam 1 Review Guide.md",
+    "Computer Science 121/Computer Science Notes/14.1 Dynamic Data Structures I.md",
+    "APUSH/APUSH Daily Journal.md",
+    "AP Chemistry/Unit 1/Common Polyatomic Ions.md",
+    "AP Chemistry/Unit 5/5.4 Ionic Bonding.md",
+    "APUSH/Unit 6 (1865 - 1898)",
+    "Computer Science 122/1.1.md",
+    "Unit 1",
+    "APUSH/Unit 5 (1844 - 1877)/Unit 5 Terms.md",
+    "APUSH/Unit 5 (1844 - 1877)/Rutherford B. Hayes ().md",
+    "AP Chemistry/Unit 8/8.3 Reaction Diagrams.md",
+    "AP Chemistry/Unit 8/8.2 Calorimetry, Mixing Substances of Different Temperatures.md",
     "AP Chemistry/Unit 8/8.1 Enthalpy of Phase Changes.md",
-    "AP Chemistry/Unit 8/Images/Ice Heating Curve 1.png",
+    "AP Chemistry/Unit 8/8.5 Factors Influencing Bond Energy.md",
+    "AP Chemistry/Unit 8/8.4 Calorimetry, Enthalpy of Reaction and Solution.md",
+    "Computer Science 121/Computer Science Notes/10.1 Structures I and Enumerated Types.md",
+    "Computer Science 121/Computer Science Notes/7.2 Modular Programming.md",
+    "Computer Science 121/About/Computer Science 121 Information.md",
+    "Computer Science 122",
+    "AP Computer Science",
+    "AP Chemistry/Unit 8/Images/Ice Heating Curve Labelled.png",
     "AP Chemistry/Unit 8/Images/Ice Heating Curve.png",
+    "AP Chemistry/Unit 8/Images/Ice Heating Curve 1.png",
     "AP Chemistry/Unit 8/Images",
     "AP Chemistry/Unit 7/7.2 Intermolecular Forces.md",
     "AP Chemistry/Unit 7/7.1 Molecular Polarity.md",
-    "AP Chemistry/Unit 5/5.5 Ionic Naming.md",
-    "AP Chemistry/Unit 5/5.4 Ionic Bonding.md",
-    "AP Chemistry/About/Passed Sections.md",
-    "About/Theme Code (theme.css).md",
-    "About/About me.md",
-    "Computer Science 121/About/Computer Science 121 Information.md",
-    "Computer Science 121/Additional Resources.md",
-    "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
-    "AP Chemistry/About/AP Chemistry Information.md",
-    "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
-    "APUSH/Unit 5 (1844 - 1877)/Unit 5 Terms.md",
-    "Linear Algebra/Linear Algebra/5.1 Eigenvalues and Eigenvectors.md",
-    "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
-    "Linear Algebra/Linear Algebra/1.9 Matrix of Linear Transformation.md",
-    "Linear Algebra/Linear Algebra/1.2 Row Reduction & Echelon Form.md",
-    "Linear Algebra/Linear Algebra/About/Linear Algebra Information.md",
-    "Linear Algebra/Linear Algebra/Inverse Matrix Theorem.md",
-    "Linear Algebra/Linear Algebra/Final Exam Review Lecture.md",
-    "Linear Algebra/Linear Algebra/Final Exam Review.md",
-    "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
     "Computer Science 121/About",
     "Linear Algebra/Linear Algebra/About",
     "About/Find a Resource.canvas",
     "APUSH/Unit 5 (1844 - 1877)",
     "APUSH/Unit 4 (1800 - 1848)",
     "APUSH/Unit 3 (1754 - 1800)",
-    "AP Chemistry/Unit 8",
-    "AP Chemistry/Unit 1",
-    "AP Chemistry/Unit 4",
-    "APUSH/Unit 2 (1607 - 1754)",
     "AP Chemistry/Images/Periodic Table of Elements.png",
     "AP Chemistry/Unit 6/Images/Square Planar Molecular Geometry.png",
     "AP Chemistry/Unit 6/Images/Trigonal Pyramidal Molecular Geometry.png",
