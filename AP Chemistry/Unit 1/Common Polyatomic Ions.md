@@ -16,7 +16,7 @@
 | `Thiocyanate` | $\large{\text{SCN}^-}$ |
 | `Nitrite` | $\large{\text{NO}_2^-}$ |
 | `Nitrate` | $\large{\text{NO}_3^-}$ |
-| `Hydroxide` | $\large{OH^-}$ |
+| `Hydroxide` | $\large{\text{OH}^-}$ |
 | `Oxalate` | $\large{C_2O_4^{2-}}$ |
 | `Carbonate` | $\large{CO_3^{2-}}$ |
 | `Chromate` | $\large{CrO_4^{2-}}$ |

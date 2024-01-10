@@ -237,13 +237,9 @@ The electric telegraph was developed by Samuel Finley Breese Morse which would b
 
   
 
-10/27
-
-#15 What strategy helps you with multiple-choice questions?
-
+>[!clock] 10/27
+> >[!question] #15 What strategy helps you with multiple-choice questions?
 Eliminate definitely incorrect answers, use resources (passage given), and think like the test.
-
-  
 
 >[!clock] 10/30
 > >[!question] #16 How were the 1820’s & 30s different compared to the early 1800’s?
