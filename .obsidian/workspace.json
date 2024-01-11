@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus III/Review.md",
-                "mode": "source",
+                "file": "APUSH/APUSH Daily Journal.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus III/Review.md",
+                "file": "APUSH/APUSH Daily Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus III/Review.md",
+                "file": "APUSH/APUSH Daily Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus III/Review.md"
+                "file": "APUSH/APUSH Daily Journal.md"
               }
             }
           },
@@ -182,8 +182,11 @@
   },
   "active": "27b99f209e08995c",
   "lastOpenFiles": [
-    "APUSH/APUSH Daily Journal.md",
     "Calculus III/Review.md",
+    "Excalidraw/Drawing 2024-01-11 13.00.30.excalidraw.md",
+    "Excalidraw",
+    "Untitled.md",
+    "APUSH/APUSH Daily Journal.md",
     "AP Chemistry/Unit 7/7.6 Types of Solids & Properties.md",
     "AP Chemistry/Unit 7/7.3 Solubility.md",
     "AP Chemistry/Unit 7/Images/CCL4 Lewis Structure.png",
@@ -212,7 +215,6 @@
     "Linear Algebra/Linear Algebra/5.1 Eigenvalues and Eigenvectors.md",
     "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
     "Linear Algebra/Linear Algebra/3.1 Introduction to Determinants.md",
-    "Linear Algebra/Linear Algebra/2.3 Characterization of Invertible Matrices.md",
     "APUSH/Unit 6 (1865 - 1898)",
     "Unit 1",
     "Computer Science 122",
@@ -222,7 +224,6 @@
     "AP Chemistry/Unit 8/Images/Ice Heating Curve 1.png",
     "AP Chemistry/Unit 8/Images",
     "Computer Science 121/About",
-    "Linear Algebra/Linear Algebra/About",
     "About/Find a Resource.canvas",
     "AP Chemistry/Images/Periodic Table of Elements.png",
     "AP Chemistry/Unit 6/Images/Square Planar Molecular Geometry.png",

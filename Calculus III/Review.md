@@ -80,7 +80,7 @@ For a 3 by 3 determinant, we can see
 
 Finding $\large{\vec{u} \times \vec{v}}$ using matrix determinants:
 
-$$\large{\vec{u} \times \vec{v} = \begin{vmatrix} \vec{i} & \vec{j} & \vec{k} \\ u_1 & u_2 & u_3 \\ v_1 & v_2 & v_3 \end{vmatrix} = \vec{i} \begin{vmatrix} u_2 & u_3 \\ v_2 & v_3 \end{vmatrix} - \vec{j} \vmatrix{u_1 & u_3 \\ v_1 & v_3} + \vec{k} \begin{vmatrix} u_1v_2 - u_2v_1\end{vmatrix}}$$
+$$\large{\vec{u} \times \vec{v} = \begin{vmatrix} \vec{i} & \vec{j} & \vec{k} \\ u_1 & u_2 & u_3 \\ v_1 & v_2 & v_3 \end{vmatrix} = \vec{i} \begin{vmatrix} u_2 & u_3 \\ v_2 & v_3 \end{vmatrix} - \vec{j} \begin{vmatrix}u_1 & u_3 \\ v_1 & v_3\end{vmatrix} + \vec{k} \begin{vmatrix} u_1v_2 - u_2v_1 \end{vmatrix}}$$
 
 #### 13.9 (27)
 
@@ -100,3 +100,6 @@ Find the area of the triangle $\large{T}$ whose vertices are $\large{A(5,6,2)}$,
 #### 13.5 Lines & Planes in Space("space" means 3-D space, a.k.a $\mathbb{R}^3$)
 
 We'll often deal with a variable 
+
+## The equation(s) of a line in space
+
