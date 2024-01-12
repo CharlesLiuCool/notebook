@@ -25,9 +25,7 @@ $\large{\vec{u} \cdot \vec{v} = |\vec{u}|\,|\vec{v}|\,cos\theta}$
 
 So $\large{\vec{u} \cdot \vec{v}}$ is
 
-$\large{0}$ if $\large{\theta = \dfrac{\pi}{2}}$
-$\large{< 0}$ if $\large{\dfrac{\pi}{2} > \theta \leq \pi}$
-$\large{> 0}$ if $\large{0 <\theta < \dfrac{\pi}{2}}$
+![[Review Graphic 1]]
 
 and $\large{\vec{u}}$ and $\large{\vec{v}}$ are orthogonal (perpendicular) $\large{\iff \vec{u} \cdot \vec{v} = \vec{0}}$
 
@@ -61,7 +59,7 @@ The vector is $\large{(\dfrac{\vec{u} \cdot \vec{v}}{|\vec{v}|})\dfrac{\vec{v}}{
 ___
 
 Last time:
-![[Review Graphic 1]]
+![[Review Graphic 2]]
 
 ### Examples:
 
@@ -80,7 +78,7 @@ $$\large{\vec{u} = \text{<}3,-5,2\text{>}, \vec{v} = \text{<}-9,5,1\text{>}}$$
 >So: $\large{|\vec{u}| = \sqrt{9 + 25 +4} = \sqrt{38}}$, $\large{|\vec{v}| = \sqrt{81 + 25 + 1} = \sqrt{107}}$,
 >
 >and $\large{\theta = \cos^{-1}\left(\dfrac{-50}{\sqrt{38}\sqrt{107}}\right) = \pi - \cos^{-1}\left(\dfrac{-50}{\sqrt{38}\sqrt{107}}\right)}$
->![[Review Graphic 2]]
+>![[Review Graphic 3]]
 
 #### 13.3 (40)
 
@@ -97,10 +95,10 @@ The *cross-product* of $\large{\vec{u}}$ with $\large{\vec{v}}$ is a vector, den
 > 1. $\large{\vec{u} \times \vec{v}}$ is orthogonal to both $\large{\vec{u}}$ and $\large{\vec{v}}$
 > 2. The direction of $\large{\vec{u} \times \vec{v}}$ is determined by the 
 >    right hand rule":
->    ![[Review Graphic 3]]
+>    ![[Review Graphic 4]]
 > 3. $\large{|\vec{u} \times \vec{v}| = |\vec{u}| |\vec{v}|\,\sin\theta}$
 >  = area of parallelogram below.
->  ![[Review Graphic 4]]
+>  ![[Review Graphic 5]]
 
 
 ## Theorem 13.4 Properties of the Cross Product
@@ -118,7 +116,7 @@ $\large{\vec{j} \times \vec{i} = -\vec{k}}$
 $\large{\vec{j} \times \vec{k} = \vec{i}}$
 etc.
 
-![[Review Graphic 5|300]]
+![[Review Graphic 6|300]]
 
 ### Compute Cross Product
 
@@ -167,7 +165,7 @@ $$\large{\vec{v} \times \vec{u} = -(\vec{u} \times \vec{v}) = \text{<} -8, -4, -
 >[!question] Find the area of the triangle $\large{T}$ whose vertices are $\large{A(5,6,2)}$, $\large{B(7,16,4)}$, $\large{C(6,7,3)}$
 
 >[!check]- Solution
->![[Review Graphic 6]]
+>![[Review Graphic 7]]
 >$\large{\overrightarrow{AB} \times \overrightarrow{AC} = \begin{vmatrix} \vec{i} & \vec{j} & \vec{k} \\ 2 & 10 & 2 \\ 1 & 1 & 1 \end{vmatrix} = \text{...} = \text{<}8,0,-8 \text{>}}$
 >So the area of the parallelogram is $\large{|8, 0, -17| = \sqrt{128}}$, so the 
 >
@@ -178,7 +176,7 @@ $$\large{\vec{v} \times \vec{u} = -(\vec{u} \times \vec{v}) = \text{<} -8, -4, -
 **Preliminary Info:**
 When a vector is drawn or pictured with its tail at the origin, it's called a *"position vector"*, because the vector's components then correspond to the coordinates of the point (position) at its tip:
 
-![[Review Graphic 7]]
+![[Review Graphic 8]]
 
 We'll often deal with a variable point $\large{(x, y, z)}$, and its position vector $\large{\text{<}x, y, z \text{>}}$. Just as we often give a name to a specified vector:
 $$\large{\vec{v} = \text{<} 1, 2, -4\text{>}}$$
@@ -188,4 +186,4 @@ $$\large{\vec{r} = \text{<} x, y, z\text{>}}$$
 much like functions are usually called $\large{f}$.
 
 ## The equation(s) of a line in space
-![[Review Graphic 8|400]]
+![[Review Graphic 9|400]]
