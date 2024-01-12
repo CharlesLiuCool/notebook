@@ -386,3 +386,8 @@ John D. Rockefeller had over 410 billion dollars. He took control of the newly d
 >[!clock] 1/10
 > >[!question] #2 What impact did Rockefeller have on U.S. history?
 > > He monopolized oil. He also built trusts to not be taken down as a monopoly. He also was a great philanthropist and contributed to the promotion of education, health, and scientific research. 
+
+>[!clock] 1/11
+> >[!question] #3 Name a similarity & difference between Rockefeller and Carnegie?
+> > Both were rich philanthropists that made their money through business. Rockefeller donated directly to the poor, but Carnegie believed in donating to help the poor help themselves.
+
