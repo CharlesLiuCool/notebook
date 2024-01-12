@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus III/Review.md",
+                "file": "About/About me.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus III/Review.md",
+                "file": "About/About me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus III/Review.md",
+                "file": "About/About me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus III/Review.md"
+                "file": "About/About me.md"
               }
             }
           },
@@ -167,9 +167,12 @@
   },
   "active": "d9be50968f8fcb8d",
   "lastOpenFiles": [
+    "Calculus III/Review.md",
+    "About/Plugins Used on Obsidian.md",
+    "About/Theme Code (theme.css).md",
+    "About/About me.md",
     "Calculus III/Excalidraw/Review/Review Graphic 8.md",
     "Calculus III/Excalidraw/Review/Review Graphic 7.md",
-    "Calculus III/Review.md",
     "Calculus III/Excalidraw/Review/Review Graphic 6.md",
     "AP Chemistry/Unit 6/6.7 Hybridization.md",
     "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
@@ -194,11 +197,8 @@
     "AP Chemistry/Unit 7/7.6 Types of Solids & Properties.md",
     "AP Chemistry/Unit 7/Images/CCL4 Lewis Structure.png",
     "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
-    "AP Chemistry/Unit 7/7.2 Intermolecular Forces.md",
     "AP Chemistry/Unit 7/Images/H2S Lewis Structure.png",
-    "AP Chemistry/About/AP Chemistry Information.md",
     "AP Chemistry/Unit 7/Images/HF Lewis Structure.png",
-    "AP Chemistry/Unit 5/5.5 Ionic Naming.md",
     "AP Chemistry/Unit 7/Images",
     "Calculus III",
     "AP Computer Science/Unit 1",

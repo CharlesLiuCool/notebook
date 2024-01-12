@@ -1,19 +1,17 @@
-### Name: Charles Liu
-
-### Grade: 11th
-
-### School(s): Pullman High School & WSU
-
-### Current Classes
-
->[!book] **Computer Science 122**
-
->[!book] **Calculus III Math 273** 
-
->[!book] **AP Literature**
-
->[!book] **Marketing Operations**
-
->[!book] **AP Chemistry**
-
->[!book] **AP United States History**
+>[!book] 
+>**Name:** Charles Liu
+>
+**Grade:** 11th
+>
+**Email:** charles.boyan.liu@gmail.com (email me if you find any problems)
+>
+ **School(s):** Pullman High School & WSU
+>
+**Current Classes:**
+>
+> 1. Computer Science 122
+> 2. Calculus III Math 273 
+>3. AP Literature
+>4. Marketing Operations
+>5. AP Chemistry
+>6. AP United States History
