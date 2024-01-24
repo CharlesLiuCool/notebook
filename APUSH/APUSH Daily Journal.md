@@ -391,3 +391,26 @@ John D. Rockefeller had over 410 billion dollars. He took control of the newly d
 > >[!question] #3 Name a similarity & difference between Rockefeller and Carnegie?
 > > Both were rich philanthropists that made their money through business. Rockefeller donated directly to the poor, but Carnegie believed in donating to help the poor help themselves.
 
+>[!clock] 1/16
+> >[!question] #4 What role have labor unions played in American society?
+> >They have played a great role in advocating for worker's rights and pay, and allowed workers to demonstrate their perspective. It allowed movement a step closer to fair balance between management and subordinates.
+
+> [!clock] 1/17
+> >[!question] #5 What role did newspapers & the press have on American society in the late 1800s?
+> > They were powerful on the political landscape and helped support social movements and economics.
+
+>[!clock] 1/18
+> >[!question] #6 What cultural changes will take place in the late 1800s?
+> > There will be the rapid industrialization of the United States. This included Vanderbilt growing his train networks across the U.S., Rockefeller monopolizing kerosene, and Carnegie producing steel from his factories which helped build skyscrapers. This combined helped build a consumer culture. Industrialization will lead to harsh working conditions, and cause labor disputes, riots, and unions which will fight for better protection and wages.
+
+>[!clock] 1/19
+> >[!question] #7 Why is Plessy v. Ferguson a "must know" and what is it about?
+> > This court case ties into and cements the segregation in United States history. The Supreme Court basically said yes to segregation. Plessy was an eighth black and was forced to sit in the back/less good part of the train. He sued and the case eventually went up to Supreme Court, where he lost.
+
+>[!clock] 1/22
+> >[!question] #8 What late 1800's topic have you found most interesting so far?
+> > I think the monopolies and most powerful men unit including Carnegie and Rockefeller was the most interesting.
+
+>[!clock] 1/24
+> >[!question] #9 Why do some Americans have negative attitudes towards immigrants?
+> >Some Americans have negative attitudes as immigrants take up resources and jobs that the Americans could've once had.
