@@ -414,3 +414,19 @@ John D. Rockefeller had over 410 billion dollars. He took control of the newly d
 >[!clock] 1/24
 > >[!question] #9 Why do some Americans have negative attitudes towards immigrants?
 > >Some Americans have negative attitudes as immigrants take up resources and jobs that the Americans could've once had.
+
+>[!clock] 1/25
+> >[!question] #10 What are some details to look for in political cartoons?
+> >Some details to look for are historical context, exaggerations, time period, and emphasized text.
+
+>[!clock] 1/26
+> >[!question] #11 Name another country that members of your family moved from at some point in history.
+> My entire family is from China and Taiwan.
+
+>[!clock] 1/29
+> >[!question] #12 From the LEQ rubric, which points are easiest to get and which are most challenging?
+> >The easiest points to get are the evidence points, the hardest are the analysis and sophistication.
+
+>[!clock] 1/31
+> >[!question] #13 What is a difference between the Gilded Age and Progressive Era?
+> > Gilded Age was the emergence of great social and economic problems in the core, and Progressive Era was an attempt to address these issues.
