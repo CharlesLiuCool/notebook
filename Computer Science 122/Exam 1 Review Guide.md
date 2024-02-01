@@ -1,11 +1,10 @@
 ### C Data Structures  
-**Compare and contrast the terms Abstract Data Types (ADTs) and data**  
-**structures**  
-- For ADT think: “specification”; for data structure think: “implementation”  
+>[!book] **Compare and contrast the terms Abstract Data Types (ADTs) and data structures**  
+> - For ADT think: “specification”; for data structure think: “implementation”  
 
-**Declare, define, and apply a self-referential structure**  
-- Nodes for linked lists and stacks require self-referential structures  
-- Self-referential structure is a data structure where elements contain references to other parts of the structure of the same type.
+>[!book] **Declare, define, and apply a self-referential structure**  
+> - Nodes for linked lists and stacks require self-referential structures  
+> - Self-referential structure is a data structure where elements contain references to other parts of the structure of the same type.
 ```c
 typedef struct _node {
 	int value;
@@ -14,9 +13,11 @@ typedef struct _node {
 ```
 
 
-**Define what is dynamic memory**  
+>[!book] **Define what is dynamic memory**  
+>Memory allocation and deallocation during execution of program at runtime.
 
-**Define what is a dynamic data structure**  
+>[!book] **Define what is a dynamic data structure**  
+> Type of data structure that can change size during execution of a program. This includes linked lists, stacks, and trees.
 
 **Apply malloc ( ) and free ( ) to dynamic data structures**
 
@@ -55,7 +56,7 @@ bool insertAtFront(Node **pList, Data newData) {
 	return FALSE;
 }
 ```
-o` insertAtBack ( )` - allocates a node dynamically; initializes it to the data  
+- `insertAtBack ( )` - allocates a node dynamically; initializes it to the data  
 passed in; inserts the node at the back or end of the list only; returns  
 true or false for successful or unsuccessful insertion, respectively  
 ```c
@@ -87,38 +88,52 @@ bool insertInOrder(Node **pList, Data newData) {
 	Node* pCur = *pList;
 	Node* pPrev = NULL;
 	if (pMem != NULL) {
-		while (strcmp(newData, pCur->data) < 0 && pCur->next != NULL) {
-			p
+		while (strcmp(newData, pCur->data) < 0 && pCur != NULL) {
+			pPrev = pCur;
+			pCur = pCur->pNext;
 		}
+		if (pPrev == NULL) { //empty list or insert at front
+			if (pCur != NULL) {
+				pMem->pNext = *pList;
+			}
+			*pList = pMem;
+		}
+		else { //insert at middle
+			pPrev-pNext = pMem;
+			pMem->pNext = pCur;
+		}
+		return TRUE;
 	}
 	else {
 		return FALSE;
 	}
 }
 ```
-o deleteAtFront ( ) – de-allocates the node at the front of the list; returns  
+- `deleteAtFront ( )` – de-allocates the node at the front of the list; returns  
 the data in the node  
-o deleteNode ( ) – de-allocates a node; returns true if node was de-  
+- `deleteNode ( )` – de-allocates a node; returns true if node was de-  
 allocated, false otherwise  
-o printList ( ) – prints out the data in each node of the list; may be printed  
+- `printList ( )` – prints out the data in each node of the list; may be printed  
 iteratively or recursively  
-Design and implement makeNode ( ) as a separate helper function for each of  
-the above data structures  
-o makeNode ( ) – allocates a node dynamically; initializes the node;  
+
+**Design and implement `makeNode ( )` as a separate helper function for each of**  
+**the above data structures**  
+- `makeNode ( )` – allocates a node dynamically; initializes the node;  
 returns a pointer to the dynamic node  
 Design and implement functions that expand on the basic list operations.  
 Example functions include, but are not limited to:  
-o mergeLists ( ) – join two linked lists  
-o insertAtPosN ( ) – insert data at position N in the list  
-o compareLists ( ) – check to see if two lists have the same data  
-o reverseList ( ) – reverse the links in a singly linked list  
-o others...  
-Given a problem, describe which data structure is most appropriate  
-o For example:  
- Converting infix expression to postfix expressions (stack)  
- Storing personal contact information (list)  
-Draw block/memory diagrams to illustrate how links are modified for any of the  
-particular operations described above  
+- `mergeLists ( )` – join two linked lists  
+- `insertAtPosN ( )` – insert data at position N in the list  
+- `compareLists ( )` – check to see if two lists have the same data  
+- `reverseList ( )` – reverse the links in a singly linked list  
+- others...  
+
+**Given a problem, describe which data structure is most appropriate**  
+- For example:  
+	- Converting infix expression to postfix expressions (stack)  
+	- Storing personal contact information (list)  
+- Draw block/memory diagrams to illustrate how links are modified for any of the particular operations described above  
+
 **Design and implement a list with arrays instead of dynamic “links”**  
 
 **Define what is a memory leak**  
@@ -128,12 +143,11 @@ Define what is a dangling pointer
 o Think: have a pointer to memory that is no longer accessible  
 
 **What is defensive programming?**  
-o We check to see if lists are empty inside our corresponding removal  
+- We check to see if lists are empty inside our corresponding removal  
 functions
+- Some implementations add preconditions to `deleteNode ( )` not empty  
 
- Some implementations add preconditions to deleteNode ( ) not  
-empty  
-Other Topics  
+### Other Topics  
 Compare and contrast char `*str` vs. `str[]`, and char `*str[]` vs. `char str[][]`  
 1. A `char *` needs to point to some allocated memory; this memory may be  
 allocated dynamically or via another automatic local variable  

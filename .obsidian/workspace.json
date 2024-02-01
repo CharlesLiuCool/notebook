@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Computer Science/Unit 1/1.5 Casting and Range of Variables.md",
+                "file": "Calculus III/6. Arc Length and Curvature.md",
                 "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "953df562a17e58fe",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Calculus III/Excalidraw/6. Arc Length and Curvature/6. 2024-01-30 08.53.08.excalidraw.md"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Computer Science/Unit 1/1.5 Casting and Range of Variables.md",
+                "file": "Calculus III/6. Arc Length and Curvature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Computer Science/Unit 1/1.5 Casting and Range of Variables.md",
+                "file": "Calculus III/6. Arc Length and Curvature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP Computer Science/Unit 1/1.5 Casting and Range of Variables.md"
+                "file": "Calculus III/6. Arc Length and Curvature.md"
               }
             }
           },
@@ -155,11 +165,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eaffc4925a87ff86",
+  "active": "afc19bb0c571acb5",
   "lastOpenFiles": [
-    "APUSH/APUSH Daily Journal.md",
+    "AP Computer Science/Unit 1/1.5 Casting and Range of Variables.md",
+    "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
+    "AP Chemistry/Unit 6/6.5 Formal Charge.md",
+    "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
+    "AP Chemistry/Unit 6/6.1 Metallic Bonding & Alloys.md",
+    "Computer Science 121/Computer Science Notes/12.2 Recursion II.md",
+    "Computer Science 121/Computer Science Notes/12.1 Recursion I.md",
+    "Computer Science 121/Computer Science Notes/13.2 Bits and Operations II.md",
+    "Computer Science 121/Computer Science Notes/14.1 Dynamic Data Structures I.md",
+    "Computer Science 121/Computer Science Notes/13.1 Bits and Operations.md",
+    "Computer Science 121/Computer Science Notes/Exam 2 Review Guide.md",
     "Computer Science 122/Exam 1 Review Guide.md",
+    "Computer Science 121/Computer Science Notes/Ultimate Notes.md",
+    "Computer Science 121/Computer Science Notes/Exam 1 Review Guide.md",
+    "Computer Science 121/Computer Science Notes/Final Exam Review Guide.md",
     "Calculus III/6. Arc Length and Curvature.md",
+    "Calculus III/Excalidraw/6. Arc Length and Curvature/6. 2024-01-30 08.53.08.excalidraw.md",
+    "Computer Science 122/1.md",
+    "Computer Science 122/4.md",
+    "AP Computer Science/Unit 2",
+    "APUSH/APUSH Daily Journal.md",
+    "AP Computer Science/Unit 1/1.1 Java Introduction.md",
     "AP Chemistry/Unit 8/8.1 Enthalpy of Phase Changes.md",
     "AP Chemistry/Unit 8/8.2 Calorimetry, Mixing Substances of Different Temperatures.md",
     "AP Chemistry/Unit 8/8.3 Reaction Diagrams.md",
@@ -167,25 +196,7 @@
     "AP Chemistry/Unit 8/8.5 Factors Influencing Bond Energy.md",
     "AP Chemistry/Unit 8/Images/Ice Heating Curve Labelled.png",
     "AP Chemistry/Unit 8/Images/Ice Heating Curve.png",
-    "AP Chemistry/Unit 6/6.6 Molecular Geometry.md",
-    "AP Chemistry/Unit 6/6.5 Formal Charge.md",
-    "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
-    "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
-    "AP Chemistry/Unit 6/6.1 Metallic Bonding & Alloys.md",
-    "AP Chemistry/Unit 6/6.7 Hybridization.md",
-    "AP Chemistry/Unit 6/Unit 6 Overview.md",
-    "Computer Science 121/Computer Science Notes/Final Exam Review Guide.md",
-    "Computer Science 121/Computer Science Notes/Ultimate Notes.md",
-    "Calculus III/4. 3-D Graphs from Traces.md",
-    "AP Computer Science/Unit 1/1.2 Variables and Data Types.md",
-    "AP Computer Science/Unit 1/1.1 Java Introduction.md",
-    "AP Computer Science/Unit 1/1.3 Expressions and Assignment Statements.md",
-    "AP Computer Science/Unit 1/1.4 Compound Assignment Operators.md",
-    "AP Computer Science/Unit 1/1.5 Casting and Range of Variables.md",
-    "Calculus III/Excalidraw/6./6. 2024-01-30 08.11.38.excalidraw.md",
-    "Calculus III/Excalidraw/6./6. 2024-01-30 08.23.47.excalidraw.md",
-    "Calculus III/Excalidraw/6./6. 2024-01-30 08.53.08.excalidraw.md",
-    "Calculus III/Excalidraw/6.",
+    "Calculus III/Excalidraw/6. Arc Length and Curvature",
     "Calculus III/Excalidraw/5. Tangent Vectors",
     "Calculus III/Excalidraw/4. 3-D Graphs from Traces",
     "Computer Science 122/Excalidraw",
@@ -194,7 +205,6 @@
     "Linear Algebra/ProfPDFs/Week 1.pdf",
     "Linear Algebra/ProfPDFs",
     "Linear Algebra/Linear Algebra/Week 1.pdf",
-    "Calculus III/Excalidraw/3. Conic Sections and 3D Surfaces",
     "AP Chemistry/Unit 7/Images/CCL4 Lewis Structure.png",
     "AP Chemistry/Unit 7/Images/H2S Lewis Structure.png",
     "AP Chemistry/Unit 7/Images/HF Lewis Structure.png",

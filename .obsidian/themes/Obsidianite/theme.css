@@ -1485,6 +1485,11 @@ pre.line-numbers > code {
     --callout-icon: book-open;
 }
 
+.callout[data-callout="quote"] {
+  --callout-color: 136, 0, 255;
+  --callout-icon: quote;
+}
+
 .callout[data-callout="lightbulb"] {
   --callout-color: 255, 255, 0;
   --callout-icon: lightbulb;
