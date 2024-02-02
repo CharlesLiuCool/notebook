@@ -118,14 +118,55 @@ iteratively or recursively
 
 **Design and implement `makeNode ( )` as a separate helper function for each of**  
 **the above data structures**  
-- `makeNode ( )` – allocates a node dynamically; initializes the node;  
-returns a pointer to the dynamic node  
+- `makeNode ( )` – allocates a node dynamically; initializes the node; returns a pointer to the dynamic node  
+```c
+Node* makeNode(data newData) {
+	Node* node = malloc(sizeof(Node));
+	if (node != NULL) {
+		node->data = newData;
+		node->next = NULL;
+	}
+	return node;
+}
+```
 Design and implement functions that expand on the basic list operations.  
 Example functions include, but are not limited to:  
 - `mergeLists ( )` – join two linked lists  
 - `insertAtPosN ( )` – insert data at position N in the list  
 - `compareLists ( )` – check to see if two lists have the same data  
+```c
+bool compare_lists(SinglyLinkedListNode* head1, SinglyLinkedListNode* head2) {
+	while (head1 != NULL && head2 != NULL && head1->data == head2->data) {
+		head1 = head1->next;
+		head2 = head2->next;
+	}
+	if (head1 == NULL && head2 == NULL) {
+		return true;
+	}
+	else {
+		return false;
+	}
+}
+```
+
 - `reverseList ( )` – reverse the links in a singly linked list  
+```c
+Boolean reverseList(Node** pList) {
+    Node* pCur = *pList;
+    Node* pPrev = NULL;
+    Node* temp = NULL;
+    if (*pList != NULL) {
+        while (pCur != NULL) {
+            temp = pCur->pNext;
+            pCur->pNext = pPrev;
+            pPrev = pCur;
+            pCur = temp;
+        }
+        *pList = pPrev;
+    }
+    return true;
+}
+```
 - others...  
 
 **Given a problem, describe which data structure is most appropriate**  
@@ -137,10 +178,11 @@ Example functions include, but are not limited to:
 **Design and implement a list with arrays instead of dynamic “links”**  
 
 **Define what is a memory leak**  
-o Think: lost pointer to dynamically allocated memory; can’t access the  
+- Think: lost pointer to dynamically allocated memory; can’t access the  
 memory anymore, but memory is still allocated by system on the heap  
-Define what is a dangling pointer  
-o Think: have a pointer to memory that is no longer accessible  
+
+**Define what is a dangling pointer**  
+- Think: have a pointer to memory that is no longer accessible  
 
 **What is defensive programming?**  
 - We check to see if lists are empty inside our corresponding removal  

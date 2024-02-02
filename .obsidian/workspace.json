@@ -13,19 +13,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus III/6. Arc Length and Curvature.md",
+                "file": "Computer Science 122/Exam 1 Review Guide.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "953df562a17e58fe",
+            "id": "852bda0b784a4d9d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Calculus III/Excalidraw/6. Arc Length and Curvature/6. 2024-01-30 08.53.08.excalidraw.md"
+                "file": "Calculus III/Excalidraw/1. Review/Review Graphic 1.md"
+              }
+            }
+          },
+          {
+            "id": "87a4d9903aa5887e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.57.38.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "541040fe8c1784df",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.44.30.excalidraw.md"
               }
             }
           }
@@ -95,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus III/6. Arc Length and Curvature.md",
+                "file": "Computer Science 122/Exam 1 Review Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus III/6. Arc Length and Curvature.md",
+                "file": "Computer Science 122/Exam 1 Review Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus III/6. Arc Length and Curvature.md"
+                "file": "Computer Science 122/Exam 1 Review Guide.md"
               }
             }
           },
@@ -167,6 +187,22 @@
   },
   "active": "afc19bb0c571acb5",
   "lastOpenFiles": [
+    "Calculus III/7. Functions of 2 or more variables.md",
+    "Computer Science 122/Exam 1 Review Guide.md",
+    "APUSH/APUSH Daily Journal.md",
+    "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.20.08.excalidraw.md",
+    "Calculus III/6. Arc Length and Curvature.md",
+    "Calculus III/5. Tangent Vectors.md",
+    "Calculus III/1. Review.md",
+    "Calculus III/Excalidraw/1. Review/Review Graphic 1.md",
+    "Calculus III/2. Lines, Planes and Vectors.md",
+    "Calculus III/3. Conic Sections and 3-D Surfaces.md",
+    "Calculus III/4. 3-D Graphs from Traces.md",
+    "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.57.38.excalidraw.md",
+    "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.44.30.excalidraw.md",
+    "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.34.51.excalidraw.md",
+    "Calculus III/Excalidraw/6. Arc Length and Curvature/6. 2024-01-30 08.53.08.excalidraw.md",
+    "Calculus III/Excalidraw/7. Functions of 2 or more variables",
     "AP Computer Science/Unit 1/1.5 Casting and Range of Variables.md",
     "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
     "AP Chemistry/Unit 6/6.5 Formal Charge.md",
@@ -178,22 +214,7 @@
     "Computer Science 121/Computer Science Notes/14.1 Dynamic Data Structures I.md",
     "Computer Science 121/Computer Science Notes/13.1 Bits and Operations.md",
     "Computer Science 121/Computer Science Notes/Exam 2 Review Guide.md",
-    "Computer Science 122/Exam 1 Review Guide.md",
-    "Computer Science 121/Computer Science Notes/Ultimate Notes.md",
-    "Computer Science 121/Computer Science Notes/Exam 1 Review Guide.md",
-    "Computer Science 121/Computer Science Notes/Final Exam Review Guide.md",
-    "Calculus III/6. Arc Length and Curvature.md",
-    "Calculus III/Excalidraw/6. Arc Length and Curvature/6. 2024-01-30 08.53.08.excalidraw.md",
-    "Computer Science 122/1.md",
-    "Computer Science 122/4.md",
     "AP Computer Science/Unit 2",
-    "APUSH/APUSH Daily Journal.md",
-    "AP Computer Science/Unit 1/1.1 Java Introduction.md",
-    "AP Chemistry/Unit 8/8.1 Enthalpy of Phase Changes.md",
-    "AP Chemistry/Unit 8/8.2 Calorimetry, Mixing Substances of Different Temperatures.md",
-    "AP Chemistry/Unit 8/8.3 Reaction Diagrams.md",
-    "AP Chemistry/Unit 8/8.4 Calorimetry, Enthalpy of Reaction and Solution.md",
-    "AP Chemistry/Unit 8/8.5 Factors Influencing Bond Energy.md",
     "AP Chemistry/Unit 8/Images/Ice Heating Curve Labelled.png",
     "AP Chemistry/Unit 8/Images/Ice Heating Curve.png",
     "Calculus III/Excalidraw/6. Arc Length and Curvature",
@@ -204,7 +225,6 @@
     "Linear Algebra/ProfPDFs/Week 2.pdf",
     "Linear Algebra/ProfPDFs/Week 1.pdf",
     "Linear Algebra/ProfPDFs",
-    "Linear Algebra/Linear Algebra/Week 1.pdf",
     "AP Chemistry/Unit 7/Images/CCL4 Lewis Structure.png",
     "AP Chemistry/Unit 7/Images/H2S Lewis Structure.png",
     "AP Chemistry/Unit 7/Images/HF Lewis Structure.png",

@@ -430,3 +430,7 @@ John D. Rockefeller had over 410 billion dollars. He took control of the newly d
 >[!clock] 1/31
 > >[!question] #13 What is a difference between the Gilded Age and Progressive Era?
 > > Gilded Age was the emergence of great social and economic problems in the core, and Progressive Era was an attempt to address these issues.
+
+>[!clock] 2/1
+> >[!question] #14 Describe the populist movement and populist party.
+> >The movement was driven by the economical struggles of the farmers, and it advocated for free coinage of silver and other economical/political reforms.
