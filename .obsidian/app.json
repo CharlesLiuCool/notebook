@@ -8,5 +8,6 @@
   },
   "alwaysUpdateLinks": true,
   "defaultViewMode": "source",
-  "livePreview": false
+  "livePreview": false,
+  "spellcheck": true
 }
