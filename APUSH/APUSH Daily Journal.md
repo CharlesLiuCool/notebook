@@ -52,55 +52,35 @@ Some causes include the increased demand for workers to plant plantations, the i
 > >
 It was when Britain loosened its grip on the colonies and trusted them to govern themselves. Britain was busy fighting wars, and let them do this. They would later reassert their grip, however, due to the 7 Years War, and the colonists would be angry with this.
 
-  
-
-9/18
-
-#11 Before 1770, name an influential person living in the American Colonies.
-
+>[!clock] 9/18
+> >[!question] #11 Before 1770, name an influential person living in the American Colonies.
+> >
 A person who was influential during this time frame was Anne Hutchinson.
 
-  
-
-9/20
-
-#12 Name various learning styles. What is your best learning style?
-
+>[!clock] 9/20
+> >[!question] #12 Name various learning styles. What is your best learning style?
+> >
 There are visual, auditory, reading/writing, and kinesthetic. I learn the best by watching visuals and listening at the same time, and also writing down the material with notes.
 
-  
-
-9/21
-
-#13 What is a pro & con to group projects and presentations?
-
+>[!clock] 9/21
+> >[!question] #13 What is a pro & con to group projects and presentations?
+> >
 A pro is you get to see many different people’s perspectives on topics and gain a deeper understanding. A con is that everyone thinks differently and you cannot give the presentation completely how you want to.
 
-  
-
-9/22
-
-#14 Why were the American Colonies culturally diverse?
-
+>[!clock] 9/22
+> >[!question] #14 Why were the American Colonies culturally diverse?
+> >
 They were so diverse because so many different groups from different areas came for different reasons to the Americas. English Puritans came to escape from religious persecution, Quakers came for religious peace, Africans came as slaves, people in debt came as indentured servants, wealthy people making profits in plantations, etc.
 
-  
-
-9/25
-
-#15 Share a cause and effect for the French and Indian War.
-
+>[!clock] 9/25
+> >[!question] #15 Share a cause and effect for the French and Indian War.
+> >
 Both sides(France and Britain) had expansion of territories and began to encroach on each other’s territories. The British began trading with Natives on land which the French claimed, and both sides fought. Some effects include short term improved relations between colonies and the British as the British helped colonists fight for land.
 
-  
-
-9/27
-
-#16 Why is Ch. 5 called “Problem of Empire”?
-
+>[!clock] 9/27
+> >[!question] #16 Why is Ch. 5 called “Problem of Empire”?
+> >
 It is called Problem of Empire because Britain was having various problems. This includes economics, as they fought a costly French and Indian War, which although they won, they had to burn a lot of money. The Americans were also beginning to rebel against the ever-so encroaching British, which needed money from them.
-
-  
 
 9/28
 
@@ -122,20 +102,14 @@ The United States is 247 years old.
 
 ---
 
-  
-
-10/2
-
-#1 Should the Declaration of Independence be considered more of a birth certificate or break up letter? Why?
-
+>[!clock] 10/2 
+> >[!question] #1 Should the Declaration of Independence be considered more of a birth certificate or break up letter? Why?
+> >
 The Declaration of Independence should be considered more of a break up letter, as although America officially declared themselves “independent”, they developed this rebelling nature against the British much earlier.
 
-  
-
-10/4
-
-#2 What factors will ultimately help the American colonists earn independence from Great Britain?
-
+>[!clock] 10/4
+> >[!question] #2 What factors will ultimately help the American colonists earn independence from Great Britain?
+> >
 Their strong leadership, especially with George Washington as a prominent general helped the Americans win the war against the British. The emergence of enlightenment ideals and British acts of heavy taxation also angered and united the colonies against them. They implemented guerilla warfare tactics, not abiding by normal war “rules”, and were able to kill a lot of British. France joins in as well and helps the Americans.
 
   
@@ -210,32 +184,27 @@ It is different because you have to argue and take a side for the given question
 
   
 
-10/23
-
-#12 What are some good tips to remember when writing a DBQ?
-
+>[!clock] 10/23
+> >[!question] #12 What are some good tips to remember when writing a DBQ?
+> >
 Remember that your objective is to get the points, not fix run-on sentences or bad grammar. Be sure to set a standard that you follow every time when writing the DBQ to ensure you get the points with some insurance while being within the time span.
 
   
 
-10/25
-
-#13 What were some triumphs and failures for Jefferson and Madison?
-
+>[!clock] 10/25
+> >[!question] #13 What were some triumphs and failures for Jefferson and Madison?
+> >
 Jefferson is well known for the Louisiana Purchase, a huge purchase doubling the US’s land. A failure was the Embargo Act of 1807.
-
+> >
 Madison’s triumph is the Bill of Rights, War of 1812. Failures are financial difficulties and slavery
 
   
   
 
-10/26
-
-#14 What were some changes in technology in the early 1800s?
-
+>[!clock] 10/26
+> > [!question] #14 What were some changes in technology in the early 1800s?
+> >
 The electric telegraph was developed by Samuel Finley Breese Morse which would be an important invention in the future of communication. There was also steamboats development, new roads, trains, and faster transportation. There was also the Erie Canal, which was a big economic boost.
-
-  
 
 >[!clock] 10/27
 > >[!question] #15 What strategy helps you with multiple-choice questions?
@@ -434,3 +403,24 @@ John D. Rockefeller had over 410 billion dollars. He took control of the newly d
 >[!clock] 2/1
 > >[!question] #14 Describe the populist movement and populist party.
 > >The movement was driven by the economical struggles of the farmers, and it advocated for free coinage of silver and other economical/political reforms.
+
+>[!clock] 2/2
+> >[!question] #15 Other then immigrants, what group of Americans will migrate heavily to urban areas? (late 1800s to early 1900s) Why?
+> >African Americans from the South in the Great Migration would do so. They would do this to try and avoid segregation, violence, etc., and try and gain better social status and wealth.
+
+>[!clock] 2/5
+> >[!question] #16 What type of primary document do you prefer?
+> > - *Picture*
+> > - *Graph*
+> > - *Cartoon*
+> > - *Speech*
+> > - *Book Excerpt*
+> > - *Newspaper*
+> > - *Map*
+> > - *Other*
+> >
+> I prefer graphs or maps, as I find pictures and numbers easier to understand than words.
+
+>[!clock] 2/7
+> > [!question] #17 Why will the U.S. become an imperial power?
+> > The expansion of the U.S. will continue as they try and grow their economy in foreign countries. They annexed various areas in China and islands in the Pacific, etc.

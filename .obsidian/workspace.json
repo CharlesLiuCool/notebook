@@ -8,44 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afc19bb0c571acb5",
+            "id": "d230a0b9c312f12f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science 122/Exam 1 Review Guide.md",
+                "file": "Calculus III/8. Limits and Continuity for f(x,y).md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "852bda0b784a4d9d",
+            "id": "1da631355ef88f3b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Calculus III/Excalidraw/1. Review/Review Graphic 1.md"
-              }
-            }
-          },
-          {
-            "id": "87a4d9903aa5887e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.57.38.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "541040fe8c1784df",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.44.30.excalidraw.md"
+                "file": "Excalidraw/8. Limits and Continuity for f(x,y) 2024-02-06 08.14.12.excalidraw.md"
               }
             }
           }
@@ -115,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science 122/Exam 1 Review Guide.md",
+                "file": "Calculus III/8. Limits and Continuity for f(x,y).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science 122/Exam 1 Review Guide.md",
+                "file": "Calculus III/8. Limits and Continuity for f(x,y).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science 122/Exam 1 Review Guide.md"
+                "file": "Calculus III/8. Limits and Continuity for f(x,y).md"
               }
             }
           },
@@ -185,35 +165,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "afc19bb0c571acb5",
+  "active": "d230a0b9c312f12f",
   "lastOpenFiles": [
-    "Calculus III/7. Functions of 2 or more variables.md",
-    "Computer Science 122/Exam 1 Review Guide.md",
+    "APUSH/Unit 6 (1865 - 1898)/Grover Cleveland.md",
+    "APUSH/Unit 6 (1865 - 1898)/Theodore Roosevelt.md",
+    "APUSH/Unit 6 (1865 - 1898)/William McKinley.md",
+    "APUSH/Unit 6 (1865 - 1898)/Benjamin Harrison.md",
+    "APUSH/Unit 5 (1844 - 1877)/Rutherford B. Hayes ().md",
     "APUSH/APUSH Daily Journal.md",
-    "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.20.08.excalidraw.md",
+    "Excalidraw/8. Limits and Continuity for f(x,y) 2024-02-06 08.14.12.excalidraw.md",
+    "Computer Science 122/Exam 1 Review Guide.md",
+    "Calculus III/8. Limits and Continuity for f(x,y).md",
+    "Computer Science 122/4.md",
+    "Computer Science 122/1.md",
     "Calculus III/6. Arc Length and Curvature.md",
-    "Calculus III/5. Tangent Vectors.md",
+    "Calculus III/7. Functions of 2 or more variables.md",
+    "Calculus III/Excalidraw/8. Limits and Continuity for f(x,y)",
+    "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.57.38.excalidraw.md",
     "Calculus III/1. Review.md",
     "Calculus III/Excalidraw/1. Review/Review Graphic 1.md",
+    "Calculus III/Excalidraw/6. Arc Length and Curvature/6. 2024-01-30 08.11.38.excalidraw.md",
+    "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.20.08.excalidraw.md",
+    "Calculus III/5. Tangent Vectors.md",
     "Calculus III/2. Lines, Planes and Vectors.md",
     "Calculus III/3. Conic Sections and 3-D Surfaces.md",
     "Calculus III/4. 3-D Graphs from Traces.md",
-    "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.57.38.excalidraw.md",
     "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.44.30.excalidraw.md",
     "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.34.51.excalidraw.md",
     "Calculus III/Excalidraw/6. Arc Length and Curvature/6. 2024-01-30 08.53.08.excalidraw.md",
     "Calculus III/Excalidraw/7. Functions of 2 or more variables",
     "AP Computer Science/Unit 1/1.5 Casting and Range of Variables.md",
-    "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
-    "AP Chemistry/Unit 6/6.5 Formal Charge.md",
-    "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
-    "AP Chemistry/Unit 6/6.1 Metallic Bonding & Alloys.md",
-    "Computer Science 121/Computer Science Notes/12.2 Recursion II.md",
-    "Computer Science 121/Computer Science Notes/12.1 Recursion I.md",
-    "Computer Science 121/Computer Science Notes/13.2 Bits and Operations II.md",
-    "Computer Science 121/Computer Science Notes/14.1 Dynamic Data Structures I.md",
-    "Computer Science 121/Computer Science Notes/13.1 Bits and Operations.md",
-    "Computer Science 121/Computer Science Notes/Exam 2 Review Guide.md",
     "AP Computer Science/Unit 2",
     "AP Chemistry/Unit 8/Images/Ice Heating Curve Labelled.png",
     "AP Chemistry/Unit 8/Images/Ice Heating Curve.png",
@@ -224,7 +205,6 @@
     "Linear Algebra/ProfPDFs/Week 3.pdf",
     "Linear Algebra/ProfPDFs/Week 2.pdf",
     "Linear Algebra/ProfPDFs/Week 1.pdf",
-    "Linear Algebra/ProfPDFs",
     "AP Chemistry/Unit 7/Images/CCL4 Lewis Structure.png",
     "AP Chemistry/Unit 7/Images/H2S Lewis Structure.png",
     "AP Chemistry/Unit 7/Images/HF Lewis Structure.png",
