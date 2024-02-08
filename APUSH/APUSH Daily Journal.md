@@ -424,3 +424,7 @@ John D. Rockefeller had over 410 billion dollars. He took control of the newly d
 >[!clock] 2/7
 > > [!question] #17 Why will the U.S. become an imperial power?
 > > The expansion of the U.S. will continue as they try and grow their economy in foreign countries. They annexed various areas in China and islands in the Pacific, etc.
+
+>[!clock] 2/8
+> >[!question] #18 Should the U.S. ever consider giving back Hawaii and Puerto Rico?
+> >I think if the people their choose to be sovereign, then the U.S. should consider, but if the people there believe the benefits of U.S. protection and resources is good, then they should stay.
