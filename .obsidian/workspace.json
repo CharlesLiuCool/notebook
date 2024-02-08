@@ -8,14 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d230a0b9c312f12f",
+            "id": "c31f1d90a6e5f782",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus III/8. Limits and Continuity for f(x,y).md",
+                "file": "Calculus III/9. Partial Derivatives.md",
                 "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "f7e52856341e0802",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Calculus III/Excalidraw/3. Conic Sections and 3D Surfaces/3. 2024-01-18 08.39.48.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "b869e089c39a8f5c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Calculus III/Excalidraw/9. Partial Derivatives/9. Partial Derivatives 2024-02-08 08.23.23.excalidraw.md"
               }
             }
           },
@@ -25,7 +45,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/8. Limits and Continuity for f(x,y) 2024-02-06 08.14.12.excalidraw.md"
+                "file": "Calculus III/Excalidraw/8. Limits and Continuity for f(x,y)/8. Limits and Continuity for f(x,y) 2024-02-06 08.14.12.excalidraw.md"
               }
             }
           }
@@ -95,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus III/8. Limits and Continuity for f(x,y).md",
+                "file": "Calculus III/9. Partial Derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus III/8. Limits and Continuity for f(x,y).md",
+                "file": "Calculus III/9. Partial Derivatives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus III/8. Limits and Continuity for f(x,y).md"
+                "file": "Calculus III/9. Partial Derivatives.md"
               }
             }
           },
@@ -165,36 +185,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d230a0b9c312f12f",
+  "active": "eaffc4925a87ff86",
   "lastOpenFiles": [
+    "Calculus III/3. Conic Sections and 3-D Surfaces.md",
+    "Calculus III/Excalidraw/3. Conic Sections and 3D Surfaces/3. 2024-01-18 08.39.48.excalidraw.md",
+    "Calculus III/2. Lines, Planes and Vectors.md",
+    "Calculus III/1. Review.md",
+    "Calculus III/Excalidraw/2. Lines Planes, and Vectors/Untitled 2024-01-16 08.36.10.excalidraw.md",
+    "Calculus III/Excalidraw/9. Partial Derivatives/9. Partial Derivatives 2024-02-08 08.23.23.excalidraw.md",
+    "Computer Science 122/Exam 1 Review Guide.md",
+    "Calculus III/Excalidraw/9. Partial Derivatives",
+    "Calculus III/9. Partial Derivatives.md",
+    "APUSH/APUSH Daily Journal.md",
+    "Calculus III/8. Limits and Continuity for f(x,y).md",
+    "Calculus III/6. Arc Length and Curvature.md",
+    "Calculus III/Excalidraw/8. Limits and Continuity for f(x,y)/8. Limits and Continuity for f(x,y) 2024-02-06 08.14.12.excalidraw.md",
+    "Calculus III/7. Functions of 2 or more variables.md",
     "APUSH/Unit 6 (1865 - 1898)/Grover Cleveland.md",
     "APUSH/Unit 6 (1865 - 1898)/Theodore Roosevelt.md",
     "APUSH/Unit 6 (1865 - 1898)/William McKinley.md",
     "APUSH/Unit 6 (1865 - 1898)/Benjamin Harrison.md",
     "APUSH/Unit 5 (1844 - 1877)/Rutherford B. Hayes ().md",
-    "APUSH/APUSH Daily Journal.md",
-    "Excalidraw/8. Limits and Continuity for f(x,y) 2024-02-06 08.14.12.excalidraw.md",
-    "Computer Science 122/Exam 1 Review Guide.md",
-    "Calculus III/8. Limits and Continuity for f(x,y).md",
     "Computer Science 122/4.md",
     "Computer Science 122/1.md",
-    "Calculus III/6. Arc Length and Curvature.md",
-    "Calculus III/7. Functions of 2 or more variables.md",
     "Calculus III/Excalidraw/8. Limits and Continuity for f(x,y)",
     "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.57.38.excalidraw.md",
-    "Calculus III/1. Review.md",
     "Calculus III/Excalidraw/1. Review/Review Graphic 1.md",
     "Calculus III/Excalidraw/6. Arc Length and Curvature/6. 2024-01-30 08.11.38.excalidraw.md",
     "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.20.08.excalidraw.md",
     "Calculus III/5. Tangent Vectors.md",
-    "Calculus III/2. Lines, Planes and Vectors.md",
-    "Calculus III/3. Conic Sections and 3-D Surfaces.md",
     "Calculus III/4. 3-D Graphs from Traces.md",
-    "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.44.30.excalidraw.md",
-    "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.34.51.excalidraw.md",
-    "Calculus III/Excalidraw/6. Arc Length and Curvature/6. 2024-01-30 08.53.08.excalidraw.md",
     "Calculus III/Excalidraw/7. Functions of 2 or more variables",
-    "AP Computer Science/Unit 1/1.5 Casting and Range of Variables.md",
     "AP Computer Science/Unit 2",
     "AP Chemistry/Unit 8/Images/Ice Heating Curve Labelled.png",
     "AP Chemistry/Unit 8/Images/Ice Heating Curve.png",
@@ -204,7 +225,6 @@
     "Computer Science 122/Excalidraw",
     "Linear Algebra/ProfPDFs/Week 3.pdf",
     "Linear Algebra/ProfPDFs/Week 2.pdf",
-    "Linear Algebra/ProfPDFs/Week 1.pdf",
     "AP Chemistry/Unit 7/Images/CCL4 Lewis Structure.png",
     "AP Chemistry/Unit 7/Images/H2S Lewis Structure.png",
     "AP Chemistry/Unit 7/Images/HF Lewis Structure.png",
