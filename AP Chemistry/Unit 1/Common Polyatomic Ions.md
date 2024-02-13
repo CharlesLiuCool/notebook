@@ -17,12 +17,12 @@
 | `Nitrite` | $\large{\text{NO}_2^-}$ |
 | `Nitrate` | $\large{\text{NO}_3^-}$ |
 | `Hydroxide` | $\large{\text{OH}^-}$ |
-| `Oxalate` | $\large{C_2O_4^{2-}}$ |
-| `Carbonate` | $\large{CO_3^{2-}}$ |
-| `Chromate` | $\large{CrO_4^{2-}}$ |
-| `Dichromate` | $\large{Cr_2O_7^{2-}}$ |
-| `Hydrogen Phosphate` | $\large{HPO_4^{2-}}$ |
-| `Peroxide` | $\large{O_2^{2-}}$ |
-| `Sulfite` | $\large{SO_3^{2-}}$ |
-| `Sulfate` | $\large{SO_4^{2-}}$ |
+| `Oxalate` | $\large{\text{C}_2\text{O}_4^{2-}}$ |
+| `Carbonate` | $\large{\text{CO}_3^{2-}}$ |
+| `Chromate` | $\large{\text{CrO}_4^{2-}}$ |
+| `Dichromate` | $\large{\text{Cr}_2\text{O}_7^{2-}}$ |
+| `Hydrogen Phosphate` | $\large{\text{HPO}_4^{2-}}$ |
+| `Peroxide` | $\large{\text{O}_2^{2-}}$ |
+| `Sulfite` | $\large{\text{SO}_3^{2-}}$ |
+| `Sulfate` | $\large{\text{SO}_4^{2-}}$ |
 | `Silicate` | $\large{\text{SiO}_3^{4-}}$ |

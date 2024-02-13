@@ -217,9 +217,9 @@ After the American Revolution, the early 1800s saw leaders such as Thomas Jeffer
 >[!clock] 11/1
 > > [!question] #17 Name a pro & con about Andrew Jackson’s impact on the United States. Why was he popular in his day?
 Pro: Expansion of the United States, gain of Florida. Sense of national identity increased
->
+> >
 Con: Did not treat natives well, including Trail of Tears.
->
+> >
 He was popular in his day because he helped gain land for the southern plantation owners by kicking out the Spanish and natives. This helped the westward expansion of the United States.
 
 ---
@@ -428,3 +428,11 @@ John D. Rockefeller had over 410 billion dollars. He took control of the newly d
 >[!clock] 2/8
 > >[!question] #18 Should the U.S. ever consider giving back Hawaii and Puerto Rico?
 > >I think if the people their choose to be sovereign, then the U.S. should consider, but if the people there believe the benefits of U.S. protection and resources is good, then they should stay.
+
+>[!clock] 2/9
+> >[!question] #19 Why is Theodore Roosevelt on Mt. Rushmore?
+> >He helped America gain power by promoting imperialism and gaining foreign lands. He advocated for anti-trust and other policies that helped him gain popularity among the poor and common man. He was a Progressive.
+
+>[!clock] 2/9
+> >[!question] #20 Why will the 20th century be the most violent in human history?
+> >The rapid industrialization of the European nations and America led to conflicts between the nations. Two world wars would occur and blood would be shed.

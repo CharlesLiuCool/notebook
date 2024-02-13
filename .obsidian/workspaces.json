@@ -1,0 +1,168 @@
+{
+  "workspaces": {
+    "APUSH Daily Journal": {
+      "main": {
+        "id": "35b5c12fa43d550e",
+        "type": "split",
+        "children": [
+          {
+            "id": "b405620f0f8f9dd7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "77f62b6d3d2057ef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "APUSH/APUSH Daily Journal.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f7ac9c95f399e3aa",
+        "type": "split",
+        "children": [
+          {
+            "id": "09049eec32dab478",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b7e912c672634f3e",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "67b5173d86ef6d3d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "cdfc33cd6f91274f",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 219.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "489dec59a85c3480",
+        "type": "split",
+        "children": [
+          {
+            "id": "b2947c7739813161",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3fa58907c03d6013",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "APUSH/APUSH Daily Journal.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "cda3ecd2c8f7dcc4",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "APUSH/APUSH Daily Journal.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "13f3cef8b65cddab",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "8a1e302c308ead3c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "APUSH/APUSH Daily Journal.md"
+                  }
+                }
+              },
+              {
+                "id": "eaffc4925a87ff86",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "zk-prefixer:Create new unique note": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "77f62b6d3d2057ef"
+    }
+  },
+  "active": "APUSH Daily Journal"
+}

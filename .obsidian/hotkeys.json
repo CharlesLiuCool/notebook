@@ -1,4 +1,13 @@
 {
+  "editor:toggle-spellcheck": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "workspace:close": [],
   "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab": [
     {
       "modifiers": [
@@ -7,12 +16,20 @@
       "key": "O"
     }
   ],
-  "editor:toggle-spellcheck": [
+  "switcher:open": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "M"
+      "key": "Q"
+    }
+  ],
+  "workspaces:open-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
     }
   ]
 }

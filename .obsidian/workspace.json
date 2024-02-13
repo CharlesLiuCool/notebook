@@ -4,48 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d57497b628efa209",
+        "id": "b405620f0f8f9dd7",
         "type": "tabs",
         "children": [
           {
-            "id": "7554a96d7eff10fe",
+            "id": "77f62b6d3d2057ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus III/8. Limits and Continuity for f(x,y).md",
+                "file": "Calculus III/10. Partial Derivatives.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "f7e52856341e0802",
+            "id": "17c832c10a3c4fda",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Calculus III/Excalidraw/3. Conic Sections and 3D Surfaces/3. 2024-01-18 08.39.48.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "b869e089c39a8f5c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Calculus III/Excalidraw/9. Partial Derivatives/9. Partial Derivatives 2024-02-08 08.23.23.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "1da631355ef88f3b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Calculus III/Excalidraw/8. Limits and Continuity for f(x,y)/8. Limits and Continuity for f(x,y) 2024-02-06 08.14.12.excalidraw.md"
+                "file": "Calculus III/Excalidraw/5. 3-D Graphs from Traces/4. 2024-01-23 08.14.48.excalidraw.md"
               }
             }
           }
@@ -115,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus III/8. Limits and Continuity for f(x,y).md",
+                "file": "Calculus III/10. Partial Derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus III/8. Limits and Continuity for f(x,y).md",
+                "file": "Calculus III/10. Partial Derivatives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus III/8. Limits and Continuity for f(x,y).md"
+                "file": "Calculus III/10. Partial Derivatives.md"
               }
             }
           },
@@ -182,48 +162,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b7e912c672634f3e",
+  "active": "77f62b6d3d2057ef",
   "lastOpenFiles": [
-    "Calculus III/9. Partial Derivatives.md",
-    "Calculus III/7. Functions of 2 or more variables.md",
-    "APUSH/Unit 7 (1890 - 1945)/William McKinley.md",
-    "APUSH/Unit 7 (1890 - 1945)/Theodore Roosevelt.md",
-    "APUSH/Unit 6 (1865 - 1898)/Grover Cleveland.md",
-    "APUSH/Unit 6 (1865 - 1898)/Benjamin Harrison.md",
-    "APUSH/APUSH Daily Journal.md",
-    "APUSH/Unit 7 (1890 - 1945)",
-    "APUSH/Unit 6 (1865 - 1898)/Untitled.md",
-    "Calculus III/Excalidraw/3. Conic Sections and 3D Surfaces/3. 2024-01-18 08.39.48.excalidraw.md",
-    "Calculus III/Excalidraw/9. Partial Derivatives/9. Partial Derivatives 2024-02-08 08.23.23.excalidraw.md",
-    "Computer Science 122/Exam 1 Review Guide.md",
-    "Computer Science 122/4.md",
-    "Computer Science 122/1.md",
-    "Calculus III/3. Conic Sections and 3-D Surfaces.md",
-    "Calculus III/2. Lines, Planes and Vectors.md",
     "Calculus III/1. Review.md",
-    "Calculus III/Excalidraw/2. Lines Planes, and Vectors/Untitled 2024-01-16 08.36.10.excalidraw.md",
-    "Calculus III/Excalidraw/9. Partial Derivatives",
-    "Calculus III/8. Limits and Continuity for f(x,y).md",
-    "Calculus III/6. Arc Length and Curvature.md",
-    "Calculus III/Excalidraw/8. Limits and Continuity for f(x,y)/8. Limits and Continuity for f(x,y) 2024-02-06 08.14.12.excalidraw.md",
-    "APUSH/Unit 5 (1844 - 1877)/Rutherford B. Hayes ().md",
-    "Calculus III/Excalidraw/8. Limits and Continuity for f(x,y)",
-    "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.57.38.excalidraw.md",
+    "Calculus III/2. Cross Product and Dot Product.md",
+    "Calculus III/3. Conic Sections and 3-D Surfaces.md",
+    "Calculus III/4. 3-D Graphs from Traces.md",
+    "Calculus III/5. Lines, Planes and Vectors.md",
+    "Calculus III/6. Tangent Vectors.md",
+    "Calculus III/7. Arc Length and Curvature.md",
+    "Calculus III/8. Functions of 2 or more variables.md",
+    "Calculus III/9. Limits and Continuity for f(x,y).md",
+    "Calculus III/10. Partial Derivatives.md",
+    "Calculus III/Exam 1 Review.md",
+    "APUSH/APUSH Daily Journal.md",
+    "Calculus III/Excalidraw/2. Cross Product and Dot Product/Cross Product Graphic 1.md",
+    "Calculus III/Excalidraw/2. Cross Product and Dot Product/Cross Product Graphic 2.md",
+    "Calculus III/Excalidraw/2. Cross Product and Dot Product/Cross Product Graphic 3.md",
+    "Calculus III/Excalidraw/2. Cross Product and Dot Product/Cross Product Graphic 4.md",
+    "Calculus III/Excalidraw/2. Cross Product and Dot Product/Cross Product Graphic 8.md",
+    "Calculus III/Excalidraw/10. Partial Derivatives/Partial Derivatives Graphic 2.md",
     "Calculus III/Excalidraw/1. Review/Review Graphic 1.md",
-    "Calculus III/Excalidraw/6. Arc Length and Curvature/6. 2024-01-30 08.11.38.excalidraw.md",
-    "Calculus III/Excalidraw/7. Functions of 2 or more variables/7. Functions of 2 or more variables 2024-02-01 08.20.08.excalidraw.md",
-    "Calculus III/Excalidraw/7. Functions of 2 or more variables",
+    "Calculus III/Excalidraw/2. Cross Product and Dot Product",
+    "Calculus III/Excalidraw/5. 3-D Graphs from Traces/4. 2024-01-23 08.14.48.excalidraw.md",
+    "Calculus III/Excalidraw/10. Partial Derivatives/Partial Derivatives Graphic 1.md",
+    "AP Chemistry/Unit 5/5.4 Ionic Bonding.md",
+    "AP Chemistry/Unit 1/Common Polyatomic Ions.md",
+    "AP Chemistry/Unit 5/5.5 Ionic Naming.md",
+    "AP Chemistry/Unit 6/6.4 Covalent Bonding & Lewis Structures.md",
+    "AP Chemistry/Unit 6/6.3 Ionic & Covalent Naming.md",
+    "APUSH/Unit 7 (1890 - 1945)/Images",
+    "APUSH/Unit 7 (1890 - 1945)/Images/TeddyBear.png",
+    "APUSH/Unit 7 (1890 - 1945)",
+    "Calculus III/Excalidraw/10. Partial Derivatives",
+    "Calculus III/Excalidraw/9. Limits and Continuity for f(x,y)",
+    "Calculus III/Excalidraw/8. Functions of 2 or more variables",
     "AP Computer Science/Unit 2",
     "AP Chemistry/Unit 8/Images/Ice Heating Curve Labelled.png",
     "AP Chemistry/Unit 8/Images/Ice Heating Curve.png",
-    "Calculus III/Excalidraw/6. Arc Length and Curvature",
-    "Calculus III/Excalidraw/5. Tangent Vectors",
-    "Calculus III/Excalidraw/4. 3-D Graphs from Traces",
-    "Computer Science 122/Excalidraw",
-    "Linear Algebra/ProfPDFs/Week 3.pdf",
+    "Calculus III/Excalidraw/7. Arc Length and Curvature",
+    "Calculus III/Excalidraw/6. Tangent Vectors",
+    "Calculus III/Excalidraw/5. 3-D Graphs from Traces",
     "AP Chemistry/Unit 7/Images/CCL4 Lewis Structure.png",
     "AP Chemistry/Unit 7/Images/H2S Lewis Structure.png",
     "AP Chemistry/Unit 7/Images/HF Lewis Structure.png",
@@ -232,7 +216,6 @@
     "AP Chemistry/Images/Periodic Table of Elements.png",
     "AP Chemistry/Unit 6/Images/Square Planar Molecular Geometry.png",
     "AP Chemistry/Unit 6/Images/Trigonal Pyramidal Molecular Geometry.png",
-    "AP Chemistry/Unit 6/Images/Tetrahedral Molecular Geometry.png",
     "Untitled.canvas"
   ]
 }
