@@ -41,19 +41,46 @@
 	
 	**c)** Find parametric equations for the line that is tangent to this curve at the point $\large{(0, 2, 1)}$.
 	
-	$\large{\langle x, y, z \rangle = \left\langle \dfrac{\pi\cos(\pi t)}{\sqrt{\pi^2 + t^2}}, -\dfrac{t}{\sqrt{\pi^2 + t^2}}, -\dfrac{\pi \sin(\pi t)}{\sqrt{\pi^2 + t^2}} \right\rangle}$
+	$\large{\langle 0,2,1 \rangle = \langle \sin(\pi t), 4 - \dfrac{1}{2}t^2, \cos(\pi t) \rangle \implies 2 = 4 - \dfrac{1}{2}t^2 \implies t = \pm 2}$
+	$\large{t = 2}$ since $\large{t \geq 0}$
 	
+	$\large{\mathbf{r}'(2) = \langle \pi\cos(2\pi), -2, -\pi \sin(2\pi) \rangle = \langle \pi, -2, 0 \rangle}$
+	So, $\large{\color{magenta} x = \pi t, y = -2t + 2, z = 1}$
 	
 	**d)** Graph the curve for $\large{0 \leq t \leq 2}$. Indicate positive orientation, and label the points at $\large{t = 0}$, $\large{t = 1}$, and $\large{t = 2}$ with their coordinates.
+	![[Exam 1 Review Graphic|800]]
     
-4. For the curve $\large{\mathbf{r}(t) = t^2\mathbf{i} + (1 - t^2)\mathbf{j} + (2 + t^3)\mathbf{k}}$: a) Find expressions for the tangential acceleration, normal acceleration, and curvature at any $\large{t}$ value. b) Find the length of the piece of the curve from $\large{t = 0}$ to $\large{t = 1}$.
-    
+4. For the curve $\large{\mathbf{r}(t) = t^2\mathbf{i} + (1 - t^2)\mathbf{j} + (2 + t^3)\mathbf{k}}$:
+	**a)** Find expressions for the tangential acceleration, normal acceleration, and curvature at any $\large{t}$ value.
+	$\large{\mathbf{r}'(t) = 2t\mathbf{i} -2t\mathbf{j} + 3t^2 \mathbf{k}}$
+	$\large{\mathbf{r}''(t) = 2\mathbf{i} -2\mathbf{j} + 6t\mathbf{k}}$
+	$\large{|\mathbf{r}'(t)| = \sqrt{(2t)^2 + (2t)^2 + ((3t)^2)^2} = \sqrt{8t^2 + 9t^4} = t\sqrt{8 + 9t^2}}$
+	
+	$\large{\begin{align} a_T &= \dfrac{\mathbf{r}'(t) \cdot \mathbf{r}''(t)}{|\mathbf{r}'(t)|} = \dfrac{2t \cdot 2 - 2t \cdot (-2) + 3t^2 \cdot 6t}{8t^2 + 9t^4} = \dfrac{4t + 4t + 18t^3}{t\sqrt{8 + 9t^2}} \\ \\ &= \color{magenta} \dfrac{8 + 18t^2}{\sqrt{8 + 9t^2}} \end{align}}$
+	
+	$\large{\mathbf{r}'(t) \times \mathbf{r''}(t) = \begin{vmatrix} \mathbf{i} & \mathbf{j} & \mathbf{k} \\ 2t & -2t & 3t^2 \\ 2 & -2 & 6t \end{vmatrix} = \langle -6t^2, -6t^2, 0 \rangle}$
+	
+	$\large{|\mathbf{r}'(t) \times \mathbf{r''}(t)| = |\langle -6t^2, -6t^2, 0 \rangle| = \sqrt{36t^4 + 36t^4} = 6t^2\sqrt{2}}$
+	
+	$\large{\begin{align} a_N = \dfrac{|\mathbf{r}'(t) \times \mathbf{r''}(t)|}{|\mathbf{r}(t)|} = \dfrac{6\sqrt{2}t^2}{t\sqrt{8 + 9t^2}} = \color{magenta} \dfrac{6\sqrt{2}t}{\sqrt{8 + 9t^2}}\end{align}}$
+	
+	$\large{\begin{align} \kappa = \dfrac{|\mathbf{r}'(t) \times \mathbf{r}''(t)|}{|\mathbf{r'(t)}|^3} = \dfrac{6\sqrt{2}t^2}{t^3(8+9t^2)^{\frac{3}{2}}} = \color{magenta} \dfrac{6\sqrt{2}}{t(8+9t^2)^{\frac{3}{2}}}\end{align}}$
+	
+	**b)** Find the length of the piece of the curve from $\large{t = 0}$ to $\large{t = 1}$.
+	
+	$\large{\int_0^1 \sqrt{(2t)^2 + (2t)^2 + (3t^2)^4} = \int_0^1 \sqrt{8t^2 + 9t^4} = \int_0^1 t\sqrt{8 + 9t^2}}$
+	$\large{u = 8 + 9t^2, du = 18t\,dt \implies dt = \dfrac{du}{18t}}$
+	$\large{\int_0^1 t\sqrt{8 + 9t^2} = \int_0^{17} \dfrac{\sqrt{u}}{18} du = \dfrac{u^{\frac{3}{2}}}{27}\bigg|_{0}^{17} = \dfrac{17^{\frac{3}{2}}}{27}}$
+    .
 5. Sketch and describe the surfaces $\large{x^2 + 4y = 4}$ and $\large{z^2 + 4y^2 - 2x = 1}$ as well as you can.
     
 6. For the function/surface $\large{z = f(x, y) = \sqrt{4x^2 + y^2}}$, plot level curves for $\large{z}$-levels of 0, 1, 2, 3, 4. Label each level curve with its $\large{z}$-level.
     
-7. For the multivariable function $\large{G(x, y, z) = \ln(x^2 + y^2 + z^2 - 1)}$, do the following: a) Compute $\large{G(1, 2, 3)}$. b) Describe the domain of $\large{G}$. c) Describe the level surfaces of $\large{G}$.
-    
+7. For the multivariable function $\large{G(x, y, z) = \ln(x^2 + y^2 + z^2 - 1)}$, do the following:
+	**a)** Compute $\large{G(1, 2, 3)}$.
+	**b)** Describe the domain of $\large{G}$.
+	**c)** Describe the level surfaces of $\large{G}$.
+
 8. Show that $\large{\lim_{(x,y) \to (0,0)} \dfrac{2xy}{x^2 + 2y^2}}$ does not exist.
     
 9. Find the value of $\large{\lim_{(x,y) \to (2,2)} \dfrac{x^2 - y^2}{x - y}}$, and discuss the continuity of $\large{f(x, y) = \dfrac{x^2 - y^2}{x - y}}$.
@@ -62,4 +89,10 @@
     
 11. Given that $\large{z = x^2y + \ln(2x + 3y)}$, $\large{x = t^2}$, $\large{y = e^{1-t}}$, find the value of $\large{\dfrac{dz}{dt} \bigg|_{t=1}}$.
     
-12. For each question, write the letter for the correct answer in the blank. i) Which of the following statements is true? (A) $\large{\mathbf{j} \times \mathbf{i} = \mathbf{k}}$ (B) $\large{\mathbf{k} \times \mathbf{j} = \mathbf{i}}$ (C) $\large{\mathbf{k} \times \mathbf{i} = \mathbf{j}}$ ii) Which is the domain of the function $\large{f(x, y) = \dfrac{x}{\sqrt{x + y}}}$? (A) all points in $\large{\mathbb{R}^2}$ except those on the line $\large{y = x}$ (B) all points in $\large{\mathbb{R}^2}$ except those on the line $\large{y = -x}$ (C) all points in $\large{\mathbb{R}^2}$ below the line $\large{y = -x}$ (D) all points in $\large{\mathbb{R}^2}$ above the line $\large{y = -x}$ iii) For which function is it true that $\large{f_x = 2x + 4y}$ and $\large{f_y = 4x + 3y^2}$? (A) $\large{f(x, y) = x^2 + y^3 + 4xy}$ (B) $\large{f(x, y) = x^2 + 4x + 4y + y^3}$ (C) $\large{f(x, y) = x^2y^3 + 4xy}$
+12. For each question, write the letter for the correct answer in the blank.
+	**i)** Which of the following statements is true? 
+	(A) $\large{\mathbf{j} \times \mathbf{i} = \mathbf{k}}$
+	(B) $\large{\mathbf{k} \times \mathbf{j} = \mathbf{i}}$
+	(C) $\large{\mathbf{k} \times \mathbf{i} = \mathbf{j}}$ 
+	**ii)** Which is the domain of the function $\large{f(x, y) = \dfrac{x}{\sqrt{x + y}}}$? (A) all points in $\large{\mathbb{R}^2}$ except those on the line $\large{y = x}$ (B) all points in $\large{\mathbb{R}^2}$ except those on the line $\large{y = -x}$ (C) all points in $\large{\mathbb{R}^2}$ below the line $\large{y = -x}$ (D) all points in $\large{\mathbb{R}^2}$ above the line $\large{y = -x}$ 
+	**iii)** For which function is it true that $\large{f_x = 2x + 4y}$ and $\large{f_y = 4x + 3y^2}$? (A) $\large{f(x, y) = x^2 + y^3 + 4xy}$ (B) $\large{f(x, y) = x^2 + 4x + 4y + y^3}$ (C) $\large{f(x, y) = x^2y^3 + 4xy}$
