@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus III/4. 3-D Graphs from Traces.md",
+                "file": "Calculus III/10. Partial Derivatives.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus III/4. 3-D Graphs from Traces.md",
+                "file": "Calculus III/10. Partial Derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus III/4. 3-D Graphs from Traces.md",
+                "file": "Calculus III/10. Partial Derivatives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus III/4. 3-D Graphs from Traces.md"
+                "file": "Calculus III/10. Partial Derivatives.md"
               }
             }
           },
@@ -179,16 +179,16 @@
   },
   "active": "77f62b6d3d2057ef",
   "lastOpenFiles": [
-    "Calculus III/8. Functions of 2 or more variables.md",
-    "Calculus III/9. Limits and Continuity for f(x,y).md",
-    "Calculus III/10. Partial Derivatives.md",
     "Calculus III/Exam 1 Review.md",
+    "Calculus III/9. Limits and Continuity for f(x,y).md",
+    "Calculus III/8. Functions of 2 or more variables.md",
+    "Calculus III/7. Arc Length and Curvature.md",
     "Calculus III/4. 3-D Graphs from Traces.md",
+    "Calculus III/10. Partial Derivatives.md",
     "Calculus III/Excalidraw/5. 3-D Graphs from Traces/4. 2024-01-23 08.20.41.excalidraw.md",
     "Calculus III/Excalidraw/Exam 1 Review/Exam 1 Review Graphic.md",
     "Calculus III/Excalidraw/Exam 1 Review",
     "Calculus III/Excalidraw/5. 3-D Graphs from Traces/4. 2024-01-23 08.14.48.excalidraw.md",
-    "Calculus III/7. Arc Length and Curvature.md",
     "Calculus III/6. Tangent Vectors.md",
     "Calculus III/5. Lines, Planes and Vectors.md",
     "Calculus III/1. Review.md",
