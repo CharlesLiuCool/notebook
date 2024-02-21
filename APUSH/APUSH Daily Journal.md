@@ -436,3 +436,11 @@ John D. Rockefeller had over 410 billion dollars. He took control of the newly d
 >[!clock] 2/9
 > >[!question] #20 Why will the 20th century be the most violent in human history?
 > >The rapid industrialization of the European nations and America led to conflicts between the nations. Two world wars would occur and blood would be shed.
+
+>[!clock] 2/10
+> >[!question] #21 Why does the U.S. enter WW1?
+> >Provocations such as the Zimmerman Telegram anger the U.S. public, and eventually the sinking of ships led them to enter WW1. The Zimmerman Telegram was a message from Germany to Mexico telling it to revolt against the U.S. which was intercepted by the British and sent to the U.S.
+
+>[!clock] 2/15
+> >[!question] #22 Name two of Wilson's 14 points. Why were most rejected?
+> >Two of Wilson's points were the ending of alliances and the establishment of the League of Nations. Most were rejected as other countries such as France saw them as too forgiving and wanted to punish Germany more.
