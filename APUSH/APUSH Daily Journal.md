@@ -444,3 +444,7 @@ John D. Rockefeller had over 410 billion dollars. He took control of the newly d
 >[!clock] 2/15
 > >[!question] #22 Name two of Wilson's 14 points. Why were most rejected?
 > >Two of Wilson's points were the ending of alliances and the establishment of the League of Nations. Most were rejected as other countries such as France saw them as too forgiving and wanted to punish Germany more.
+
+>[!clock] 2/21
+> >[!question] #23 Why do you think the American government will make alcohol illegal 1920-1933?
+> >They believed it would help solve problems like domestic violence and addiction.
