@@ -448,3 +448,15 @@ John D. Rockefeller had over 410 billion dollars. He took control of the newly d
 >[!clock] 2/21
 > >[!question] #23 Why do you think the American government will make alcohol illegal 1920-1933?
 > >They believed it would help solve problems like domestic violence and addiction.
+
+>[!clock] 2/22
+> >[!question] #24 What is a stock? Why do some people invest in the stock market?
+> >A stock is a share of a company. People invest in stocks if they believe the company will be worth more later, and believe the company will succeed.
+
+>[!clock] 2/23
+> >[!question] #25 Why is FDR's economic recovery program called the New Deal?
+> >The program is called the New Deal since it gave people a new sense of hope and was a symbol for change. 
+
+>[!clock] 2/26
+> >[!question] #26 Why is FDR considered a good president?
+> >FDR helped the US get out of the Great Depression and helped establish lasting changes such as government-backed banks and old-age benefits.

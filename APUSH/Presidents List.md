@@ -17,14 +17,16 @@
 17. Andrew Johnson
 18. Ulysses S. Grant
 19. Rutherford B. Hayes
-20. Chester Arthur
-21. Grover Cleveland
-22. Benjamin Harrison
-23. Grover Cleveland
-24. William McKinley
-25. Theodore Roosevelt
-26. William Taft
-27. Woodrow Wilson
-28. Warren Harding
-29. Herbert Hoover
-30. Franklin Delano Roosevelt
+20. James Garfield
+21. Chester Arthur
+22. Grover Cleveland
+23. Benjamin Harrison
+24. Grover Cleveland
+25. William McKinley
+26. Theodore Roosevelt
+27. William Taft
+28. Woodrow Wilson
+29. Warren Harding
+30. Calvin Coolidge
+31. Herbert Hoover
+32. Franklin Delano Roosevelt

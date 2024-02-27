@@ -13,9 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus III/13. Tangent Planes and Linear Approximation.md",
-                "mode": "preview",
+                "file": "APUSH/APUSH Daily Journal.md",
+                "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "3ddc800e43685518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus III/14. Finding Local Extrema for f(x,y).md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "161378ae30a9e5c2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/14. Finding Local Extrema for f(x,y) 2024-02-27 08.25.31.excalidraw.md"
               }
             }
           },
@@ -25,7 +47,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/13. Tangent Planes and Linear Approximation 2024-02-22 08.43.28.excalidraw.md"
+                "file": "Calculus III/Excalidraw/13. Tangent Planes and Linear Approximation/13. Tangent Planes and Linear Approximation 2024-02-22 08.43.28.excalidraw.md"
               }
             }
           },
@@ -35,7 +57,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/13. Tangent Planes and Linear Approximation 2024-02-22 08.40.01.excalidraw.md"
+                "file": "Calculus III/Excalidraw/13. Tangent Planes and Linear Approximation/13. Tangent Planes and Linear Approximation 2024-02-22 08.40.01.excalidraw.md"
               }
             }
           },
@@ -45,11 +67,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/13. Tangent Planes and Linear Approximation 2024-02-22 08.18.03.excalidraw.md"
+                "file": "Calculus III/Excalidraw/13. Tangent Planes and Linear Approximation/13. Tangent Planes and Linear Approximation 2024-02-22 08.18.03.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus III/13. Tangent Planes and Linear Approximation.md",
+                "file": "Calculus III/14. Finding Local Extrema for f(x,y).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calculus III/13. Tangent Planes and Linear Approximation.md",
+                "file": "Calculus III/14. Finding Local Extrema for f(x,y).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus III/13. Tangent Planes and Linear Approximation.md"
+                "file": "Calculus III/14. Finding Local Extrema for f(x,y).md"
               }
             }
           },
@@ -187,16 +210,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b7e912c672634f3e",
+  "active": "3ddc800e43685518",
   "lastOpenFiles": [
-    "Calculus III/Exam 1 Review.md",
-    "Calculus III/13. Tangent Planes and Linear Approximation.md",
-    "Excalidraw/13. Tangent Planes and Linear Approximation 2024-02-22 08.43.28.excalidraw.md",
-    "Excalidraw/13. Tangent Planes and Linear Approximation 2024-02-22 08.40.01.excalidraw.md",
-    "Excalidraw/13. Tangent Planes and Linear Approximation 2024-02-22 08.18.03.excalidraw.md",
-    "Calculus III/12. The Gradient and Directional Derivative.md",
-    "APUSH/Presidents List.md",
+    "Excalidraw/14. Finding Local Extrema for f(x,y) 2024-02-27 08.25.31.excalidraw.md",
+    "Calculus III/14. Finding Local Extrema for f(x,y).md",
     "APUSH/APUSH Daily Journal.md",
+    "Untitled.md",
+    "Calculus III/13. Tangent Planes and Linear Approximation.md",
+    "Calculus III/Excalidraw/13. Tangent Planes and Linear Approximation/13. Tangent Planes and Linear Approximation 2024-02-22 08.18.03.excalidraw.md",
+    "Calculus III/Excalidraw/13. Tangent Planes and Linear Approximation",
+    "APUSH/Presidents List.md",
+    "Calculus III/Excalidraw/13. Tangent Planes and Linear Approximation/13. Tangent Planes and Linear Approximation 2024-02-22 08.43.28.excalidraw.md",
+    "Calculus III/12. The Gradient and Directional Derivative.md",
+    "Calculus III/5. Lines, Planes and Vectors.md",
+    "Calculus III/1. Review.md",
+    "Calculus III/Exam 1 Review.md",
+    "Calculus III/Excalidraw/13. Tangent Planes and Linear Approximation/13. Tangent Planes and Linear Approximation 2024-02-22 08.40.01.excalidraw.md",
     "AP Computer Science/Unit 2/2.3 Calling a Void Method.md",
     "AP Computer Science/Unit 2/2.4 Calling a Void Method with Parameters.md",
     "AP Computer Science/Unit 2/2.2 Creating and Storing Objects (Instantiation).md",
@@ -213,11 +242,6 @@
     "Calculus III/Excalidraw/11. Multivariable Chain Rule/11. Multivariable Chain Rule 2024-02-15 08.12.16.excalidraw.md",
     "Calculus III/8. Functions of 2 or more variables.md",
     "Calculus III/6. Tangent Vectors.md",
-    "APUSH/Unit 6 (1865 - 1898)/Grover Cleveland.md",
-    "APUSH/Unit 7 (1890 - 1945)/WWI DBQ.md",
-    "Calculus III/10. Partial Derivatives.md",
-    "Calculus III/11. Multivariable Chain Rule.md",
-    "Calculus III/9. Limits and Continuity for f(x,y).md",
     "Calculus III/Excalidraw/11. Multivariable Chain Rule",
     "Calculus III/Excalidraw/Exam 1 Review",
     "Calculus III/Excalidraw/2. Cross Product and Dot Product",
@@ -225,7 +249,6 @@
     "APUSH/Unit 7 (1890 - 1945)/Images/TeddyBear.png",
     "APUSH/Unit 7 (1890 - 1945)",
     "Calculus III/Excalidraw/10. Partial Derivatives",
-    "Calculus III/Excalidraw/9. Limits and Continuity for f(x,y)",
     "AP Chemistry/Unit 8/Images/Ice Heating Curve Labelled.png",
     "AP Chemistry/Unit 8/Images/Ice Heating Curve.png",
     "AP Chemistry/Unit 7/Images/CCL4 Lewis Structure.png",
