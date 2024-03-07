@@ -1,228 +1,3 @@
-
->[!clock] 8/30
-> > [!question] #1 What are the pros and cons of taking an AP Class?
-The pros are that you get a college credit that many schools recognize and you don’t have to retake the class in college.
-> > 
-The cons are it is a high-pressure standardized test as well as a course with lots of work.
-
-  
-
->[!clock] 8/31
-> >[!question] #2 What are some challenges with the study of history?
-> >
-There is bias in the accounts of history and some civilizations are more well documented than others.
-
->[!clock] 9/1
-> >[!question] #3 Who gets more respect in history, Amerigo Vespucci or Christopher Columbus? Why?
-> >
-Christopher Columbus gets more respect since he is so much more well-known. Although the Americas are named after Vespucci, few know about its relation to him.
-
->[!clock] 9/6
-> >[!question] #4 What is the Columbian Exchange and how does it connect to modern society?
-> >
-It is the interchange between the worlds of Africa, Europe, and the Americas, and their cultures and goods. This brought the roots of why the US is largely European-based, with the original European settlers taking over the Natives’ land. This also brought a large amount of Africans over to the US, as they were originally sold as slaves, and wiped out Natives as the Europeans spread disease.
-
->[!clock] 9/7
-> >[!question] #5 What do you think happened to the Roanoke Colonists?
-> >
-I think the Roanoke colonists all died out because that seems the most reasonable in my opinion. The combination of diseases and starvation makes their chance of survival slim to none.
-
->[!clock] 9/8
-> >[!question] #6 What is the difference between a Puritan & Pilgrim?
-> >
-The Puritans were part of a protestant group that had conflicts with the Anglican Church of England. Some of these people, as well as other protestants, decided to travel to the Americas to create their own life free from the Church’s control, called pilgrims.
-
-> [!clock] 9/11
-> >[!question] #7 Why do you think Ch.2 is called American Experiments?
-> > 
-Chapter 2 is called American Experiments since it shows how the European settlers experimented with importing people to the Americas in an attempt to establish a colony and gain resources.
-
->[!clock] 9/13
-> > [!question] #8 Name as many of the 13 original US colonies as you can.
-> >
-Pennsylvania, Virginia, North Carolina, South Carolina, Georgia, New Jersey, New York, New Hampshire, Massachusetts, Connecticut, Delaware, Maryland, Rhode Island
-
->[!clock] 9/14
-> > [!question] #9 What are some causes of the African Slave Trade?
-> >
-Some causes include the increased demand for workers to plant plantations, the increased profits of plantations of sugar and tobacco, and the deaths of Native Americans who were originally used as laborers.
-
->[!clock] 9/15
-> >[!question] #10 What is salutary neglect? Show an example.
-> >
-It was when Britain loosened its grip on the colonies and trusted them to govern themselves. Britain was busy fighting wars, and let them do this. They would later reassert their grip, however, due to the 7 Years War, and the colonists would be angry with this.
-
->[!clock] 9/18
-> >[!question] #11 Before 1770, name an influential person living in the American Colonies.
-> >
-A person who was influential during this time frame was Anne Hutchinson.
-
->[!clock] 9/20
-> >[!question] #12 Name various learning styles. What is your best learning style?
-> >
-There are visual, auditory, reading/writing, and kinesthetic. I learn the best by watching visuals and listening at the same time, and also writing down the material with notes.
-
->[!clock] 9/21
-> >[!question] #13 What is a pro & con to group projects and presentations?
-> >
-A pro is you get to see many different people’s perspectives on topics and gain a deeper understanding. A con is that everyone thinks differently and you cannot give the presentation completely how you want to.
-
->[!clock] 9/22
-> >[!question] #14 Why were the American Colonies culturally diverse?
-> >
-They were so diverse because so many different groups from different areas came for different reasons to the Americas. English Puritans came to escape from religious persecution, Quakers came for religious peace, Africans came as slaves, people in debt came as indentured servants, wealthy people making profits in plantations, etc.
-
->[!clock] 9/25
-> >[!question] #15 Share a cause and effect for the French and Indian War.
-> >
-Both sides(France and Britain) had expansion of territories and began to encroach on each other’s territories. The British began trading with Natives on land which the French claimed, and both sides fought. Some effects include short term improved relations between colonies and the British as the British helped colonists fight for land.
-
->[!clock] 9/27
-> >[!question] #16 Why is Ch. 5 called “Problem of Empire”?
-> >
-It is called Problem of Empire because Britain was having various problems. This includes economics, as they fought a costly French and Indian War, which although they won, they had to burn a lot of money. The Americans were also beginning to rebel against the ever-so encroaching British, which needed money from them.
-
-9/28
-
-#17 Was it “Common Sense” for the American Colonies to unify & break away from Great Britain.
-
-Yeah. The British were imposing taxes and policies that would make the Americans better off without them.
-
-  
-
-9/29
-
-#18
-
-How old is the United States?
-
-The United States is 247 years old.
-
-  
-
----
-
->[!clock] 10/2 
-> >[!question] #1 Should the Declaration of Independence be considered more of a birth certificate or break up letter? Why?
-> >
-The Declaration of Independence should be considered more of a break up letter, as although America officially declared themselves “independent”, they developed this rebelling nature against the British much earlier.
-
->[!clock] 10/4
-> >[!question] #2 What factors will ultimately help the American colonists earn independence from Great Britain?
-> >
-Their strong leadership, especially with George Washington as a prominent general helped the Americans win the war against the British. The emergence of enlightenment ideals and British acts of heavy taxation also angered and united the colonies against them. They implemented guerilla warfare tactics, not abiding by normal war “rules”, and were able to kill a lot of British. France joins in as well and helps the Americans.
-
-  
-
-10/5
-
-#3 Why is Washington called “The Father of our Country”?
-
-He is called the father of our country since he was one of the most important generals in the American Revolution against the British and a key factor to the colonists’ success. Furthermore, he was also a key member in the writing of the Constitution.
-
-10/9
-
-#4 Why in 1787 will the US scrap its government & create a new one?
-
-The US government initially had the Articles of Confederation as its form of government. There were flaws however, and many people were dissatisfied, so the Constitutional Convention was held to rewrite the government. States had a lot of power to implement their own laws and government, and there were lots of inconsistencies between states. This would lead to the Shays Rebellion where Daniel Shay would lead an armed rebellion against the federal government alongside farmers to demand better treatment. Large states supported the Virginia Plan, which wanted state representation to be based on population, whereas smaller states wanted to support the New Jersey Plan, which proposed each state have equal representation. The convention would produce the “Senate” and “House of Representatives”, Senate is one state with one vote, and the House of Representatives is based on state population.
-
-  
-
-10/11
-
-#5 Why is Washington called “The Father of our country?
-
-His leadership was a key factor in the victory of America in the American Revolution. He also was a Founding Father and signed the Constitution.
-
-  
-
-10/12
-
-#6 Why is Hamilton on the $10?
-
-He served as the first US Secretary of Treasury.
-
-  
-
-10/13
-
-#7 What were some challenges John Adams faced as the 2nd president?
-
-A big challenge was the division in government. Although Adams was a federalist, he was more moderate in his standing, so he was caught between the more extreme federalists such as Hamilton and the antifederalists.
-
-  
-
-10/16
-
-#8 What topic did you most enjoy in period 3?
-
-I most enjoyed General Washington trolling the British with cannons without gunpowder lined up in Boston to retake it.
-
-  
-
-10/18
-
-#9 What were some challenges the U.S. faced as a young nation?
-
-Some challenges the U.S. faced were disagreements of methods of governing, finance, and setting foreign relation positions. The originally used Articles of Confederation were debated among the leading politicians at the time, and they held the Philadelphia Convention, where James Madison’s Virginia Plan and the New Jersey Plan clashed, supporting representation by population vs representation by state respectively. Furthermore, when Hamilton established the excise tax, many people were unhappy, and an armed rebellion led by Daniel Shay led farmers to attack the government. The position the United States had for France during the French Revolution was also a challenge, as although France helped the U.S. in the American Revolution, helping the French monarchy could threaten the existing U.S. nation. George Washington chose not to help.
-
-  
-
-10/19
-
-#10 Why is the War of 1812 often forgotten in U.S. history?
-
-It is often forgotten to history because many of the battles are ignored for development 
-
-  
-
-10/20
-
-#11 How is writing a document based question essay different compared to other essays?
-
-It is different because you have to argue and take a side for the given question, and follow criteria to get the points. It isn’t necessarily based on grammar and english conventions, but more the content and understanding.
-
-  
-
->[!clock] 10/23
-> >[!question] #12 What are some good tips to remember when writing a DBQ?
-> >
-Remember that your objective is to get the points, not fix run-on sentences or bad grammar. Be sure to set a standard that you follow every time when writing the DBQ to ensure you get the points with some insurance while being within the time span.
-
-  
-
->[!clock] 10/25
-> >[!question] #13 What were some triumphs and failures for Jefferson and Madison?
-> >
-Jefferson is well known for the Louisiana Purchase, a huge purchase doubling the US’s land. A failure was the Embargo Act of 1807.
-> >
-Madison’s triumph is the Bill of Rights, War of 1812. Failures are financial difficulties and slavery
-
-  
-  
-
->[!clock] 10/26
-> > [!question] #14 What were some changes in technology in the early 1800s?
-> >
-The electric telegraph was developed by Samuel Finley Breese Morse which would be an important invention in the future of communication. There was also steamboats development, new roads, trains, and faster transportation. There was also the Erie Canal, which was a big economic boost.
-
->[!clock] 10/27
-> >[!question] #15 What strategy helps you with multiple-choice questions?
-Eliminate definitely incorrect answers, use resources (passage given), and think like the test.
-
->[!clock] 10/30
-> >[!question] #16 How were the 1820’s & 30s different compared to the early 1800’s?
-After the American Revolution, the early 1800s saw leaders such as Thomas Jefferson, James Madison, and George Washington. A new generation of leaders emerged in the 1820s and 30’s such as Andrew Jackson and Henry Clay.
-
->[!clock] 11/1
-> > [!question] #17 Name a pro & con about Andrew Jackson’s impact on the United States. Why was he popular in his day?
-Pro: Expansion of the United States, gain of Florida. Sense of national identity increased
-> >
-Con: Did not treat natives well, including Trail of Tears.
-> >
-He was popular in his day because he helped gain land for the southern plantation owners by kicking out the Spanish and natives. This helped the westward expansion of the United States.
-
----
 >[!clock] 11/2
 > > [!question] #1 How would you describe the relationship between the US government & Native American nations in the 1800s and today?
 > > 
@@ -460,3 +235,23 @@ John D. Rockefeller had over 410 billion dollars. He took control of the newly d
 >[!clock] 2/26
 > >[!question] #26 Why is FDR considered a good president?
 > >FDR helped the US get out of the Great Depression and helped establish lasting changes such as government-backed banks and old-age benefits.
+
+>[!clock] 2/27
+> >[!question] #27 What were some causes to World War II
+> >Some causes were the assassination of the Archduke of Austria, Franz Ferdinand, by the Serbian Black Hand Society and Gavrilo Princip. Other causes include the Treaty of Versailles imposing harsh conditions on Germany.
+
+>[!clock] 2/29
+> >[!question] #28 Why did Japan attack the U.S. on 12/7/1941?
+> > Japan had ambitions to expand and become a global power. It also had tensions with the U.S. for sanctions and failing to negotiate.
+
+>[!clock] 3/1
+> >[!question] #29 What strategies do you think the U.S. will use to win World War II?
+> >They will use deception, improved technology, and bombing and air/naval warfare.
+
+>[!clock] 3/4
+> >[!question] #30 If you could sum up WWII in one word what would it be?
+> >Violent.
+
+>[!clock] 3/6
+> >[!question] #31 Why will it be difficult for the U.S. to retake Pacific islands from Japan?
+> >The islands are scattered and are surrounded by water so its harder to attack. The process would also have to be repeated with each island.
