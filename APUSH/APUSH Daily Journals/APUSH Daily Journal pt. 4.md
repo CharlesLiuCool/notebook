@@ -141,3 +141,48 @@ John D. Rockefeller had over 410 billion dollars. He took control of the newly d
 >[!clock] 3/8
 > >[!question] #33 How did WWII change the lives of American citizens?
 > >WWII changed the standard of living in America, increasing consumer culture and quality of life. Japanese struggle from exclusion, especially with the internment camp incident. Women join the workforce more.
+
+>[!clock] 3/11
+> >[!question] #34 WWII has been called the "good war" why?
+> >The war brought America to the top of global influence and brought great prosperity. Consumerism exploded, and America entered a new age of high quality-of-life.
+
+>[!clock] 3/13
+> >[!question] #35 Guess the timing needed for the four parts of the AP exam.
+> > - 55 MCQ -> 55 minutes
+> > - 3 SAQ -> 40 minutes
+> > - 1 LEQ -> 40 minutes
+> > - 1 DBQ -> 60 minutes
+
+>[!clock] 3/14
+> >[!question] #36 Why is the period between 1945-1990 known as the Cold War?
+> >This period saw the USSR and the United States engage in technological competition, Although they had minimal physical combat, they engaged indirectly and competed in advancing technology.
+
+>[!clock] 3/15
+> >[!question] #37 Why will Germany. be divided for 44 years?
+> >After the Allies take over Germany, they split it. The British and US get the west side whereas the Soviets got the east. This division would be exacerbated by tensions between either side, with Britain and US being capitalist whereas the Soviet Union being communist, and the Soviets would build a wall between them.
+
+>[!clock] 3/18
+> >[!question] #38 Why is Korea still divided into North & South?
+> >After WWI marking the end of Japanese rule in Korea, the Soviet Union took the North and the US took the South. They had varying beliefs and the North and the South would become divided to this day.
+
+>[!clock] 3/21
+> >[!question] #39 
+
+>[!clock] 3/25
+> >[!question] #40 Name the Cold War Presidents 1945-1990
+> >1. Harry S. Truman
+> >2. Dwight Eisenhower
+> >3. John F. Kennedy
+> >4. Lyndon B. Johnson
+> >5. Gerald Ford
+> >6. Jimmy Carter
+> >7. Ronald Reagan
+> >8. George H. W. Bush.
+
+>[!clock] 3/27
+> >[!question] #41 Name 2 causes & 2 effects of the Civil Rights movement.
+> >2 causes are the injustices faced through segregation and the resistance to desegregation. 2 effects are law forcing the desegregation and stopping separation in schools and heightened civil rights activism.
+
+>[!clock] 3/28
+> >[!question] #42 Why is MLK honored more than Malcolm X?
+> >MLK employed nonviolence while Malcolm X believed violence was okay in achieving their goals.
