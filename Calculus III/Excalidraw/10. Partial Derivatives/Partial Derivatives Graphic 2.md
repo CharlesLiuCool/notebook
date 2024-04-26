@@ -30,7 +30,7 @@ z ^uiE3tTR3
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.17",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.26",
 	"elements": [
 		{
 			"type": "line",
@@ -136,8 +136,8 @@ z ^uiE3tTR3
 			"y": -394.42648992433254,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 181.9877134413883,
-			"height": 58.52451873685453,
+			"width": 181.950439453125,
+			"height": 58.52451873685452,
 			"seed": 1110509587,
 			"groupIds": [],
 			"frameId": "nVP0lzwVbSkIKUeY0b8o8",
@@ -154,8 +154,7 @@ z ^uiE3tTR3
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "y = f(x)",
-			"lineHeight": 1.25,
-			"baseline": 40.000000000000014
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -173,7 +172,7 @@ z ^uiE3tTR3
 			"y": -305.32601356098996,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 21.354017692356443,
+			"width": 21.353561401367188,
 			"height": 56.913756166813556,
 			"seed": 1586936093,
 			"groupIds": [],
@@ -191,8 +190,7 @@ z ^uiE3tTR3
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "y",
-			"lineHeight": 1.25,
-			"baseline": 40
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -210,7 +208,7 @@ z ^uiE3tTR3
 			"y": 182.94350291532726,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 25.588402540663374,
+			"width": 25.587860107421875,
 			"height": 56.913756166813556,
 			"seed": 938301373,
 			"groupIds": [],
@@ -228,8 +226,7 @@ z ^uiE3tTR3
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "x",
-			"lineHeight": 1.25,
-			"baseline": 40
+			"lineHeight": 1.25
 		},
 		{
 			"type": "line",
@@ -291,7 +288,7 @@ z ^uiE3tTR3
 			"y": 174.5472614785042,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 30.36917195363571,
+			"width": 30.368499755859375,
 			"height": 56.913756166813556,
 			"seed": 1603383603,
 			"groupIds": [],
@@ -309,8 +306,7 @@ z ^uiE3tTR3
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "a",
-			"lineHeight": 1.25,
-			"baseline": 40
+			"lineHeight": 1.25
 		},
 		{
 			"type": "line",
@@ -420,8 +416,8 @@ z ^uiE3tTR3
 			"y": -272.00404518205266,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 214.84648426429428,
-			"height": 46.50360488432507,
+			"width": 214.82989501953125,
+			"height": 46.503604884325036,
 			"seed": 1742986365,
 			"groupIds": [],
 			"frameId": "nVP0lzwVbSkIKUeY0b8o8",
@@ -438,8 +434,7 @@ z ^uiE3tTR3
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "tangent line",
-			"lineHeight": 1.25,
-			"baseline": 33.000000000000036
+			"lineHeight": 1.25
 		},
 		{
 			"type": "line",
@@ -633,8 +628,8 @@ z ^uiE3tTR3
 			"y": -80.38512867622532,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 22.85488407886907,
-			"height": 60.91393752807195,
+			"width": 22.8543701171875,
+			"height": 60.913937528071955,
 			"seed": 868994269,
 			"groupIds": [],
 			"frameId": "nVP0lzwVbSkIKUeY0b8o8",
@@ -651,8 +646,7 @@ z ^uiE3tTR3
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "y",
-			"lineHeight": 1.25,
-			"baseline": 42
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -670,8 +664,8 @@ z ^uiE3tTR3
 			"y": 148.0617758712838,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 27.3868825181143,
-			"height": 60.91393752807195,
+			"width": 27.386245727539062,
+			"height": 60.913937528071955,
 			"seed": 1585206621,
 			"groupIds": [],
 			"frameId": "nVP0lzwVbSkIKUeY0b8o8",
@@ -688,8 +682,7 @@ z ^uiE3tTR3
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "x",
-			"lineHeight": 1.25,
-			"baseline": 42
+			"lineHeight": 1.25
 		},
 		{
 			"type": "text",
@@ -725,8 +718,7 @@ z ^uiE3tTR3
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "z",
-			"lineHeight": 1.25,
-			"baseline": 42
+			"lineHeight": 1.25
 		},
 		{
 			"type": "line",
@@ -1219,36 +1211,36 @@ z ^uiE3tTR3
 			]
 		},
 		{
-			"id": "nVP0lzwVbSkIKUeY0b8o8",
 			"type": "frame",
-			"x": -572.9894621224124,
-			"y": -512.9015109195757,
-			"width": 1393.416218974834,
-			"height": 800.5691952650532,
-			"angle": 0,
-			"strokeColor": "#bbb",
-			"backgroundColor": "transparent",
+			"version": 84,
+			"versionNonce": 1481625199,
+			"isDeleted": false,
+			"id": "nVP0lzwVbSkIKUeY0b8o8",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": -572.9894621224124,
+			"y": -512.9015109195757,
+			"strokeColor": "#bbb",
+			"backgroundColor": "transparent",
+			"width": 1393.416218974834,
+			"height": 800.5691952650532,
+			"seed": 869925149,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 869925149,
-			"version": 83,
-			"versionNonce": 1294130141,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1707592712058,
+			"boundElements": [],
+			"updated": 1712351450639,
 			"link": null,
 			"locked": false,
 			"customData": {
 				"frameColor": {
 					"stroke": "#153B5E",
 					"fill": "#22639D",
-					"nameColor": "#2C7DC7"
+					"nameColor": "#4D96D8"
 				}
 			},
 			"name": null
@@ -1269,10 +1261,10 @@ z ^uiE3tTR3
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1193.3628934567498,
-		"scrollY": 844.7759551170525,
+		"scrollX": 610.3438526349954,
+		"scrollY": 610.6051945370491,
 		"zoom": {
-			"value": 0.4662614660395552
+			"value": 0.8
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

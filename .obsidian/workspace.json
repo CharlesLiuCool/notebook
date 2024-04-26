@@ -4,58 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "671adf0bad4c8f1e",
+        "id": "d2c5231654bb34c8",
         "type": "tabs",
         "children": [
           {
-            "id": "446202b9cc8931d8",
+            "id": "f4d02a944586ea4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APUSH/APUSH Daily Journals/APUSH Daily Journal pt. 4.md",
+                "file": "Calculus III/25. Green's Theorem over Surfaces.md",
                 "mode": "preview",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "476cc1e313eb8cc3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/20. 2024-03-28 08.53.13.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "dfe2fd0a37a24b2a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/20. 2024-03-28 08.43.01.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "21693cd575785fc6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/20. 2024-03-28 08.25.54.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "6d7160e2f6faa385",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/20. 2024-03-28 08.14.49.excalidraw.md"
               }
             }
           }
@@ -125,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APUSH/APUSH Daily Journals/APUSH Daily Journal pt. 4.md",
+                "file": "Calculus III/25. Green's Theorem over Surfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APUSH/APUSH Daily Journals/APUSH Daily Journal pt. 4.md",
+                "file": "Calculus III/25. Green's Theorem over Surfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APUSH/APUSH Daily Journals/APUSH Daily Journal pt. 4.md"
+                "file": "Calculus III/25. Green's Theorem over Surfaces.md"
               }
             }
           },
@@ -197,44 +157,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "446202b9cc8931d8",
+  "active": "eaffc4925a87ff86",
   "lastOpenFiles": [
-    "Calculus III/20..md",
-    "Computer Science 122/Selecting a Data Structure.md",
-    "AP Computer Science/Unit 4/4.1 While Loops.md",
-    "AP Computer Science/Unit 3/3.2 If Statements and Control Flow.md",
-    "AP Computer Science/Unit 4",
-    "APUSH/APUSH Daily Journals/APUSH Daily Journal pt. 4.md",
-    "Computer Science 122/Exam 2 Review Guide.md",
-    "Excalidraw/20. 2024-03-28 08.53.13.excalidraw.md",
-    "Excalidraw/20. 2024-03-28 08.43.01.excalidraw.md",
-    "Excalidraw/20. 2024-03-28 08.25.54.excalidraw.md",
-    "Excalidraw/20. 2024-03-28 08.14.49.excalidraw.md",
-    "Calculus III/18. Triple Integrals.md",
-    "Calculus III/19. Cylindrical and Spherical Coordinates.md",
-    "AP Computer Science/Unit 3/3.1 Boolean Expressions.md",
+    "APUSH/APUSH Daily Journals/APUSH Daily Journal pt. 5.md",
+    "Calculus III/25. Green's Theorem over Surfaces.md",
+    "Excalidraw/25. Green's Theorem over Surfaces 2024-04-18 08.20.33.excalidraw.md",
+    "Excalidraw/25. Green's Theorem over Surfaces 2024-04-18 08.25.10.excalidraw.md",
+    "Calculus III/15 & 16. Double Integrals.md",
+    "Calculus III/14. Finding Local Extrema for f(x,y).md",
+    "Calculus III/24. Green's Theorem.md",
+    "APUSH/Unit 6 (1865 - 1898)/Grover Cleveland.md",
     "AP Computer Science/Unit 2/2.9 Using the Math Class.md",
-    "Excalidraw/18. Triple Integrals 2024-03-24 10.45.47.excalidraw.md",
-    "Calculus III/Excalidraw/18. Triple Integrals/18. 2024-03-19 08.16.35.excalidraw.md",
-    "Calculus III/Excalidraw/18. Triple Integrals",
-    "Computer Science 122/Excalidraw/4 2024-01-19 08.20.52.excalidraw.md",
-    "Computer Science 122/1.md",
-    "Computer Science 122/Exam 1 Review Guide.md",
-    "Computer Science 122/Binary Search Tree (BST).md",
-    "Calculus III/12. The Gradient and Directional Derivative.md",
     "AP Computer Science/Unit 2/2.8 Wrapper Classes - Integer and Double.md",
-    "Calculus III/17. Double Integrals Using Polar Coordinates.md",
-    "Calculus III/Excalidraw/18. Triple Integrals/18. Triple Integrals 2024-03-19 08.57.05.excalidraw.md",
-    "Calculus III/Excalidraw/18. Triple Integrals/18. Triple Integrals 2024-03-19 08.46.29.excalidraw.md",
-    "Calculus III/13. Tangent Planes and Linear Approximation.md",
+    "AP Computer Science/Unit 2/2.7 String Methods.md",
+    "AP Computer Science/Unit 2/2.6 String Objects - Concatenation, Literals, and More.md",
+    "AP Computer Science/Unit 2/2.1 Objects - Instances of Classes.md",
+    "AP Computer Science/Unit 2/2.2 Creating and Storing Objects (Instantiation).md",
+    "AP Computer Science/Unit 2/2.3 Calling a Void Method.md",
+    "AP Computer Science/Unit 1/1.4 Compound Assignment Operators.md",
+    "AP Computer Science/Unit 1/1.5 Casting and Range of Variables.md",
+    "AP Computer Science/Unit 2/2.4 Calling a Void Method with Parameters.md",
+    "AP Computer Science/Unit 3/3.2 If Statements and Control Flow.md",
+    "Calculus III/22. Integrals over Curves.md",
+    "Calculus III/21. Vector Fields.md",
+    "Calculus III/23. Conservative Vector Fields & The Fundamental Theorem of Calculus for Line Integrals.md",
+    "APUSH/Presidents List.md",
+    "APUSH/Unit 6 (1865 - 1898)/Benjamin Harrison.md",
+    "APUSH/Unit 5 (1844 - 1877)/Unit 5 Terms.md",
+    "APUSH/Unit 5 (1844 - 1877)/Rutherford B. Hayes ().md",
+    "Calculus III/Excalidraw/23. Conservative Vector Fields & The Fundamental Theorem of Calculus for Line Integrals",
+    "Calculus III/Excalidraw/22. Integrals over Curves",
+    "Calculus III/Excalidraw/21. Vector Fields",
+    "Calculus III/Excalidraw/20. Spherical Coodinates",
+    "AP Computer Science/Unit 7",
+    "AP Computer Science/Unit 6",
+    "AP Computer Science/Unit 5",
+    "AP Computer Science/Unit 4",
+    "Calculus III/Excalidraw/18. Triple Integrals",
     "AP Computer Science/Unit 2/Graphics",
-    "Calculus III/Excalidraw/17. Double Integrals Using Polar Coordinates",
-    "APUSH/APUSH Daily Journals",
-    "Calculus III/Excalidraw/14. Finding Local Extrema for f(x,y)",
-    "Calculus III/Excalidraw/15 & 16. Double Integrals",
-    "Calculus III/Excalidraw/13. Tangent Planes and Linear Approximation",
-    "AP Computer Science/Unit 3",
-    "Calculus III/Excalidraw/12. The Gradient and Directional Derivative",
     "APUSH/Unit 7 (1890 - 1945)/Images/TeddyBear.png",
     "AP Chemistry/Unit 8/Images/Ice Heating Curve Labelled.png",
     "AP Chemistry/Unit 8/Images/Ice Heating Curve.png",
