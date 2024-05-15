@@ -26,14 +26,64 @@
 > >[!question] #7 How would you describe the 1970's?
 > >Women's rights moves forward, very progressive in civil rights. Television is a dominant source of entertainment. More distrust in government. Morale goes down and increase in crime.
 
+>[!clock] 4/19
+> >[!question] #8 Name the last 8 presidents. Who were the best and worst in your opinion.
+> >1. Joe Biden
+> >2. Donald Trump
+> >3. Barack Obama
+> >4. George W. Bush
+> >5. Bill Clinton
+> >6. George H. W. Bush
+> >7. Ronald Reagan
+
 >[!clock] 4/22
-> >[!question] #8 What qualities do you think Americans prefer in a president? Did Reagan have those qualities?
+> >[!question] #9 What qualities do you think Americans prefer in a president? Did Reagan have those qualities?
 > >Americans prefer confident, charismatic, and honest candidates. 
 
 >[!clock] 4/23
-> >[!question] #9 Compare & contrast the presidency's of George W. Bush with Ronald Reagan.
+> >[!question] #10 Compare & contrast the presidency's of George W. Bush with Ronald Reagan.
 > >Both implemented tax cuts, but Reagan's were much more successful while still bringing popularity, yet Bush's caused an economic downfall.
 
 >[!clock] 4/24
-> >[!question] #10 Compare the successes & challenges of the Clinton & Obama administrations.
+> >[!question] #11 Compare the successes & challenges of the Clinton & Obama administrations.
 > >Clinton had success in improving the economy but had struggles in covering in his personal affairs. Obama had success in providing welfare, he had struggles dealing with terrorism such as the Boston Marathon Act and violent attacks such as the Benghazi attack.
+
+>[!clock] 4/26
+> >[!question] #12 Compare the successes and failures of FDR and LBJ.
+> >FDR succeeded
+
+>[!clock] 4/29
+> >[!question] #13 What are main themes of American History 1900-1939?
+
+>[!clock] 4/30
+> >[!question] #14 Compare the experience of European immigrants with African Americans in the early 1900s.
+
+>[!clock] 5/2
+> >[!question] #15 What are some tips to successfully answering SAQs?
+> > Some tips are tracking the time period and recalling key terms from that time and trends.
+
+>[!clock] 5/3
+> >[!question] #16 In what ways were T. Roosevelt's leadership progressive?
+> > He advocated for preservation of nature, protection of consumers, and more. Specifically in the Square Deal.
+
+>[!clock] 5/6
+> >[!question] #17 Compare the U.S. in the decade before the Civil War with the decades after the Civil War.
+> >The U.S. before the Civil War was heavily sectionalized between North and South and there was high tensions. Slavery was prominent in the South. After the Civil War, slavery was abolished, but African Americans continued to face segregation with things like Jim Crow laws.
+
+>[!clock] 5/8
+> >[!question] #18
+
+>[!clock] 5/9
+> >[!question] #19 Name the essay format option on LEQ's
+> >Cause and Effect
+> >Change and Continuities over Time
+> >Compare and Contrast
+
+>[!clock] 5/13
+> >[!question] #20 Best part of A.P. exam? Worst part?
+> >Best part: DBQ
+> >Worst part: LEQ
+
+>[!clock] 5/14
+> >[!question] #21 Is there anything in Star Wars that copies real history?
+> >Yes. The conflicts are very similar to real wars in history.
