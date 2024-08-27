@@ -87,3 +87,43 @@
 >[!clock] 5/14
 > >[!question] #21 Is there anything in Star Wars that copies real history?
 > >Yes. The conflicts are very similar to real wars in history.
+
+>[!clock] 5/16
+> >[!question] #22 What is one of your favorite movies?
+> >"Remember"
+
+>[!clock] 5/17
+> >[!question] #23 What were some of the main themes in 1920's and 1930's America?
+> >Roaring twenties saw African American cultural growth, growth in leisure time, greater consumer culture, etc. 1930s saw the Great Depression, mass unemployment, and economic instability.
+
+>[!clock] 5/20
+> >[!question] #24 What traits do you need to get through difficult times?
+> >Resilience, adaptability.
+
+>[!clock] 5/22
+> >[!question] #25 Do you have a favorite sport or hobby? What makes it enjoyable?
+> >My favorite sport is tennis. It's enjoyable because you get to overcome your challenges one step at a time.
+
+>[!clock] 5/23
+> >[!question] #26 What makes Jim Braddock likeable?
+> >He is down to earth, follows morals, and has been through struggles.
+
+>[!clock] 5/24
+> >[!question] #27 Name two interesting American women in US history.
+> >Amelia Earhart and Rosa Parks.
+
+>[!clock] 5/29
+> >[!question] #28 Share a story from history you find interesting.
+> >An interesting story from history is the defense of a a chinese city with no men by famous military strategist Zhu Geliang.
+
+>[!clock] 5/30
+> >[!question] #29 What factors helped Great Britain defeat Germany in WWII?
+> >Great Britain used spy networks which swayed the U.S. to join the allies against Germany. The Germans sending the Zimmerman telegram didn't help either.
+
+>[!clock] 5/31
+> >[!question] #30 Would you rather...try and survive a shipwreck, shark attack, or atomic bomb?
+> >I would try to survive a shark attack.
+
+>[!clock] 6/3
+> >[!question] #31 How is WWII connected to our lives today?
+> >It has a lasting impact on power dynamics of countries and the economies of them.

@@ -81,20 +81,13 @@ Both sides(France and Britain) had expansion of territories and began to encroac
 > >
 It is called Problem of Empire because Britain was having various problems. This includes economics, as they fought a costly French and Indian War, which although they won, they had to burn a lot of money. The Americans were also beginning to rebel against the ever-so encroaching British, which needed money from them.
 
-9/28
-
-#17 Was it “Common Sense” for the American Colonies to unify & break away from Great Britain.
-
+>[!clock] 9/28
+> >[!question] #17 Was it “Common Sense” for the American Colonies to unify & break away from Great Britain.
+> >
 Yeah. The British were imposing taxes and policies that would make the Americans better off without them.
 
-  
+>[!clock] 9/29
+> >[!question] #18 How old is the United States?
+> >The United States is 247 years old.
 
-9/29
-
-#18
-
-How old is the United States?
-
-The United States is 247 years old.
-
----
+___

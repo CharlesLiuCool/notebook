@@ -137,7 +137,7 @@ o Recall: precedence, associativity, and number of operands (arity) for an
 operator may not be changed
 Implement and apply overloaded stream insertion and extraction operators
 Implement and apply overloaded unary operators
-Implement and apply overloaded binary operators (+, -, *, /, etc.)
+Implement and apply overloaded binary operators (+, -, \*, /, etc.)
 Compare and contrast overloaded member operators versus non-member
 operators
 Define what is a forward class declaration

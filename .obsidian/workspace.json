@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APUSH/APUSH Daily Journals/APUSH Daily Journal pt. 5.md",
-                "mode": "source",
+                "file": "Political Science 102/Political Culture.md",
+                "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "4a2d99cf631a8c91",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Political Science 102/Excalidraw/Chapter 7 Cultural Determinants 2024-08-26 14.16.18.excalidraw.md"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APUSH/APUSH Daily Journals/APUSH Daily Journal pt. 5.md",
+                "file": "Political Science 102/Political Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APUSH/APUSH Daily Journals/APUSH Daily Journal pt. 5.md",
+                "file": "Political Science 102/Political Culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APUSH/APUSH Daily Journals/APUSH Daily Journal pt. 5.md"
+                "file": "Political Science 102/Political Culture.md"
               }
             }
           },
@@ -159,42 +169,42 @@
   },
   "active": "f4d02a944586ea4b",
   "lastOpenFiles": [
-    "AP Chemistry/Unit 7/7.3 Solubility.md",
-    "AP Chemistry/Unit 7/7.2 Intermolecular Forces.md",
-    "AP Chemistry/Unit 7/7.6 Types of Solids & Properties.md",
-    "AP Chemistry/Unit 7/7.1 Molecular Polarity.md",
-    "AP Chemistry/Unit 8/8.1 Enthalpy of Phase Changes.md",
-    "AP Chemistry/Unit 8/8.2 Calorimetry, Mixing Substances of Different Temperatures.md",
-    "AP Chemistry/Unit 8/8.3 Reaction Diagrams.md",
-    "AP Chemistry/Unit 8/8.5 Factors Influencing Bond Energy.md",
-    "Calculus III/4. 3-D Graphs from Traces.md",
-    "Calculus III/2. Cross Product and Dot Product.md",
-    "APUSH/Unit 5 (1844 - 1877)/Rutherford B. Hayes ().md",
-    "APUSH/APUSH Daily Journals/APUSH Daily Journal pt. 5.md",
-    "APUSH/APUSH Daily Journals/APUSH Daily Journal pt. 2.md",
-    "APUSH/APUSH Daily Journals/APUSH Daily Journal pt. 1.md",
-    "APUSH/APUSH Daily Journals/APUSH Daily Journal pt. 3.md",
-    "AP Computer Science/Unit 6/6.1 Array Creation and Access.md",
-    "AP Computer Science/Unit 5/5.9 `this` Keyword.md",
-    "Calculus III/24. Green's Theorem.md",
-    "Calculus III/23. Conservative Vector Fields & The Fundamental Theorem of Calculus for Line Integrals.md",
-    "Calculus III/22. Integrals over Curves.md",
-    "Calculus III/21. Vector Fields.md",
-    "Calculus III/25. Green's Theorem over Surfaces.md",
-    "Excalidraw/25. Green's Theorem over Surfaces 2024-04-18 08.20.33.excalidraw.md",
-    "Excalidraw/25. Green's Theorem over Surfaces 2024-04-18 08.25.10.excalidraw.md",
-    "Calculus III/15 & 16. Double Integrals.md",
+    "Political Science 102/Intro to Comparative Politics.md",
+    "Political Science 102/Political Culture.md",
+    "Political Science 102/Chapter 7 Cultural Determinants.md",
+    "Political Science 102/Excalidraw/Chapter 7 Cultural Determinants 2024-08-26 14.16.18.excalidraw.md",
+    "Political Science 102/Excalidraw",
+    "Political Science 102/1.1.md",
+    "Differential Equations/Week 1.md",
+    "Electrical Engineering 214/Introduction to Electrical Engineering.md",
+    "Differential Equations",
+    "Linear Algebra/Linear Algebra/5.2 Characteristic Equations.md",
+    "Linear Algebra/Linear Algebra/6.2 Orthogonal Sets.md",
+    "Linear Algebra/Linear Algebra/6.3 Orthogonal Projections.md",
+    "Linear Algebra/Linear Algebra/Exam 2 Review.md",
+    "Linear Algebra/Linear Algebra/Exam 2 Review Lecture.md",
+    "Linear Algebra/Linear Algebra/Final Exam Review.md",
+    "Linear Algebra/Linear Algebra/Final Exam Review Lecture.md",
+    "Linear Algebra/Linear Algebra/Inverse Matrix Theorem.md",
+    "Calculus III/20. Spherical Coordinates.md",
+    "Political Science 102",
     "Calculus III/14. Finding Local Extrema for f(x,y).md",
+    "Linear Algebra/Untitled",
+    "Calculus III/Political Science 102",
+    "Calculus III/10. Partial Derivatives.md",
+    "Calculus III/12. The Gradient and Directional Derivative.md",
+    "Linear Algebra/Linear Algebra/3.2 Properties of Determinants.md",
+    "Linear Algebra/Linear Algebra/3.1 Introduction to Determinants.md",
+    "Linear Algebra/Linear Algebra/1.9 Matrix of Linear Transformation.md",
+    "Linear Algebra/Linear Algebra/1.3 Vector Equations.md",
+    "APUSH/APUSH Daily Journals/APUSH Daily Journal pt. 5.md",
+    "Electrical Engineering 214",
+    "Calculus III/Excalidraw/25. Green's Theorem over Surfaces/25. Green's Theorem over Surfaces 2024-04-18 08.20.33.excalidraw.md",
+    "Calculus III/25. Green's Theorem over Surfaces.md",
+    "Calculus III/Excalidraw/25. Green's Theorem over Surfaces",
+    "Calculus III/Excalidraw/24. Green's Theorem",
     "Calculus III/Excalidraw/23. Conservative Vector Fields & The Fundamental Theorem of Calculus for Line Integrals",
     "Calculus III/Excalidraw/22. Integrals over Curves",
-    "Calculus III/Excalidraw/21. Vector Fields",
-    "Calculus III/Excalidraw/20. Spherical Coodinates",
-    "AP Computer Science/Unit 7",
-    "AP Computer Science/Unit 6",
-    "AP Computer Science/Unit 5",
-    "AP Computer Science/Unit 4",
-    "Calculus III/Excalidraw/18. Triple Integrals",
-    "AP Computer Science/Unit 2/Graphics",
     "APUSH/Unit 7 (1890 - 1945)/Images/TeddyBear.png",
     "AP Chemistry/Unit 8/Images/Ice Heating Curve Labelled.png",
     "AP Chemistry/Unit 8/Images/Ice Heating Curve.png",
