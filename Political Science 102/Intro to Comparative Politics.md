@@ -1,5 +1,6 @@
 ---
 created: 8-22-2024
+tags: POL_S_102
 ---
 
 
@@ -119,3 +120,5 @@ Norms, values, beliefs, religion affect political outcomes.
 - Ethnic conflict
 	- What is ethnic conflict, and how may it affect political outcomes?
 
+>[!lightbulb] Conclusion
+>Civic culture is necessary for a stable democracy.
