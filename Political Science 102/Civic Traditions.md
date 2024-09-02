@@ -35,3 +35,21 @@
 				- e.g. "very satisfied/trustworthy" as 10, "very dissatisfied/untrustworthy" as 0
 		- How to measure Y?
 			- Number of years that society has had continuous democratic institutions.
+
+### But, Economics Matter too for Inglehart
+
+Economic change -> cultural change -> stable democracy
+
+Industrialization -> shift from traditional to secular-rational values -> civic culture
+
+- Role of technology and economic growth:
+	- People have more autonomy over their lives
+	- More resources
+	- Their concerns shift
+- Shift to personal/individual autonomy
+	- Move away from all-encompassing religious doctrines that apply to everyone
+	- Respect for difference, right to live life as they please (within limits)
+	- Self-expression
+	- Questioning of authorities, hierarchies, dogmatism
+	- This is "secular-rational"
+	- THIS is civic culture
